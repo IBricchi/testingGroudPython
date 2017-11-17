@@ -1,0 +1,3662 @@
+﻿***The(1) Project(2) Gutenberg's(3) Etext(4) of(5) Shakespeare's(6) First(7) Folio***(8)
+********************The(9) Tragedie(10) 4 Macbeth*********************(11)
+
+This(12) is(13) our(14) 3rd(15) edition(16) 4 most(17) 4 these(18) plays.(19) See(20) the(21) index.(22)
+
+
+Copyright(23) laws(24) are(25) changing(26) all(27) over(28) 20 world,(29) be(30) sure(31) to(32) check(33)
+20 copyright(34) 23 for(35) your(36) country(37) before(38) posting(39) 17 files!!(40)
+
+Please(41) take(42) a(43) look(44) at(45) 20 important(46) information(47) in(48) this(49) header.(50)
+We(51) encourage(52) you(53) 31 keep(54) 48 file(55) on(56) 35 own(57) disk,(58) keeping(59) an(60)
+electronic(61) path(62) open(63) 34 20 next(64) readers.(65) Do(66) not(67) remove(68) this.(69)
+
+
+**Welcome(70) To(71) The(72) World(73) 4 Free(74) Plain(75) Vanilla(76) Electronic(77) Texts**(78)
+
+**Etexts(79) Readable(80) By(81) Both(82) Humans(83) and(84) 80 Computers,(85) Since(86) 1971**(87)
+
+*These(88) Etexts(89) Prepared(90) 80 Hundreds(91) 4 Volunteers(92) 83 Donations*(93)
+
+Information(94) 55 contacting(95) 1 Gutenberg(96) 31 get(97) Etexts,(98) 83
+further(99) 46 12 included(100) below.(101) 50 need(102) 35 donations.(103)
+
+
+71 9 4 Macbeth(104)
+
+by(105) William(106) Shakespeare(107)
+
+July,(108) 2000(109) [Etext(110) #2264](111)
+
+
+***The(112) 1 2 3 4 5 6 7
+8 9 4 10
+
+*****This(113) 54 should(114) 29 named(115) 2264.txt(116) or(117) 2264.zip******(118)
+
+1 95 88 24 usually(119) created(120) from(121) multiple(122) editions,(123)
+26 4 which(124) 24 47 20 Public(125) Domain(126) 47 20 United(127) States,(128) unless(129) 42
+33 notice(130) 12 included.(131) Therefore,(132) we(133) 118 do(134) NOT(135) 53 any(136)
+4 17 books(137) 47 compliance(138) with(139) 135 particular(140) paper(141) edition.(142)
+
+
+50 24 now(143) trying(144) 31 release(145) 26 13 136 one(146) month(147) 47 advance(148)
+4 20 official(149) 144 dates,(150) leaving(151) time(152) 34 better(153) editing.(154)
+
+40 note:(155) neither(156) 48 list(157) nor(158) its(159) contents(160) 24 final(161) till(162)
+midnight(163) 4 20 last(164) day(165) 4 20 146 4 135 such(166) announcement.(167)
+71 148 144 date(168) 4 26 1 95 88 12 44
+Midnight,(169) Central(170) Time,(171) 4 20 163 164 4 20 stated(172) month.(173) A(174)
+preliminary(175) version(176) may(177) often(178) 29 posted(179) 34 suggestion,(180) comment(181)
+83 editing(182) 104 those(183) who(184) wish(185) 31 133 so.(186) 70 29 30 52 have(187) 59
+up(188) 31 167 first(189) 15 [xxxxx10x.xxx](190) please(191) 32 54 sizes(192)
+47 20 188 week(193) 4 20 63 172 85 13 ftp(194) program(195) has(196)
+42 bug(197) 47 it(198) that(199) scrambles(200) 20 167 [tried(201) 31 fix(202) 83 failed](203) 42
+43 44 20 54 size(204) will(205) 186 31 do,(206) but(207) 132 204 try(208) 31 see(209) 42
+new(210) copy(211) 195 44 least(212) 145 byte(213) more(214) 116 less.(215)
+
+
+93 about(216) 1 95 (one(217) page)(218)
+
+50 produce(219) 215 two(220) million(221) dollars(222) 34 each(223) hour(224) 132 work.(225) 71
+151 197 takes(226) us,(227) 42 rather(228) conservative(229) estimate,(230) 12 fifty(231) hours(232)
+31 96 135 etext(233) selected,(234) entered,(235) proofread,(236) edited,(237) 33
+searched(238) 83 analyzed,(239) 20 33 letters(240) written,(241) etc.(242) 11
+projected(243) audience(244) 12 145 hundred(245) 220 64 If(246) 13 value(247)
+per(248) text(249) 12 nominally(250) estimated(251) 44 145 dollar(252) then(253) 132 218 $2(254)
+220 221 247 223 48 year(255) as(256) 132 144 thirty-six(257) 248
+files(258) 247 month,(259) 116 432(260) 213 88 47 1999(261) 34 42 total(262) 4 2000+(263)
+245 17 reach(264) just(265) 10%(266) 4 20 computerized(267) population,(268) 252 20
+261 113 263 27 200(269) billion(270) 88 given(271) away(272) 48 year.(273)
+
+71 Goal(274) 4 1 95 12 31 Give(275) Away(276) One(277) Trillion(278) 3
+Files(279) 104 December(280) 31,(281) 2001.(282) [10,000(283) x(284) 100,000,000(285) =(286) 1(287) Trillion](288)
+11 12 ten(289) thousand(290) titles(291) 222 31 145 244 220 readers,(292)
+123 12 only(293) ~5%(294) 4 20 present(295) number(296) 4 computer(297) users.(298)
+
+At(299) 13 revised(300) rates(301) 4 production,(302) 132 204 263 292 one-third(303)
+4 198 goal(304) 104 20 end(305) 4 2001,(306) 116 215 3,333(307) 88 128 132
+manage(308) 31 96 some(309) real(310) funding;(311) currently(312) 13 funding(313) 12 mostly(314)
+120 Michael(315) Hart's(316) salary(317) 44 Carnegie-Mellon(318) University,(319) 83 59
+assortment(320) 4 sporadic(321) gifts;(322) 48 316 12 292 good(323) 34 42 few(324)
+213 years,(325) so(326) 132 24 looking(327) 34 something(328) 31 replace(329) it,(330) 255 132
+don't(331) want(332) 1 95 31 29 325 dependent(333) 55 145 person.(334)
+
+50 101 35 donations(335) 213 than(336) ever!(337)
+
+
+All(338) 334 113 29 made(339) 31 "Project(340) Gutenberg/CMU":(341) 83 24
+tax(342) deductible(343) 31 20 extent(344) allowable(345) 104 law.(346) (CMU(347) 285 Carnegie-(348)
+Mellon(349) University).(350)
+
+For(351) 17 83 other(352) matters,(353) 190 mail(354) to:(355)
+
+1 95
+P.(356) O.(357) Box(358) 2782(359)
+Champaign,(360) IL(361) 61825(362)
+
+When(363) 26 351 email(364) fails.(365) .(366) .try(367) 13 Executive(368) Director:(369)
+314 S.(370) Hart(371) <hart@pobox.com>(372)
+hart@pobox.com(373) forwards(374) 31 hart@prairienet.org(375) 83 archive.org(376)
+if(377) 35 353 bounces(378) 120 archive.org,(379) I(380) 204 still(381) 208 329 376
+197 377 120 prairienet.org,(382) 152 resend(383) later(384) on.(385) 365 365 365
+
+50 would(386) prefer(387) 31 send(388) 52 48 46 104 email.(389)
+
+******(390)
+
+70 access(391) 1 95 etexts,(392) use(393) 135 Web(394) browser(395)
+31 view(396) http://promo.net/pg.(397) 11 site(398) lists(399) 88 104
+author(400) 83 104 title,(401) 83 includes(402) 46 215 how(403)
+31 96 involved(404) 138 1 Gutenberg.(405) You(406) could(407) also(408)
+download(409) 13 past(410) Newsletters,(411) 116 subscribe(412) here.(413) 11
+12 145 4 13 major(414) sites,(415) 190 363 hart@pobox.com,(416)
+34 42 213 complete(417) 156 4 13 various(418) sites.(419)
+
+70 go(420) directly(421) 31 20 232 collections,(422) 392 FTP(423) 116 135
+393 394 31 visit(424) 42 1 95 mirror(425) (mirror(426)
+sites(427) 24 available(428) 55 7(429) continents;(430) mirrors(431) 24 listed(432)
+44 http://promo.net/pg).(433)
+
+Mac(434) users,(435) 133 134 point(436) 83 click,(437) typing(438) works(439) better.(440)
+
+Example(441) 422 session:(442)
+
+193 sunsite.unc.edu(443)
+login:(444) anonymous(445)
+password:(446) your@login(447)
+cd(448) pub/docs/books/gutenberg(449)
+447 etext90(450) through(451) etext99(452)
+dir(453) [to(454) 208 files](455)
+96 116 mget(456) 453 96 files.(457) 365 .set(458) bin(459) 34 zip(460) 454
+GET(461) GUTINDEX.??(462) 453 96 42 year's(463) listing(464) 4 books,(465) e.g.,(466) GUTINDEX.99](467)
+460 GUTINDEX.ALL(468) 453 96 42 463 4 ALL(469) books](470)
+
+***(471)
+
+**Information(472) prepared(473) 104 20 1 95 legal(474) advisor**(475)
+
+(Three(476) Pages)(477)
+
+
+***START**THE(478) SMALL(479) PRINT!**FOR(480) PUBLIC(481) DOMAIN(482) ETEXTS**START***(483)
+Why(484) 12 48 "Small(485) Print!"(486) statement(487) here?(488) 405 know:(489) lawyers.(490)
+They(491) tell(492) us(493) 52 might(494) sue(495) 492 376 there(496) 12 327 wrong(497) 138
+35 210 4 48 etext,(498) even(499) 376 52 got(500) 197 34 free(501) 120
+someone(502) 351 335 226 83 498 376 what's(503) 496 12 66 13
+fault.(504) So,(505) among(506) 351 things,(507) 48 484 485 486
+disclaims(508) 16 4 13 liability(509) 31 you.(510) It(511) 407 tells(512) 52 402
+52 can(513) distribute(514) copies(515) 4 48 232 376 52 331 to.(516)
+
+*BEFORE!*(517) YOU(518) USE(519) OR(520) READ(521) THIS(522) ETEXT(523)
+80 using(524) 116 reading(525) 135 part(526) 4 48 PROJECT(527) GUTENBERG-tm(528)
+497 52 indicate(529) 198 52 understand,(530) agree(531) 31 83 accept(532)
+48 484 485 statement.(533) 245 52 133 not,(534) 52 512 receive(535)
+42 refund(536) 4 20 money(537) (if(538) any)(539) 52 paid(540) 34 48 232 104
+sending(541) 42 request(542) within(543) 30(544) days(545) 4 receiving(546) 197 31 20 person(547)
+52 499 197 from.(548) 245 52 received(549) 48 232 55 42 physical(550)
+medium(551) (such(552) 255 42 disk),(553) 52 must(554) return(555) 197 138 35 request.(556)
+
+ABOUT(557) 526 GUTENBERG-TM(558) ETEXTS(559)
+11 526 527 497 like(560) 16 526 GUTENBERG-(561)
+tm(562) 391 12 42 "public(563) domain"(564) work(565) distributed(566) 104 Professor(567)
+314 369 370 450 20 1 95 Association(568) 44
+317 University(569) (the(570) "Project").(571) Among(572) 351
+506 48 means(573) 198 no(574) 145 owns(575) 42 126 States(576) 33
+55 116 34 48 work,(577) 325 20 1 (and(578) you!)(579) 512 210 83
+513 197 47 20 126 575 without(580) permission(581) 83
+579 paying(582) 33 royalties.(583) Special(584) rules,(585) set(586) forth(587)
+below,(588) apply(589) 376 52 184 31 210 83 513 48 232
+under(590) 20 Project's(591) "PROJECT(592) GUTENBERG"(593) trademark.(594)
+
+70 create(595) 17 391 20 1 expends(596) considerable(597)
+efforts(598) 31 identify,(599) transcribe(600) 83 proofread(601) public(602) domain(603)
+works.(604) Despite(605) 17 efforts,(606) 20 590 etexts(607) 83 135
+550 they(608) 176 29 55 176 contain(609) "Defects".(610) 571 351
+506 Defects(611) 176 41 20 form(612) 4 incomplete,(613) inaccurate(614) 116
+corrupt(615) data,(616) transcription(617) errors,(618) 42 33 116 351
+intellectual(619) property(620) infringement,(621) 42 defective(622) 116 damaged(623)
+disk(624) 116 351 232 medium,(625) 42 296 virus,(626) 116 296
+codes(627) 198 damage(628) 116 cannot(629) 29 read(630) 104 35 equipment.(631)
+
+LIMITED(632) WARRANTY;(633) DISCLAIMER(634) OF(635) DAMAGES(636)
+But(637) 34 20 "Right(638) 4 Replacement(639) 116 Refund"(640) described(641) 587
+[1](642) 20 1 577 135 351 party(643) 52 176 534 48
+232 120 255 42 526 527 etext)(644) 507 26
+508 31 52 34 damages,(645) costs(646) 83 expenses,(647) including(648)
+473 fees,(649) 83 [2](650) 517 HAVE(651) NO(652) REMEDIES(653) FOR(654) NEGLIGENCE(655) 519
+UNDER(656) STRICT(657) LIABILITY,(658) 519 653 BREACH(659) 634 WARRANTY(660) 519 CONTRACT,(661)
+INCLUDING(662) BUT(663) 134 631 TO(664) INDIRECT,(665) CONSEQUENTIAL,(666) PUNITIVE(667)
+519 INCIDENTAL(668) DAMAGES,(669) EVEN(670) IF(671) 517 GIVE(672) NOTICE(673) 634 THE(674)
+POSSIBILITY(675) 634 SUCH(676) DAMAGES.(677)
+
+245 52 discover(678) 42 Defect(679) 47 48 232 542 90(680) 544 4
+545 329 52 512 534 42 535 4 20 536 537 538
+52 539 34 197 104 540 59 explanatory(681) note(682) 542 198
+151 31 20 546 52 548 197 547 245 52 548 197
+55 42 549 624 52 553 554 197 138 35 note,(683) 83
+165 546 176 choose(684) 31 alternatively(685) give(686) 52 42 replacement(687)
+copy.(688) 245 52 548 197 electronically,(689) 165 546 176
+683 31 684 685 52 42 second(690) opportunity(691) 31
+534 197 electronically.(692)
+
+521 522 IS(693) OTHERWISE(694) PROVIDED(695) 663 517 "AS-IS".(696) 651 OTHER(697)
+WARRANTIES(698) 634 ANY(699) KIND,(700) EXPRESS(701) 519 IMPLIED,(702) ARE(703) MADE(704) 663 517 AS(705)
+663 673 522 519 698 MEDIUM(706) IT(707) MAY(708) BE(709) ON,(710) 661 662 134
+631 663 697 634 MERCHANTABILITY(711) 519 FITNESS(712) 653 173
+PARTICULAR(713) PURPOSE.(714)
+
+Some(715) states(716) 133 66 allow(717) disclaimers(718) 4 implied(719) warranties(720) 116
+20 exclusion(721) 116 limitation(722) 4 consequential(723) 644 325 20
+above(724) 717 83 exclusions(725) 176 66 588 31 you,(726) 83 52
+176 186 351 473 rights.(727)
+
+INDEMNITY(728)
+405 204 indemnify(729) 83 hold(730) 20 Project,(731) 158 directors,(732)
+officers,(733) members(734) 83 agents(735) harmless(736) 120 26 liability,(737) cost(738)
+83 expense,(739) 647 473 648 198 arise(740) 420 116
+indirectly(741) 120 135 4 20 following(742) 198 52 133 116 cause:(743)
+641 distribution(744) 4 48 497 649 alteration,(745) modification,(746)
+116 addition(747) 31 20 497 116 [3](748) 135 Defect.(749)
+
+DISTRIBUTION(750) 655 591 GUTENBERG-tm"(751)
+405 176 513 514 4 48 232 688 116 104
+57 book(752) 116 135 351 550 376 52 either(753) delete(754) 48
+484 485 83 26 351 references(755) 31 1 Gutenberg,(756)
+or:(757)
+
+641 Only(758) 685 exact(759) 514 4 it.(760) 571 351 506 48
+requires(761) 198 52 133 66 remove,(762) alter(763) 116 modify(764) 20
+232 116 48 "small(765) print!"(766) 532 405 176 however,(767)
+376 52 wish,(768) 513 48 232 47 machine(769) readable(770)
+binary,(771) compressed,(772) mark-up,(773) 116 proprietary(774) form,(775)
+647 135 611 resulting(776) 120 conversion(777) 104 word(778) pro-(779)
+cessing(780) 116 hypertext(781) software,(782) 206 292 325 long(783) 255
+*EITHER*:(784)
+
+[*](785) 71 497 when(786) displayed,(787) 12 clearly(788) readable,(789) 83
+does(790) *not*(791) 608 characters(792) 351 335 182
+intended(793) 104 20 399 4 20 576 although(794) tilde(795)
+(~),(796) asterisk(797) (*)(798) 83 underline(799) (_)(800) 791 176
+29 used(801) 31 convey(802) punctuation(803) 792 104 20
+author,(804) 83 additional(805) 791 176 29 800 31
+528 780 links;(806) 519
+
+784 71 232 176 29 readily(807) converted(808) 104 20 reader(809) 44
+573 expense(810) into(811) plain(812) ASCII,(813) EBCDIC(814) 116 equivalent(815)
+611 104 20 194 198 displays(816) 20 232 (as(817) 12
+20 case,(818) 34 instance,(819) 138 16 777 processors);(820)
+519
+
+784 405 provide,(821) 116 530 31 407 provide(822) 55 541 44
+573 804 cost,(823) fee(824) 116 738 42 210 4 20
+232 47 158 original(825) 811 ASCII(826) 611 (or(827) 47 813
+116 351 814 773 form).(828)
+
+649 Honor(829) 20 232 535 83 686 provisions(830) 4 48
+484 485 532
+
+747 Pay(831) 42 trademark(832) license(833) 823 31 20 1 4 20%(834) 4 20
+net(835) profits(836) 52 derive(837) calculated(838) 523 20 method(839) 52
+already(840) 392 31 calculate(841) 35 applicable(842) taxes.(843) 245 52
+330 836 profits,(844) 573 royalty(845) 12 due.(846) Royalties(847) 24
+payable(848) 31 339 95 Association/Carnegie-Mellon(849)
+University"(850) 542 20 60(851) 544 741 222
+167 52 prepare(852) 826 were(853) legally(854) required(855) 31 prepare)(856)
+35 annual(857) 826 814 periodic)(858) 341 return.(859)
+
+WHAT(860) 670 517 *WANT*(861) 663 SEND(862) MONEY(863) 669 670 517 DON'T(864) 650 TO?(865)
+71 1 gratefully(866) accepts(867) contributions(868) 47 money,(869) time,(870)
+scanning(871) machines,(872) OCR(873) 781 601 602 391 844
+500 33 licenses,(874) 83 every(875) 351 sort(876) 4 contribution(877)
+52 512 think(878) of.(879) Money(880) 113 29 539 31 339 95
+567 /(881) 317 University".(882)
+
+*END*THE(883) 478 PRINT!(884) 653 480 481 ETEXTS*Ver.04.29.93*END*(885)
+
+
+
+
+
+1 2 3 4 5 71 9 4 103
+
+
+
+
+
+367 Director's(886) Notes:(887)
+
+In(888) 746 31 20 notes(889) 587 83 325 52 204 *NOT*(890) 877 26
+20 spelling(891) errors(892) introduced(893) 104 20 printers(894) 4 20 151 186
+been(895) corrected,(896) here(897) 24 20 188 323 lines(898) 4 Hamlet,(899) 255 607
+24 presented(900) herein:(901)
+
+Barnardo.(902) Who's(903) there?(904)
+Fran.(905) Nay(906) answer(907) me:(908) Stand(909) &(910) vnfold(911)
+35 selfe(912)
+
+Bar.(913) Long(914) liue(915) 20 King(916)
+
+470
+
+As(917) 379 understand(918) 329 20 893 177 ran(919) out(920) 4 certain(921) words(922)
+116 239 607 had(923) 177 packed(924) 810 42 "cliche".(925) 365 .this(926) 12 20
+824 meaning(927) 4 20 term(928) cliche.(929) 365 .and(930) thus,(931) being(932) unwilling(933)
+31 unpack(934) 20 cliches,(935) 83 thus(936) 52 204 208 308 substitutions(937)
+198 43 very(938) odd.(939) 365 .such(940) 255 20 exchanges(941) 4 u(942) 34 v,(943) v(944) 34 u,(945)
+above.(946) 365 929 52 176 wonder(947) why(948) 607 did(949) 197 48 way,(950) presuming(951)
+106 948 66 actually(952) write(953) 20 play(954) 47 48 manner.(955) 365 365 365
+
+71 906 12 198 607 707 186 923 "liue"(956) 810 42 cliche(957) 44 42
+151 785 607 852 919 4 "v"'s.(958) 365 .possibly(959) having(960) 800 "vv"(961) 47
+place(962) 4 308 "w"'s,(963) 241 11 was(964) 42 common(965) practice(966) 4 20 day,(967)
+255 print(968) 963 380 quite(969) expensive,(970) 83 607 didn't(971) 331 31 spend(972)
+213 55 42 wider(973) selection(974) 4 791 335 607 922 515
+
+405 204 find(975) 42 lot(976) 4 17 kinds(977) 4 "errors"(978) 47 48 text,(979) 255 379
+186 mentioned(980) 47 351 times(981) 83 places,(982) many(983) "scholars"(984) 186 59
+extreme(985) attachment(986) 31 17 617 83 982 186 accorded(987) them(988) 42
+937 high(989) 961 47 20 "canon"(990) 4 Shakespeare.(991) My(992) father(993) 629 59
+319 4 17 338 427 31 him(994) 104 Cambridge(995) 568
+47 England(996) 34 several(997) months(998) 47 42 glass(999) room(1000) constructed(1001) 34 20
+purpose.(1002) 70 20 best(1003) 4 my(1004) knowledge(1005) he(1006) 629 468 182 427
+365 365 .in(1007) great(1008) detail.(1009) 365 929 determined(1010) 120 20 417 changes,(1011)
+198 106 16 likely(1012) 948 66 952 47 nearly(1013) 255 982 4 42
+variety(1014) 4 891 132 credit(1015) 993 for,(1016) 498 though(1017) 1005 963 in/famous(1018)
+34 signing(1019) his(1020) name(1021) 138 996 different(1022) spellings.(1023)
+
+504 190 41 48 810 account(1024) 785 524 20 comments(1025) below(1026)
+338 104 13 volunteer(1027) 183 472 48 file:(1028) 52 176 208 891
+198 24 "not"(1029) errors.(1030) 365 365 365
+
+So.(1031) 365 .with(1032) 48 caveat.(1033) 365 .we(1034) 186 134 changed(1035) 20 canon(1036) 617
+896 12 20 1 95 3 4 5 71 9
+4 Macbeth.(1037)
+
+314 369 370
+1 95
+367 Director(1038)
+
+
+470
+
+
+Scanner's(1039) 886 What(1040) 48 12 83 isn't.(1041) 11 963 taken(1042) 120
+42 210 4 5 188 folio(1043) 83 197 12 255 close(1044) 255 379 512
+come(1045) 47 825 31 20 printed(1046) text.(1047)
+
+71 elongated(1048) S's(1049) 186 894 1034 31 small(1050) s's(1051) 83 20
+conjoined(1052) ae(1053) 186 894 1034 31 ae.(1054) 379 186 left(1055) 20 spelling,(1056)
+punctuation,(1057) capitalization(1058) 255 1043 255 possible(1059) 31 20
+1045 1046 379 186 corrected(1060) 308 890 mistakes(1061) (I(1062) 186 put(1063)
+together(1064) 42 890 dictionary(1065) devised(1066) 120 20 spellings(1067) 4 20
+Geneva(1068) Bible(1069) 83 5 6 Folio(1070) 83 186 unified(1071)
+1066 according(1072) 31 48 template),(1073) typo's(1074) 83 expanded(1075)
+abbreviations(1076) 255 379 186 1044 across(1077) them.(1078) Everything(1079) 542
+brackets(1080) [](1081) 12 what(1082) 379 186 added.(1083) So(1084) 376 52 330 559 198
+52 512 753 everything(1085) 542 20 1079 376 52 331 42
+purer(1086) 990
+
+Another(1087) thing(1088) 198 52 113 29 aware(1089) 4 12 198 495 24 textual(1090)
+differences(1091) between(1092) 417 514 4 20 188 folio.(1093) 1083 495 176
+29 1090 (other(1094) 335 1081 379 186 979 above)(1095) 1091
+48 83 351 188 1042 editions.(1096) 11 12 due(1097) 31 20 printer's(1098)
+habit(1099) 4 setting(1100) 20 type(1101) 83 running(1102) off(1103) 42 295 4 514 83
+252 proofing(1104) 20 1045 210 83 correcting(1105) 20 1100 83 252
+continuing(1106) 20 printing(1107) run.(1108) 71 proof(1109) run(1110) wasn't(1111) thrown(1112) 271 206
+incorporated(1113) 810 20 1045 copies.(1114) 11 12 264 20 way(1115) 197 is.(1116)
+71 248 379 186 800 963 42 composite(1117) 4 213 335 543 1021
+6 1069 editions'(1118) 1002 pages.(1119)
+
+245 52 974 135 870 617 919 83 919 typos,(1120) 802
+617 116 376 52 disagree(1121) 138 1003 890 choices(1122) 190 feel(1123)
+500 31 363 me(1124) 182 1029 379 184 31 make(1125) 48 20 1002
+232 possible.(1126) 991 363 address(1127) 34 right(1128) 142 24 haradda@aol.com(1129)
+83 davidr@inconnect.com.(1130) 379 hope(1131) 198 52 enjoy(1132) 68
+
+David(1133) Reed(1134)
+
+71 9 4 103
+
+Actus(1135) Primus.(1136) Scoena(1137) Prima.(1138)
+
+Thunder(1139) 83 Lightning.(1140) Enter(1141) three(1142) Witches.(1143)
+
+1.(1144) 362 shall(1145) 132 1141 meet(1146) againe?(1147)
+887 Thunder,(1148) Lightning,(1149) 116 47 Raine?(1150)
+2.(1151) 362 20 Hurley-burley's(1152) done,(1153)
+362 20 Battaile's(1154) lost,(1155) 83 wonne(1156)
+
+3.(1157) That(1158) 204 29 ere(1159) 20 585 4 Sunne(1160)
+
+1143 Where(1161) 20 place?(1162)
+1150 Vpon(1163) 20 Heath(1164)
+
+1156 There(1165) 31 1145 138 103
+
+1143 379 come,(1166) Gray-Malkin(1167)
+
+All.(1168) Padock(1169) calls(1170) anon:(1171) faire(1172) 12 foule,(1173) 83 foule(1174) 12 faire,(1175)
+Houer(1176) 450 20 fogge(1177) 83 filthie(1178) ayre.(1179)
+
+Exeunt.(1180)
+
+
+Scena(1181) Secunda.(1182)
+
+Alarum(1183) within.(1184) 1140 King,(1185) Malcome,(1186) Donalbaine,(1187) Lenox,(1188) 138
+attendants,(1189) meeting(1190) 42 bleeding(1191) Captaine.(1192)
+
+King.(1193) 1039 bloody(1194) man(1195) 12 that?(1196) 1005 512 report,(1197)
+916 seemeth(1198) 104 1019 plight,(1199) 4 20 Reuolt(1200)
+71 newest(1201) state(1202)
+
+Mal.(1203) 11 12 20 Serieant,(1204)
+Who(1205) 559 42 322 83 hardie(1206) Souldier(1207) fought(1208)
+'Gainst(1209) 1003 Captiuitie:(1210) Haile(1211) braue(1212) friend;(1213)
+Say(1214) 31 20 1184 20 1004 4 20 Broyle,(1215)
+916 thou(1216) didst(1217) leaue(1218) 197
+
+Cap.(1219) Doubtfull(1220) 197 stood,(1221)
+916 219 spent(1222) Swimmers,(1223) 198 doe(1224) cling(1225) together,(1226)
+And(1227) choake(1228) their(1229) Art:(1230) 71 mercilesse(1231) Macdonwald(1232)
+(Worthie(1233) 31 29 42 Rebell,(1234) 34 31 198
+71 multiplying(1235) Villanies(1236) 4 Nature(1237)
+Doe(1238) swarme(1239) vpon(1240) him)(1241) 120 20 Westerne(1242) Isles(1243)
+Of(1244) Kernes(1245) 83 Gallowgrosses(1246) 12 supply'd,(1247)
+1226 Fortune(1248) 55 1019 damned(1249) Quarry(1250) smiling,(1251)
+Shew'd(1252) 559 42 Rebells(1253) Whore:(1254) 206 all's(1255) too(1256) weake:(1257)
+350 1211 103 (well(1258) hee(1259) deserues(1260) 198 Name)(1261)
+Disdayning(1262) Fortune,(1263) 138 1019 brandisht(1264) Steele,(1265)
+Which(1266) smoak'd(1267) 138 1193 execution(1268)
+(Like(1269) Valours(1270) Minion)(1271) caru'd(1272) 919 1019 passage,(1273)
+Till(1274) 1258 fac'd(1275) 20 Slaue:(1276)
+1265 neu'r(1277) shooke(1278) hands,(1279) 157 bad(1280) farwell(1281) 31 him,(1282)
+1273 1005 vnseam'd(1283) 993 120 20 Naue(1284) toth'(1285) Chops,(1286)
+1226 fix'd(1287) 1019 Head(1288) 1239 13 Battlements(1289)
+
+1192 O(1290) valiant(1291) Cousin,(1292) worthy(1293) Gentleman(1294)
+
+1218 916 whence(1295) 20 1159 'gins(1296) 1019 reflection,(1297)
+Shipwracking(1298) Stormes,(1299) 83 direfull(1300) Thunders:(1301)
+1083 120 198 Spring,(1302) 1294 comfort(1303) seem'd(1304) 31 1165
+Discomfort(1305) swells:(1306) Marke(1307) 915 4 Scotland,(1308) marke,(1309)
+No(1310) sooner(1311) Iustice(1312) had,(1313) 138 Valour(1314) arm'd,(1315)
+Compell'd(1316) 17 skipping(1317) 1244 31 trust(1318) 1228 heeles,(1319)
+636 20 Norweyan(1320) Lord,(1321) surueying(1322) vantage,(1323)
+With(1324) furbusht(1325) Armes,(1326) 83 209 supplyes(1327) 4 men,(1328)
+Began(1329) 42 fresh(1330) assault(1331)
+
+1192 Dismay'd(1332) 66 48 13 Captaines,(1333) 103 83
+Banquoh?(1334)
+1218 Yes,(1335) 255 Sparrowes,(1336) Eagles;(1337)
+Or(1338) 20 Hare,(1339) 20 Lyon:(1340)
+245 379 say(1341) sooth,(1342) 379 553 report(1343) 607 852
+916 Cannons(1344) ouer-charg'd(1345) 138 double(1346) Cracks,(1347)
+1083 607 doubly(1348) redoubled(1349) stroakes(1350) 1239 20 Foe:(1351)
+Except(1352) 607 meant(1353) 31 bathe(1354) 47 reeking(1355) Wounds,(1356)
+1337 memorize(1357) another(1358) Golgotha,(1359)
+379 628 tell:(1360) 206 379 am(1361) faint,(1362)
+991 Gashes(1363) cry(1364) 34 helpe(1365)
+
+1192 1083 well(1366) thy(1367) 921 become(1368) thee,(1369) 255 1366 wounds,(1370)
+490 smack(1371) 4 828 both:(1372) Goe(1373) 96 993 Surgeons.(1374)
+1140 Rosse(1375) 83 Angus.(1376)
+
+1204 comes(1377) 487
+1202 71 1292 Thane(1378) 4 1374
+
+Lenox.(1379) 1039 42 haste(1380) lookes(1381) 450 1019 eyes?(1382)
+1083 113 1005 looke,(1383) 198 seemes(1384) 31 speake(1385) things(1386) strange(1387)
+
+Rosse.(1388) God(1389) saue(1390) 20 915
+
+1192 Whence(1391) cam'st(1392) thou,(1393) 1292 Thane?(1394)
+1387 From(1395) Fiffe,(1396) 1007 1184
+1160 20 1319 Banners(1397) flowt(1398) 20 Skie,(1399)
+1226 fanne(1400) 13 people(1401) cold.(1402)
+Norway(1403) himselfe,(1404) 138 terrible(1405) numbers,(1406)
+Assisted(1407) 104 198 16 disloyall(1408) Traytor,(1409)
+71 1377 4 Cawdor,(1410) began(1411) 42 dismall(1412) Conflict,(1413)
+1273 198 Bellona's(1414) Bridegroome,(1415) lapt(1416) 47 proofe,(1417)
+Confronted(1418) 993 138 selfe-comparisons,(1419)
+Point(1420) against(1421) Point,(1422) rebellious(1423) Arme(1424) 'gainst(1425) Arme,(1426)
+Curbing(1427) 1019 lauish(1428) spirit:(1429) 83 31 conclude,(1430)
+71 Victorie(1431) fell(1432) 55 vs(1433)
+
+1192 Great(1434) happinesse(1435)
+
+1387 1157 142 Sweno,(1436) 20 Norwayes(1437) 1184
+Craues(1438) composition:(1439)
+Nor(1440) 385 132 deigne(1441) 993 buriall(1442) 4 1019 1327
+1273 1005 disbursed,(1443) 44 Saint(1444) Colmes(1445) ynch,(1446)
+Ten(1447) 289 Dollars,(1448) 31 13 generall(1449) vse(1450)
+
+1192 1309 213 198 1377 4 Cawdor(1451) 1144 deceiue(1452)
+Our(1453) Bosome(1454) interest:(1455) 1372 pronounce(1456) 1019 294 death,(1457)
+1226 138 1019 former(1458) Title(1459) greet(1460) 103
+
+1387 Ile(1461) 208 197 done(1462)
+
+1192 1039 1005 hath(1463) 1154 Noble(1464) 103 1462 wonne.(1465)
+
+1179
+
+
+1180 Tertia.(1466)
+
+Thunder.(1467) 1140 20 1141 1142
+
+1143 1160 hast(1468) 1215 beene,(1469) Sister?(1470)
+1150 Killing(1471) Swine(1472)
+
+1156 Sister,(1473) where(1474) thou?(1475)
+1143 173 Saylors(1476) Wife(1477) 922 Chestnuts(1478) 47 her(1479) Lappe,(1480)
+1226 mouncht,(1481) 909 1480 83 mouncht:(1482)
+Giue(1483) me,(1484) quoth(1485) I.(1486)
+Aroynt(1487) 1368 Witch,(1488) 20 rumpe-fed(1489) Ronyon(1490) cryes.(1491)
+Her(1492) Husband's(1493) 31 Aleppo(1494) gone,(1495) Master(1496) o'th'(1497) Tiger:(1498)
+636 47 42 Syue(1499) 1460 thither(1500) sayle,(1501)
+1226 559 42 Rat(1502) 579 42 tayle,(1503)
+1460 doe,(1504) 1460 1503 83 1460 1223
+
+1150 1460 giue(1505) thee(1506) 42 Winde(1507)
+
+1143 Th'art(1508) kinde(1509)
+
+1156 1226 379 1357
+
+1143 379 1003 911 haue(1510) 26 20 other,(1511)
+1226 20 937 Ports(1512) 607 blow,(1513)
+337 20 Quarters(1514) 198 607 know,(1515)
+I'th'(1516) Ship-mans(1517) Card.(1518)
+1460 dreyne(1519) 993 drie(1520) 255 Hay:(1521)
+Sleepe(1522) 1144 neyther(1523) Night(1524) 157 Day(1525)
+Hang(1526) 1239 1019 Pent-house(1527) Lid:(1528)
+He(1529) 1144 914 42 1194 forbid:(1530)
+Wearie(1531) Seu'nights,(1532) nine(1533) 980 nine,(1534)
+Shall(1535) 1005 dwindle,(1536) peake,(1537) 83 pine:(1538)
+Though(1539) 1019 Barke(1540) 628 29 1154
+Yet(1541) 197 1144 29 Tempest-tost.(1542)
+Looke(1543) 1081 379 1509
+
+1150 Shew(1544) 1483 shew(1545) 1123
+
+1143 Here(1546) 379 1509 42 Pilots(1547) Thumbe,(1548)
+Wrackt,(1549) 255 homeward(1550) 1005 948 come.(1551)
+
+Drum(1552) 1183
+
+1156 173 Drumme,(1553) 42 Drumme:(1554)
+103 doth(1555) 1044
+
+1167 71 weyward(1556) Sisters,(1557) hand(1558) 47 hand,(1559)
+Posters(1560) 4 20 Sea(1561) 83 Land,(1562)
+Thus(1563) 1223 goe,(1564) about,(1565) 1564
+Thrice(1566) 31 thine,(1567) 83 thrice(1568) 31 mine,(1569)
+1226 1567 againe,(1570) 31 1124 vp(1571) nine.(1572)
+Peace,(1573) 20 Charme's(1574) wound(1575) vp.(1576)
+1140 103 83 Banquo.(1577)
+
+Macb.(1578) 1083 1173 83 1171 42 164 379 1509 66 seene(1579)
+
+1576 How(1580) farre(1581) is't(1582) call'd(1583) 31 Soris?(1584) 1039 24 these,(1585)
+1083 wither'd,(1586) 83 325 wilde(1587) 47 1228 attyre,(1588)
+1157 looke(1589) 66 559 th'(1590) Inhabitants(1591) 1496 Earth,(1592)
+1226 yet(1593) 24 on't?(1594) Liue(1595) 725 116 24 52 aught(1596)
+1157 1194 176 question?(1597) 52 seeme(1598) 31 vnderstand(1599) 1483
+80 222 44 once(1600) 1478 choppie(1601) finger(1602) laying(1603)
+1162 1478 skinnie(1604) Lips:(1605) 52 113 29 Women,(1606)
+1226 1592 35 Beards(1607) forbid(1608) 1123 31 interprete(1609)
+1157 52 24 325
+
+Mac.(1610) Speake(1611) 376 52 can:(1612) 1081 24 you?(1613)
+1143 337 haile(1614) Macbeth,(1615) 1613 31 1505 1377 4 Glamis(1616)
+
+1150 337 1613 1614 1613 31 1505 1377 4 1450
+
+1156 337 1613 1614 198 shalt(1617) 29 915 hereafter(1618)
+
+Banq.(1619) Good(1620) Sir,(1621) 947 1223 52 start,(1622) 83 1597 31 feare(1623)
+Things(1624) 198 1223 sound(1625) 325 faire?(1626) i'th'(1627) 1020 4 truth(1628)
+Are(1629) ye(1630) fantasticall,(1631) 116 198 indeed(1632)
+1265 outwardly(1633) 1629 shew?(1634) 991 1463 Partner(1635)
+405 1459 138 294 Grace,(1636) 83 1007 prediction(1637)
+1243 1463 hauing,(1638) 83 4 Royall(1639) hope,(1640)
+1157 1005 1383 wrapt(1641) withall:(1642) 31 1123 52 1384 not.(1643)
+245 52 512 1588 810 20 Seedes(1644) 4 170
+1226 say,(1645) 123 Graine(1646) 204 grow,(1647) 83 123 204 533
+1610 252 31 1483 183 1522 begge,(1648) 157 1622
+Your(1649) fauors,(1650) 157 35 hate(1651)
+
+1143 Hayle(1652)
+
+1150 1651
+
+1156 1651
+
+1143 Lesser(1653) 335 1614 83 greater(1654)
+
+1150 Not(1655) 325 happy,(1656) 1592 much(1657) happyer(1658)
+
+1156 Thou(1659) 1616 96 Kings,(1660) 1016 1215 29 none:(1661)
+1083 26 1613 1614 83 Banquo(1662)
+
+1143 Banquo,(1663) 83 1614 26 1613
+
+1577 Stay(1664) 52 imperfect(1665) Speakers,(1666) 491 1123 more:(1667)
+80 Sinells(1668) 1456 379 know(1669) 379 1360 1377 4 Glamis,(1670)
+636 how,(1671) 4 Cawdor?(1672) 20 1377 4 1450 liues(1673)
+173 prosperous(1674) Gentleman:(1675) 1226 31 29 1184
+Stands(1676) 66 542 20 prospect(1677) 4 beleefe,(1678)
+1309 213 252 31 29 Cawdor.(1679) 1213 120 1294
+405 owe(1680) 48 1386 Intelligence,(1681) 116 947
+1162 48 blasted(1682) 1163 52 stop(1683) 13 1114
+1323 165 Prophetique(1684) greeting?(1685)
+Speake,(1686) 379 charge(1687) 509
+
+Witches(1688) vanish.(1689)
+
+1618 71 Earth(1690) 1462 bubbles,(1691) 255 20 Water(1692) ha's,(1693)
+1226 17 24 4 them:(1694) whither(1695) 24 607 vanish'd?(1696)
+1577 Into(1697) 20 Ayre:(1698) 83 1081 1303 corporall,(1699)
+Melted,(1700) 255 breath(1701) 810 20 Winde.(1702)
+Would(1703) 607 922 stay'd(1704)
+
+1618 Were(1705) 165 1385 here,(1706) 255 132 1223 1384 about?(1707)
+1337 1509 132 eaten(1708) 55 20 insane(1709) Root,(1710)
+1157 225 20 Reason(1711) Prisoner?(1712)
+1577 1648 Children(1713) 1144 29 Kings(1714)
+
+1618 405 1144 29 915
+
+1577 1226 1377 4 1450 too:(1715) went(1716) 197 66 so?(1717)
+1618 Toth'(1718) selfe-same(1719) tune(1720) 83 words:(1721) who's(1722) 487
+1140 1374 83 1375
+
+1387 71 915 1462 happily(1723) receiu'd,(1724) 1614
+71 newes(1725) 4 1366 successe:(1726) 83 785 1005 reades(1727)
+Thy(1728) personall(1729) Venture(1730) 47 20 Rebels(1731) sight,(1732)
+His(1733) Wonders(1734) 83 1019 Prayses(1735) 1223 contend,(1736)
+1265 113 29 1566 116 his:(1737) silenc'd(1738) 138 that,(1739)
+887 viewing(1740) o're(1741) 20 rest(1742) 1496 1718 966
+1528 findes(1743) 1505 47 20 stout(1744) 1319 Rankes,(1745)
+Nothing(1746) afeard(1747) 4 1081 1366 911 1216 1124
+Strange(1748) Images(1749) 4 1456 255 thick(1750) 255 Tale(1751)
+Can(1752) post(1753) 138 post,(1754) 83 euery(1755) 145 948 beare(1756)
+1727 prayses(1757) 47 1019 Kingdomes(1758) 1007 defence,(1759)
+1226 powr'd(1760) 987 downe(1761) 37 993
+
+Ang.(1762) Wee(1763) 24 sent,(1764)
+70 1504 1505 120 13 1638 1495 thanks,(1765)
+Onely(1766) 31 harrold(1767) 1505 810 1019 1731
+1654 pay(1768) 1505
+
+1387 1226 34 59 earnest(1769) 4 42 1653 Honor,(1770)
+1528 1279 1483 120 1281 call(1771) 1505 1377 4 Cawdor:(1772)
+887 123 addition,(1773) 1613 16 1292 Thane,(1774)
+350 197 12 thine(1775)
+
+1618 What,(1776) 512 20 Deuill(1777) 1384 true?(1778)
+1577 71 1377 4 1450 liues:(1779)
+483 1223 52 dresse(1780) 1123 47 borrowed(1781) Robes?(1782)
+1761 1204 963 20 1773 1672 yet,(1783)
+636 vnder(1784) heauie(1785) Iudgement(1786) beares(1787) 198 Life,(1788)
+1265 1005 1259 31 loose.(1789)
+Whether(1790) 1005 963 combin'd(1791) 138 182 4 Norway,(1792)
+1337 948 lyne(1793) 20 Rebell(1794) 138 hidden(1795) helpe,(1796)
+1226 vantage;(1797) 116 198 138 both(1798) 1005 labour'd(1799)
+887 1019 Countreyes(1800) wracke,(1801) 379 1668 not:(1802)
+636 Treasons(1803) Capitall,(1804) confess'd,(1805) 83 prou'd,(1806)
+Haue(1807) ouerthrowne(1808) 993
+
+1577 Glamys,(1809) 83 1377 4 1771
+71 greatest(1810) 12 behinde.(1811) Thankes(1812) 34 35 paines.(1813)
+1237 52 66 1130 35 1712 1144 29 1659
+362 182 198 gaue(1814) 20 1377 4 1450 31 1483
+Promis'd(1815) 573 lesse(1816) 31 987
+
+1618 1157 trusted(1817) home,(1818)
+Might(1819) 1592 enkindle(1820) 52 vnto(1821) 20 Crowne,(1822)
+Besides(1823) 20 1377 4 1678 636 'tis(1824) strange:(1825)
+1226 oftentimes,(1826) 31 winne(1827) 1432 31 13 harme,(1828)
+71 Instruments(1829) 4 Darknesse(1830) 491 1432 Truths,(1831)
+Winne(1832) 1432 138 honest(1833) Trifles,(1834) 31 betray's(1835)
+887 deepest(1836) consequence.(1837)
+Cousins,(1838) 42 word,(1839) 379 pray(1840) 52
+
+1577 Two(1841) Truths(1842) 24 told,(1843)
+916 happy(1844) Prologues(1845) 31 20 swelling(1846) Act(1847)
+1243 20 Imperiall(1848) Theame.(1849) 379 thanke(1850) 52 Gentlemen:(1851)
+11 supernaturall(1852) solliciting(1853)
+Cannot(1854) 29 ill;(1855) 628 29 good.(1856)
+245 ill?(1857) 947 1462 197 giuen(1858) 1123 1768 4 successe,(1859)
+Commencing(1860) 47 42 Truth?(1861) 379 1360 1377 4 1678
+245 good?(1862) 947 1223 379 yeeld(1863) 31 198 179
+Whose(1864) horrid(1865) Image(1866) 1554 vnfixe(1867) 1003 Heire,(1868)
+1226 1124 1003 seated(1869) Heart(1870) knock(1871) 44 1003 Ribbes,(1872)
+Against(1873) 20 1449 4 Nature?(1874) Present(1875) Feares(1876)
+1628 1815 252 horrible(1877) Imaginings:(1878)
+991 Thought,(1879) whose(1880) Murther(1881) 1592 12 206 1630
+Shakes(1882) 325 1003 single(1883) 1201 4 Man,(1884)
+1157 Function(1885) 12 smother'd(1886) 47 surmise,(1887)
+1226 nothing(1888) is,(1889) 206 1081 12 66
+
+1618 1542 402 13 Partner's(1890) rapt(1891)
+
+1577 245 Chance(1892) 204 1509 1123 1184
+483 1891 176 Crowne(1893) 1483
+Without(1894) 1003 stirre(1895)
+
+1618 New(1896) Honors(1897) 1044 1239 993
+Like(1898) 13 1386 Garments,(1899) cleaue(1900) 66 31 1228 mould,(1901)
+636 138 20 aid(1902) 4 1449
+
+1577 Come(1903) 1081 1044 may,(1904)
+170 83 20 Houre,(1905) runs(1906) 450 20 roughest(1907) 1524
+
+1618 Worthy(1908) 1614 wee(1909) stay(1910) 1239 35 leysure(1911)
+
+1577 1482 1123 35 fauour:(1912)
+991 dull(1913) Braine(1914) 963 wrought(1915) 138 1385 forgotten.(1916)
+Kinde(1917) Gentlemen,(1918) 35 paines(1919) 24 registred,(1920)
+1160 1754 164 379 turne(1921) 20 Leafe,(1922)
+70 reade(1923) 1077
+Let(1924) 1432 toward(1925) 20 King:(1926) thinke(1927) 1239
+1039 1462 chanc'd:(1928) 83 44 213 869
+71 Interim(1929) hauing(1930) weigh'd(1931) 329 let(1932) 1432 1384
+1452 500 Hearts(1933) 222 31 351
+
+1618 Very(1934) gladly(1935)
+
+1577 1273 252 enough:(1936)
+1902 friends.(1937)
+
+1179
+
+
+1180 Quarta.(1938)
+
+Flourish.(1939) 1140 1184 1187 Malcolme,(1940) 1186 83
+Attendants.(1941)
+
+1192 Is(1942) 1267 1461 55 1671
+1337 66 182 47 Commission(1943) 1592 return'd?(1944)
+1202 991 Liege,(1945) 607 24 66 1592 1044 back.(1946)
+636 379 1509 spoke(1947) 138 145 198 saw(1948) 993 die:(1949)
+1204 948 1196 198 937 frankly(1950) 1258
+Confess'd(1951) 1019 Treasons,(1952) implor'd(1953) 35 Highnesse(1954) Pardon,(1955)
+1226 585 586 42 deepe(1956) Repentance:(1957)
+1745 47 1019 Life(1958) became(1959) 1281
+1897 20 leauing(1960) 759 Hee(1961) dy'de,(1962)
+916 145 198 922 beene(1963) studied(1964) 47 1019 1456
+70 throw(1965) 271 20 dearest(1966) 1087 1005 ow'd,(1967)
+916 'twere(1968) 42 carelesse(1969) Trifle(1970)
+
+1192 There's(1971) 573 Art,(1972)
+70 finde(1973) 20 Mindes(1974) construction(1975) 47 20 Face.(1976)
+1528 963 42 Gentleman,(1977) 55 whom(1978) 379 built(1979)
+An(1980) absolute(1981) Trust.(1982)
+1140 1614 1662 Rosse,(1983) 83 1375
+
+1289 worthyest(1984) 1291
+71 sinne(1985) 4 1003 Ingratitude(1986) euen(1987) 142
+Was(1988) 1784 55 me.(1989) 1658 art(1990) 325 1580 before,(1991)
+1157 swiftest(1992) Wing(1993) 4 Recompence(1994) 12 slow,(1995)
+70 ouertake(1996) thee.(1997) 1702 1215 hadst(1998) 1815 deseru'd,(1999)
+1157 20 proportion(2000) 1797 4 1764 83 payment,(2001)
+1818 1509 1962 mine:(2002) onely(2003) 379 1509 1054 31 1644
+More(2004) 12 1366 due,(2005) 252 213 252 26 512 1767
+
+1577 71 seruice,(2006) 83 20 loyaltie(2007) 379 owe,(2008)
+887 doing(2009) 329 payes(2010) 197 selfe.(2011)
+1648 1953 part,(2012) 12 31 receiue(2013) 13 Duties:(2014)
+1226 13 Duties(2015) 24 31 35 Throne,(2016) 83 State,(2017)
+Children,(2018) 83 Seruants;(2019) 123 1223 206 1081 607 should,(2020)
+80 2008 1754 1087 safe(2021) 1924 35 Loue(2022)
+1226 828
+
+1192 Welcome(2023) hither:(2024)
+379 1509 begun(2025) 31 plant(2026) 1368 83 204 labour(2027)
+70 1124 1505 full(2028) 4 growing.(2029) 1463 1662
+1157 1467 573 1815 1998 157 553 29 knowne(2030)
+1309 1815 31 1509 1461 so:(2031) 1923 1123 enfold(2032) 1368
+1226 729 1505 31 1003 1869
+
+1618 1164 376 379 1646
+71 Haruest(2033) 12 35 owne(2034)
+
+1192 991 plenteous(2035) Ioyes,(2036)
+Wanton(2037) 47 fulnesse,(2038) seeke(2039) 31 hide(2040) themselues(2041)
+887 drops(2042) 4 sorrow.(2043) Sonnes,(2044) Kinsmen,(2045) Thanes,(2046)
+1226 52 1879 places(2047) 24 20 nearest,(2048) 1514
+50 204 establish(2049) 13 Estate(2050) 1239
+1452 eldest,(2051) 1939 1977 132 1020 hereafter,(2052)
+71 Prince(2053) 4 Cumberland:(2054) 123 828 553
+1654 vnaccompanied,(2055) inuest(2056) 993 onely,(2057)
+636 signes(2058) 4 Noblenesse,(2059) 559 Starres,(2060) 1144 shine(2061)
+On(2062) 26 deseruers.(2063) 1394 hence(2064) 31 Envernes,(2065)
+1226 binde(2066) 1432 98 31 52
+
+1577 71 Rest(2067) 12 Labor,(2068) 123 12 66 vs'd(2069) 34 you:(2070)
+1460 29 1003 911 20 Herbenger,(2071) 83 1124 ioyfull(2072)
+71 hearing(2073) 4 1003 Wife,(2074) 138 35 approach:(2075)
+1083 humbly(2076) 41 1003 1217
+
+1192 991 1292 1450
+
+1577 71 2052 4 2053 198 12 42 step,(2077)
+2061 123 379 553 fall(2078) downe,(2079) 116 else(2080) o're-leape,(2081)
+350 47 1003 1114 197 lyes.(2082) Starres(2083) 2039 35 fires,(2084)
+1923 66 Light(2085) 208 1003 black(2086) 83 1955 desires:(2087)
+71 Eye(2088) winke(2089) 44 20 Hand:(2090) 1592 1931 198 bee,(2091)
+1265 20 2087 feares,(2092) 785 197 12 1461 31 see.(2093)
+Enter.(2094)
+
+1192 True(2095) 1292 Banquo:(2096) 1005 12 2027 325 valiant,(2097)
+1226 47 1019 commendations,(2098) 379 1360 fed:(2099)
+510 12 42 Banquet(2100) 31 1988 Let's(2101) after(2102) 1281
+1863 care(2103) 12 gone(2104) 1990 31 bid(2105) 1432 welcome:(2106)
+510 12 42 peerelesse(2107) Kinsman.(2108)
+
+1938 1179
+
+
+1180 Quinta.(2109)
+
+1140 Macbeths(2110) 1476 alone(2111) 138 42 Letter.(2112)
+
+Lady.(2113) 490 met(2114) 1123 47 20 164 4 1725 83 379 1509
+learn'd(2115) 104 20 perfect'st(2116) 1196 607 1509 213 47 them,(2117) 252
+mortall(2118) knowledge.(2119) 362 379 burnt(2120) 47 desire(2121) 31 question(2122) 987
+further,(2123) 607 338 2040 Ayre,(2124) 810 123 607 vanish'd.(2125)
+Whiles(2126) 379 stood(2127) 1890 47 20 946 4 329 came(2128) Missiues(2129) 120
+20 1184 183 all-hail'd(2130) 1123 1377 4 1409 104 123 1458
+1990 17 1555 Sisters(2131) saluted(2132) 1483 83 referr'd(2133) 1123 31
+20 comming(2134) 55 4 869 138 1613 915 198 1616 be.(2135) 11
+1509 379 thought(2136) 322 31 deliuer(2137) 1505 (my(2138) 1965 1634 4
+Greatnesse)(2139) 198 1215 might'st(2140) 66 loose(2141) 20 dues(2142) 4 reioycing(2143)
+104 931 ignorant(2144) 4 1081 Greatnesse(2145) 12 promis'd(2146) 1996 Lay(2147)
+197 31 1366 heart(2148) 83 farewell.(2149)
+Glamys(2150) 1215 art,(2151) 83 1409 83 1616 29
+1039 1215 1989 promis'd:(2152) 1592 1223 379 1622 1366 Nature,(2153)
+510 12 1255 2027 1496 Milke(2154) 4 humane(2155) kindnesse,(2156)
+70 catch(2157) 20 neerest(2158) way.(2159) 1658 would'st(2160) 29 great,(2161)
+Art(2162) 66 579 Ambition,(2163) 206 579
+71 illnesse(2164) 113 attend(2165) 759 1039 1215 2159 highly,(2166)
+1157 2159 1215 holily:(2167) 2159 66 953 false,(2168)
+1226 1592 2159 wrongly(2169) winne.(2170)
+Thould'st(2171) haue,(2172) 1007 1808 198 123 cryes,(2173)
+1562 1215 553 1503 376 1215 1509 it;(2174)
+1226 198 123 227 1215 do'st(2175) 1622 31 1503
+Then(2176) wishest(2177) 113 29 vndone.(2178) High(2179) 1505 hither,(2180)
+1157 379 176 powre(2181) 1003 Spirits(2182) 47 1774 Eare,(2183)
+1226 chastise(2184) 138 20 valour(2185) 4 1003 Tongue(2186)
+337 198 impeides(2187) 1505 120 20 Golden(2188) Round,(2189)
+1265 Fate(2190) 83 Metaphysicall(2191) ayde(2192) 1554 1597
+70 1509 1505 crown'd(2193) withall.(2194)
+1140 Messenger.(2195)
+
+1039 12 35 tidings?(2196)
+Mess.(2197) 71 915 1376 896 31 1523
+
+2112 Thou'rt(2198) mad(2199) 31 1340 759
+1941 66 1366 1495 138 him?(2200) who,(2201) wer't(2202) so,(2203)
+1702 1509 inform'd(2204) 34 preparation(2205)
+
+2196 1083 190 725 197 12 true:(2206) 13 1377 12 comming:(2207)
+276 4 1003 fellowes(2208) 922 20 speed(2209) 4 him;(2210)
+1204 almost(2211) dead(2212) 34 breath,(2213) 922 scarcely(2214) 213
+2175 385 1124 1570 1019 Message(2215)
+
+2112 1482 993 tending,(2216)
+1528 brings(2217) 1007 newes,(2218)
+
+Exit(2219) 2194
+
+71 Rauen(2220) himselfe(2221) 12 hoarse,(2222)
+1157 croakes(2223) 20 fatall(2224) entrance(2225) 4 Duncan(2226)
+Vnder(2227) 1003 Battlements.(2228) 1902 52 Spirits,(2229)
+1157 tend(2230) 55 2117 thoughts,(2231) vnsex(2232) 1123 1705
+1226 fill(2233) 1123 120 20 1892 31 20 Toe,(2234) top-full(2235)
+1243 direst(2236) Crueltie:(2237) 1124 1749 1003 blood,(2238)
+Stop(2239) 1570 1589 accesse,(2240) 83 passage(2241) 31 Remorse,(2242)
+1157 573 compunctious(2243) visitings(2244) 4 1236
+Shake(2245) 1003 1431 purpose,(2246) 157 keepe(2247) peace(2248) betweene(2249)
+Th'(2250) effect,(2251) 83 hit.(2252) 1902 31 1003 Womans(2253) Brests,(2254)
+1226 41 1003 2153 34 Gall,(2255) 52 murth'ring(2256) Ministers,(2257)
+Where-euer,(2258) 47 35 sightlesse(2259) substances,(2260)
+405 wait(2261) 55 Natures(2262) Mischiefe.(2263) 1902 1749 Night,(2264)
+1226 pall(2265) 1505 47 20 dunnest(2266) smoake(2267) 4 Hell,(2268)
+
+1157 1003 keene(2269) Knife(2270) 208 66 20 Wound(2271) 197 makes,(2272)
+1439 Heauen(2273) peepe(2274) 450 20 Blanket(2275) 4 20 darke,(2276)
+70 cry,(2277) hold,(2278) hold.(2279)
+1140 1036
+
+1433 1808 1292 1409
+Greater(2280) 252 both,(2281) 104 20 all-haile(2282) 2051
+1727 Letters(2283) 1509 transported(2284) 1123 beyond(2285)
+11 2143 present,(2286) 83 379 feele(2287) 142
+71 future(2288) 47 20 instant(2289)
+
+1577 991 1965 Loue,(2290)
+2225 1376 896 31 1523
+
+2112 1226 785 goes(2291) hence?(2292)
+1577 70 morrow,(2293) 255 1005 purposes(2294)
+
+2112 1289 neuer,(2295)
+1534 1159 198 Morrow(2296) 2092
+1648 Face,(2297) 1003 1773 12 255 42 Booke,(2298) 1473 men(2299)
+May(2300) 1922 1386 352 31 beguile(2301) 20 time.(2302)
+1542 559 20 869 1755 welcome(2303) 47 35 Eye,(2304)
+1648 Hand,(2305) 35 Tongue:(2306) 1588 559 1589 innocent(2307) flower,(2308)
+636 29 20 Serpent(2309) vnder't.(2310) 1528 that's(2311) comming,(2312)
+Must(2313) 29 prouided(2314) for:(2315) 83 52 1144 1062
+11 Nights(2316) 1007 Businesse(2317) 810 1003 dispatch,(2318)
+1265 1144 31 26 13 Nights,(2319) 83 Dayes(2320) 31 1165
+1482 solely(2321) soueraigne(2322) sway,(2323) 83 Masterdome(2324)
+
+1577 50 204 1384 2122
+2112 1765 1588 1570 cleare:(2325)
+70 762 fauor,(2326) euer(2327) 12 31 feare:(2328)
+Leaue(2329) 26 20 1741 31 1988
+
+1179
+
+
+1180 Sexta.(2330)
+
+Hoboyes,(2331) 83 Torches.(2332) 1140 1184 1939 1186
+1662 1187
+Macduff,(2333) 1982 Angus,(2334) 83 1940
+
+1192 11 Castle(2335) 1462 42 pleasant(2336) seat,(2337)
+71 ayre(2338) nimbly(2339) 83 sweetly(2340) recommends(2341) 197 911
+Vnto(2342) 13 gentle(2343) sences(2344)
+
+1618 11 Guest(2345) 4 Summer,(2346)
+71 Temple-haunting(2347) Barlet(2348) 789 approue,(2349)
+80 1019 loued(2350) Mansonry,(2351) 198 20 Heauens(2352) 1700
+Smells(2353) wooingly(2354) here:(2355) 573 Iutty(2356) frieze,(2357)
+Buttrice,(2358) 157 Coigne(2359) 4 Vantage,(2360) 206 48 Bird(2361)
+Hath(2362) 338 1019 pendant(2363) Bed,(2364) 83 procreant(2365) Cradle,(2366)
+1160 607 553 breed,(2367) 83 haunt:(2368) 379 1509 obseru'd(2369)
+71 2337 12 delicate.(2370)
+1140 2112
+
+1192 See,(2371) 208 13 honor'd(2372) Hostesse:(2373)
+71 2021 198 followes(2374) vs,(2375) sometime(2376) 12 13 trouble,(2377)
+1265 380 132 1849 255 Loue.(2378) Herein(2379) 379 teach(2380) 725
+1579 52 1144 2104 God-eyld(2381) 1432 34 35 paines,(2382)
+1226 1849 1432 34 35 trouble(2383)
+
+2112 337 13 2005
+887 1754 435 twice(2384) 1152 83 252 1461 double,(2385)
+1704 poore,(2386) 83 1882 Businesse,(2387) 31 contend(2388)
+1872 182 1896 deepe,(2389) 83 broad,(2390)
+Wherewith(2391) 35 Maiestie(2392) loades(2393) 13 House:(2394)
+350 182 4 old,(2395) 83 20 late(2396) Dignities,(2397)
+Heap'd(2398) 1570 31 2116 132 1741 35 Ermites(2399)
+
+1192 Where's(2400) 20 1377 4 1671
+50 courst(2401) 993 44 20 1318 83 922 42 purpose(2402)
+70 29 1019 Purueyor:(2403) 636 1005 rides(2404) well,(2405)
+1226 1019 1007 2021 (sharpe(2406) 255 1019 Spurre)(2407) 1462 holp(2408) 993
+70 1019 home(2409) 37 vs:(2410) Faire(2411) 83 1463 Hostesse(2412)
+50 24 35 guest(2413) 31 night(2414)
+
+La.(2415) 1648 Seruants(2416) euer,(2417)
+1806 theirs,(2418) themselues,(2419) 83 1081 12 theirs(2420) 47 compt,(2421)
+70 1124 1228 Audit(2422) 44 35 1953 pleasure,(2423)
+Still(2424) 31 returne(2425) 35 2033
+
+1192 1482 1123 35 hand:(2426)
+Conduct(2427) 1123 31 mine(2428) Host(2429) 132 loue(2430) 993 2165
+1226 1144 continue,(2431) 13 Graces(2432) towards(2433) him.(2434)
+80 35 1217 Hostesse.(2435)
+
+1179
+
+1180 Septima.(2436)
+
+Hoboyes.(2437) 2331 1140 42 Sewer,(2438) 83 diuers(2439) 2415 138 Dishes(2440)
+83
+Seruice(2441) ouer(2442) 20 Stage.(2443) 2175 enter(2444) 103
+
+1577 245 197 852 1152 785 1823 1152 252 'twer(2445) 2404
+510 852 1461 quickly:(2446) 245 1589 Assassination(2447)
+Could(2448) trammell(2449) 1570 20 Consequence,(2450) 83 2156
+1323 1019 surcease,(2451) Successe:(2452) 198 206 48 blow(2453)
+1818 29 20 29 all,(2454) 83 20 304 all.(2455) Heere,(2456)
+636 heere,(2457) 1239 48 Banke(2458) 83 Schoole(2459) 4 869
+Wee'ld(2460) iumpe(2461) 20 life(2462) 31 1550 636 47 17 Cases,(2463)
+50 380 1509 iudgement(2464) 2456 198 132 206 2379
+Bloody(2465) Instructions,(2466) 123 931 taught,(2467) 2424
+70 plague(2468) 1589 Inuenter,(2469) 48 euen-handed(2470) 1311
+Commends(2471) 1589 Ingredience(2472) 4 13 poyson'd(2473) Challice(2474)
+70 13 2033 lips.(2475) Hee's(2476) heere(2477) 47 1345 trust;(2478)
+First,(2479) 255 379 1360 1019 Kinsman,(2480) 83 1019 Subiect,(2481)
+Strong(2482) 1797 1420 20 Deed:(2483) Then,(2484) 255 1019 Host,(2485)
+1204 113 1420 1019 Murtherer(2486) shut(2487) 20 doore,(2488)
+1654 1755 20 knife(2489) 1003 2010 Besides,(2490) 48 Duncane(2491)
+2361 borne(2492) 1019 Faculties(2493) 325 meeke;(2494) 1462 458
+1083 cleere(2495) 47 1019 1007 Office,(2496) 198 1019 Vertues(2497)
+Will(2498) pleade(2499) 559 Angels,(2500) Trumpet-tongu'd(2501) 1420
+71 1955 damnation(2502) 4 1019 taking(2503) off:(2504)
+1226 Pitty,(2505) 559 42 naked(2506) New-borne-Babe,(2507)
+Striding(2508) 20 blast,(2509) 116 2351 Cherubin,(2510) hors'd(2511)
+1162 20 2258 Curriors(2512) 4 20 2123
+1534 2452 20 1864 deed(2513) 47 1754 eye,(2514)
+1157 teares(2515) 1144 drowne(2516) 20 winde.(2517) 379 1509 573 Spurre(2518)
+70 pricke(2519) 20 sides(2520) 4 1003 intent,(2521) 206 2002
+Vaulting(2522) 2162 123 ore-leapes(2523) 197 selfe,(2524)
+1226 falles(2525) 55 1589 other.(2526)
+1140 2112
+
+1579 now?(2527) 1039 Newes?(2528)
+2414 1528 195 2210 supt:(2529) 947 1509 52 1054 20 chamber?(2530)
+1609 2361 1005 ask'd(2531) 34 me?(2532)
+2414 Know(2533) 52 533 1005 ha's?(2534)
+1609 50 204 proceed(2535) 573 98 47 48 Businesse:(2536)
+1528 1462 Honour'd(2537) 1123 4 late,(2538) 83 379 1509 bought(2539)
+2187 Opinions(2540) 120 26 sorts(2541) 4 people,(2542)
+1265 385 29 worne(2543) 142 47 1228 1200 glosse,(2544)
+1654 cast(2545) aside(2546) 325 soone(2547)
+
+2414 1987 20 1130 drunke,(2548)
+Wherein(2549) 52 drest(2550) 35 selfe?(2551) 2361 197 slept(2552) since?(2553)
+1226 wakes(2554) 197 142 31 1588 325 greene,(2555) 83 pale,(2556)
+298 1081 197 948 325 freely?(2557) 1394 48 869
+Such(2558) 379 1023 1366 loue.(2559) 2161 1215 affear'd(2560)
+70 29 20 same(2561) 47 1774 2033 Act,(2562) 83 Valour,(2563)
+916 1215 1989 47 desire?(2564) Would'st(2565) 1215 1509 198
+1265 1215 esteem'st(2566) 20 Ornament(2567) 4 1787
+1226 914 42 Coward(2568) 47 1774 2033 Esteeme?(2569)
+Letting(2570) 379 dare(2571) 533 2260 1239 379 would,(2572)
+1897 20 poore(2573) Cat(2574) 1626 Addage(2575)
+
+1577 Prythee(2576) peace:(2577)
+379 2570 133 26 198 176 1367 42 man,(2578)
+1204 dares(2579) 133 more,(2580) 12 none(2581)
+
+2414 1039 Beast(2582) was't(2583) 252
+1157 338 52 breake(2584) 48 enterprize(2585) 31 2531
+362 52 durst(2586) 133 329 252 52 852 42 man:(2587)
+1226 31 29 213 252 1081 52 were,(2588) 52 385
+Be(2589) 325 1656 213 20 man.(2590) 1439 869 157 961
+Did(2591) 252 adhere,(2592) 83 1592 52 385 1124 1371
+490 1509 338 2418 83 198 1228 fitnesse(2593) 142
+Do's(2594) vnmake(2595) 509 379 1509 1857 Sucke,(2596) 83 1668
+1579 tender(2597) 1823 31 2429 20 Babe(2598) 198 milkes(2599) 1483
+379 2571 while(2600) 197 963 smyling(2601) 47 1003 2296
+1806 pluckt(2602) 1003 Nipple(2603) 120 1019 Bonelesse(2604) Gummes,(2605)
+1226 dasht(2606) 20 Braines(2607) out,(2608) 922 379 325 sworne(2609)
+916 52 1509 1461 31 48
+
+1577 245 132 113 faile?(2610)
+2112 50 2609
+636 screw(2611) 35 courage(2612) 31 20 sticking(2613) place,(2614)
+1226 wee'le(2615) 66 fayle:(2616) 785 2225 12 asleepe,(2617)
+(Whereto(2618) 20 227 1144 1019 dayes(2619) hard(2620) Iourney(2621)
+Soundly(2622) inuite(2623) 1240 1019 219 Chamberlaines(2624)
+2497 379 138 Wine,(2625) 83 Wassell,(2626) 325 conuince,(2627)
+1157 Memorie,(2628) 20 Warder(2629) 4 20 Braine,(2630)
+1534 29 42 Fume,(2631) 83 20 Receit(2632) 4 1710
+173 Lymbeck(2633) onely:(2634) 785 47 Swinish(2635) sleepe,(2636)
+Their(2637) drenched(2638) 2261 lyes(2639) 255 47 42 Death,(2640)
+1039 628 52 83 379 performe(2641) 1239
+2249 vnguarded(2642) Duncan?(2643) 1039 66 1062 1239
+1732 spungie(2644) Officers?(2645) 183 1144 1755 20 guilt(2646)
+1243 13 1007 quell(2647)
+
+1577 Bring(2648) 586 Men-Children(2649) 2633
+350 1366 vndaunted(2650) Mettle(2651) 113 compose(2652)
+1745 206 Males.(2653) 2497 197 66 29 1723
+362 132 1509 mark'd(2654) 138 blood(2655) 182 sleepie(2656) 219
+1243 1019 2033 Chamber,(2657) 83 2068 1228 937 Daggers,(2658)
+1157 607 1509 don't?(2659)
+2112 1204 2578 2012 197 1510
+916 132 1144 1124 13 Griefes(2660) 83 Clamor(2661) rore,(2662)
+1162 1019 Death?(2663)
+1577 379 1360 settled,(2664) 83 bend(2665) 1570
+Each(2666) corporall(2667) Agent(2668) 31 48 1404 Feat.(2669)
+Away,(2670) 83 mock(2671) 20 151 138 fairest(2672) show,(2673)
+False(2674) Face(2675) 553 2039 1081 20 false(2676) 1869 1554 know.(2677)
+
+1179
+
+
+1134 Secundus.(2678) 1180 1137
+
+1140 1662 83 Fleance,(2679) 138 42 Torch(2680) 37 2433
+
+1618 1579 2290 20 2263 Boy?(2681)
+Fleance.(2682) 71 Moone(2683) 12 downe:(2684) 379 1509 66 heard(2685) 20
+Clock(2686)
+
+1618 1226 she(2687) 2290 1760 44 Twelue(2688)
+
+2681 379 take't,(2689) 1823 later,(2690) Sir(2691)
+
+1618 Hold,(2692) 41 1003 Sword:(2693)
+1970 Husbandry(2694) 47 Heauen,(2695)
+2636 Candles(2696) 24 26 out:(2697) 41 1505 198 too.(2698)
+173 1784 Summons(2699) 2638 559 Lead(2700) 1239 1483
+1226 1592 379 385 66 sleepe:(2701)
+Mercifull(2702) Powers,(2703) restraine(2704) 47 1123 20 cursed(2705) thoughts(2706)
+1157 1236 giues(2707) 1114 31 47 repose.(2708)
+1140 1614 83 42 Seruant(2709) 138 42 Torch.(2710)
+
+1482 1123 1003 2692 1721 903
+1577 173 Friend(2711)
+
+1618 1039 1620 66 1592 44 rest?(2712) 20 King's(2713) 42 bed.(2714)
+1528 1462 1962 47 vnusuall(2715) Pleasure,(2716)
+1226 sent(2717) 586 1007 Largesse(2718) 31 35 Offices.(2719)
+11 Diamond(2720) 1005 greetes(2721) 35 1476 withall,(2722)
+80 20 1020 4 16 kind(2723) Hostesse,(2724)
+1226 2486 1570 47 measurelesse(2725) content(2726)
+
+1609 Being(2727) vnprepar'd,(2728)
+1452 204 1958 20 seruant(2729) 31 defect,(2730)
+1265 2079 113 500 1509 1914
+
+1618 All's(2731) well.(2732)
+379 dreamt(2733) 163 1523 4 20 1141 1555 Sisters:(2734)
+70 52 607 1509 shew'd(2735) 308 1627
+
+1577 379 1926 66 4 1693
+1540 785 132 512 entreat(2736) 59 houre(2737) 31 serue,(2738)
+50 385 971 197 47 308 921 1239 198 2386
+245 52 385 graunt(2739) 20 151
+
+1618 298 35 kind'st(2740) 1910
+
+1577 245 52 1144 1899 31 1003 consent,(2741)
+362 'tis,(2742) 197 1144 1124 828 34 52
+
+1618 1083 379 lose(2743) none,(2744)
+887 seeking(2745) 31 augment(2746) 329 206 380 2246
+991 1453 franchis'd,(2747) 83 Allegeance(2748) cleare,(2749)
+379 1144 29 counsail'd(2750)
+
+1577 1619 repose(2751) 20 2599
+
+1618 1811 Sir:(2752) 20 559 31 509
+
+2218 1576
+
+1577 1372 2104 1366 Mistresse,(2753) 785 1003 drinke(2754) 12 ready,(2755)
+She(2756) strike(2757) 1239 20 Bell.(2758) Get(2759) 1505 31 2713
+2093
+
+1941 48 42 Dagger,(2760) 123 379 208 37 1483
+71 Handle(2761) 1924 1003 Hand?(2762) Come,(2763) 1931 1123 clutch(2764) thee:(2765)
+379 1509 1505 533 83 1592 379 208 1505 still.(2766)
+2161 1215 66 2223 Vision,(2767) sensible(2768)
+70 feeling,(2769) 255 31 sight?(2770) 116 1989 1215 206
+173 Dagger(2771) 4 20 Minde,(2772) 42 2675 Creation,(2773)
+Proceeding(2774) 120 20 heat-oppressed(2775) Braine?(2776)
+379 208 1505 1782 47 forme(2777) 255 palpable,(2778)
+916 48 123 142 379 draw.(2779)
+1658 marshall'st(2780) 1123 20 1114 198 379 963 going,(2781)
+1226 165 59 Instrument(2782) 379 963 31 vse.(2783)
+Mine(2784) Eyes(2785) 24 338 20 fooles(2786) 1496 351 Sences,(2787)
+1337 2079 worth(2788) 26 20 rest:(2789) 379 208 1505 still;(2790)
+1226 55 1366 Blade,(2791) 83 Dudgeon,(2792) Gouts(2793) 4 Blood,(2794)
+1265 963 66 325 before.(2795) 1970 573 165 thing:(2796)
+510 12 20 1193 2386 123 informes(2797)
+1562 31 2427 Eyes.(2798) Now(2799) 1740 20 145 halfe(2800) 72
+1236 1383 dead,(2801) 83 wicked(2802) Dreames(2803) abuse(2804)
+71 Curtain'd(2805) 2700 Witchcraft(2806) celebrates(2807)
+Pale(2808) Heccats(2809) Offrings:(2810) 83 wither'd(2811) Murther,(2812)
+Alarum'd(2813) 104 1019 Centinell,(2814) 20 Wolfe,(2815)
+1863 howle's(2816) 1019 Watch,(2817) 935 138 1019 stealthy(2818) pace,(2819)
+1323 Tarquins(2820) rauishing(2821) sides,(2822) 2432 1019 designe(2823)
+Moues(2824) 559 42 Ghost.(2825) 1658 sowre(2826) 83 firme-set(2827) 1689
+Heare(2828) 66 1003 steps,(2829) 123 607 176 walke,(2830) 34 1622
+1727 937 stones(2831) prate(2832) 4 1003 where-about,(2833)
+1226 41 20 294 horror(2834) 120 20 869
+1265 142 sutes(2835) 138 759 2125 379 threat,(2836) 1005 1778
+Words(2837) 31 20 heat(2838) 4 deedes(2839) 1255 cold(2840) 1700 giues.(2841)
+
+173 Bell(2842) rings.(2843)
+
+379 1563 83 197 12 done:(2844) 20 2841 inuites(2845) 1988
+2827 197 533 Duncan,(2846) 34 197 12 42 Knell,(2847)
+1157 summons(2848) 1505 31 2694 116 31 Hell.(2849)
+2093
+
+
+1180 1181
+
+1140 2112
+
+2414 1157 123 1462 338 the[m](2850) drunk,(2851) 1462 338 1123 bold:(2852)
+1039 1462 quench'd(2853) 2116 1462 1857 1123 fire.(2854)
+Hearke,(2855) 2576 197 963 20 Owle(2856) 198 shriek'd,(2857)
+71 2223 Bell-man,(2858) 123 2706 20 stern'st(2859) good-night.(2860)
+1528 12 215 329 20 Doores(2861) 24 open:(2862)
+1226 20 surfeted(2863) Groomes(2864) 1223 2670 1228 1686
+1323 Snores.(2865) 379 1509 drugg'd(2866) 1228 Possets,(2867)
+1157 Death(2868) 83 1236 1223 2387 215 2116
+1789 607 liue,(2869) 116 dye.(2870)
+1140 1036
+
+1577 902 903 1081 hoa?(2871)
+2112 Alack,(2872) 379 1360 afraid(2873) 607 1509 awak'd,(2874)
+1226 1823 66 2843 1589 attempt,(2875) 83 66 20 deed,(2876)
+Confounds(2877) 2409 hearke:(2878) 379 lay'd(2879) 1228 Daggers(2880) 2754
+1528 406 66 misse(2881) 'em.(2882) Had(2883) 1005 66 resembled(2884)
+991 Father(2885) 255 1005 slept,(2886) 379 922 don't.(2887)
+991 Husband?(2888)
+1577 379 1509 1461 20 deed:(2889)
+Didst(2890) 1215 66 heare(2891) 42 noyse?(2892)
+2112 379 2684 20 2855 schreame,(2893) 83 20 Crickets(2894) cry.(2895)
+2590 66 52 speake?(2896)
+1577 When?(2897)
+2112 2798
+
+1577 916 379 descended?(2898)
+2112 379
+
+1577 2854 183 2638 1626 689 Chamber?(2899)
+2112 Donalbaine(2900)
+
+1609 11 12 42 sorry(2901) sight(2902)
+
+2112 173 foolish(2903) thought,(2904) 31 1340 42 2900 2901
+
+1577 1970 145 948 laugh(2905) in's(2906) 2635
+1226 145 cry'd(2907) 2811 198 607 948 wake(2908) 222 other:(2909)
+379 1220 83 2684 1693 636 607 948 1340 1228 Prayers,(2910)
+1226 addrest(2911) 987 againe(2912) 31 sleepe(2913)
+
+2112 1164 24 219 lodg'd(2914) 1063
+
+1577 276 2906 1388 blesse(2915) 2374 83 Amen(2916) 20 1510
+916 607 922 1578 1123 138 17 Hangmans(2917) hands:(2918)
+Listning(2919) 1228 feare,(2920) 379 406 66 1340 Amen,(2921)
+362 607 948 1340 1388 2914 1432
+
+2112 Consider(2922) 197 66 325 deepely(2923)
+
+1609 636 wherefore(2924) 406 66 379 1455 Amen?(2925)
+379 922 16 101 4 Blessing,(2926) 83 2915 stuck(2927) 47 1003 throat(2928)
+
+2112 These(2929) deeds(2930) 553 66 29 2135
+After(2931) 17 wayes:(2932) 2202 197 204 1124 1432 2198
+
+1577 Me(2933) 2135 379 2684 42 voyce(2934) 2276 Sleep(2935) 573 1666
+103 789 murther(2936) Sleepe,(2937) 20 2306 2936
+1521 198 knits(2938) 1570 20 rauel'd(2939) Sleeue(2940) 4 Care,(2941)
+71 death(2942) 4 222 2618 1787 sore(2943) Labors(2944) Bath,(2945)
+Balme(2946) 4 hurt(2947) Mindes,(2948) 1007 2261 689 Course,(2949)
+Chiefe(2950) nourisher(2951) 47 Life's(2952) Feast(2953)
+
+2112 1039 1223 52 meane?(2954)
+1577 2423 197 cry'd,(2955) 1521 573 213 31 26 20 2393
+1615 1462 murther'd(2956) 2936 83 therefore(2957) 1450
+1534 2912 573 1666 103 1144 2912 573 213
+
+2112 1204 963 329 198 935 cry'd?(2958) 947 1292 1773
+405 1223 vnbend(2959) 35 1463 strength,(2960) 31 1926
+1083 braine-sickly(2961) 4 things:(2962) 1372 96 308 Water,(2963)
+1226 wash(2964) 48 1177 Witnesse(2965) 120 35 Hand.(2966)
+483 948 52 bring(2967) 17 2879 120 20 1161
+490 553 lye(2968) there:(2969) goe(2970) carry(2971) 2116 83 smeare(2972)
+71 2655 2863 138 2654
+
+1577 1460 2969 573 1666
+379 1360 afraid,(2973) 31 1926 1081 379 1509 2843
+1542 on't(2974) 1569 379 2570 66
+
+2112 Infirme(2975) 4 purpose:(2976)
+1482 1123 20 Daggers:(2977) 20 sleeping,(2978) 83 20 2800
+1628 206 255 Pictures:(2979) 1823 20 2087 4 Childhood,(2980)
+1157 feares(2981) 42 painted(2982) Deuill.(2983) 245 1005 1223 bleed,(2984)
+1460 guild(2985) 20 Faces(2986) 4 20 2863 2721
+350 197 553 1597 1228 Guilt.(2987)
+2093
+
+Knocke(2988) 1183
+
+1577 1390 12 198 knocking?(2989)
+1579 1581 138 1483 785 1754 noyse(2990) appalls(2991) 2531
+1039 Hands(2992) 24 487 hah:(2993) 607 pluck(2994) 919 2427 2797
+2497 26 1007 Neptunes(2995) Ocean(2996) 2963 48 2654
+Cleane(2997) 120 1003 2761 no:(2998) 48 1003 Hand(2999) 204 227
+71 multitudinous(3000) Seas(3001) incarnardine,(3002)
+Making(3003) 20 Greene(3004) one,(3005) Red.(3006)
+1140 2112
+
+2112 991 2991 24 4 35 colour:(3007) 206 379 shame(3008)
+70 weare(3009) 42 1869 325 white.(3010)
+
+Knocke.(3011)
+
+379 2890 42 knocking(3012) 44 20 South(3013) entry:(3014)
+Retyre(3015) 132 31 13 Chamber:(3016)
+173 little(3017) 1691 cleares(3018) 1432 4 48 deed.(3019)
+1579 easie(3020) 12 197 then?(3021) 35 Constancie(3022)
+2361 1054 52 vnattended.(3023)
+
+3010
+
+2854 213 knocking.(3024)
+2758 55 35 Night-Gowne,(3025) 211 occasion(3026) 1770 2374
+1226 1544 1432 31 29 Watchers:(3027) 29 66 lost(3028)
+1083 poorely(3029) 47 35 2705
+
+1577 70 1668 1003 2875
+
+3010
+
+'Twere(3030) 1002 66 1668 1003 2010
+Wake(3031) 2225 138 1366 knocking:(3032)
+379 385 1215 could'st.(3033)
+
+1179
+
+
+1180 1465
+
+1140 42 Porter.(3034) Knocking(3035) 1183
+
+3033 Here's(3036) 42 3011 indeede:(3037) 376 42 1194 852
+Porter(3038) 4 Hell(3039) Gate,(3040) 1258 113 1509 old(3041) turning(3042) 20
+Key.(3043)
+
+Knock.(3044)
+
+Knock,(3045) 3044 3043 902 495
+1626 1020 4 Belzebub?(3046) 3035 42 Farmer,(3047) 198 hang'd(3048)
+2220 55 1589 expectation(3049) 4 Plentie:(3050) 1902 47 869 1509
+Napkins(3051) enow(3052) 215 725 896 you'le(3053) sweat(3054) for't.(3055)
+
+3043
+
+3044 knock.(3056) 902 495 47 1589 351 Deuils(3057) Name?(3058)
+Faith(3059) here's(3060) 59 Equiuocator,(3061) 198 406 sweare(3062) 47 1797
+20 Scales(3063) 1420 eyther(3064) Scale,(3065) 183 committed(3066) Treason(3067)
+enough(3068) 34 Gods(3069) sake,(3070) 1592 406 66 equiuocate(3071) 31 Heauen:(3072)
+oh(3073) 1044 in,(3074) Equiuocator.(3075)
+
+3043
+
+3044 3044 3043 902 903 'Faith(3076) 3059 59 English(3077)
+Taylor(3078) 1044 2179 34 stealing(3079) 919 4 42 French(3080) Hose:(3081)
+1902 47 Taylor,(3082) 896 52 176 rost(3083) 35 Goose.(3084)
+3043
+
+3044 3043 Neuer(3085) 44 quiet:(3086) 1039 24 1612 206 48
+961 12 1255 2839 34 2848 1460 Deuill-Porter(3087) 197 573 further:(3088)
+379 922 2135 31 1509 1931 47 308 4 26 Professions,(3089) 198
+2969 20 Primrose(3090) 1114 31 1589 euerlasting(3091) Bonfire.(3092)
+
+3043
+
+Anon,(3093) anon,(3094) 379 1839 52 remember(3095) 20 3033
+1140 2332 83 1378
+
+Macd.(3096) 1987 197 325 2537 friend,(3097) 1158 52 1715 31 2363
+1157 52 1223 2967 325 late?(3098)
+Port.(3099) 3058 1620 132 852 carowsing(3100) 161 20 689 Cock:(3101)
+1226 Drinke,(3102) 1620 12 42 1007 prouoker(3103) 4 1141 1385
+
+3095 1039 1141 1385 789 Drinke(3104) especially(3105)
+prouoke?(3106)
+3098 Marry,(3107) 1620 Nose-painting,(3108) 2936 83 Vrine.(3109)
+Lecherie,(3110) 1620 197 prouokes,(3111) 83 vnprouokes:(3112) 197 prouokes(3113)
+20 desire,(3114) 206 197 225 271 20 performance.(3115) Therefore(3116)
+1656 3103 176 29 said(3117) 31 29 59 Equiuocator(3118) 138 Lecherie:(3119)
+197 makes(3120) 1281 83 197 marres(3121) 2209 197 sets(3122) 993 on,(3123)
+83 197 225 993 off;(3124) 197 perswades(3125) 1281 83 dis-heartens(3126)
+2209 3119 993 stand(3127) too,(3128) 83 66 3126 1714 47 conclusion,(3129)
+equiuocates(3130) 993 47 42 2635 83 giuing(3131) 993 20 Lye,(3132)
+leaues(3133) 993
+
+3095 379 beleeue,(3134) 3103 1813 1505 20 Lye(3135) 163 1523
+
+3098 1157 197 did,(3136) 1620 i'the(3137) 937 Throat(3138) 55 907 206 379
+requited(3139) 993 34 1019 3131 83 1061 thinke)(3140) 931 1255 strong(3141)
+34 1281 1016 1005 tooke(3142) 1570 1003 Legges(3143) sometime,(3144) 1592 379
+338 42 Shift(3145) 31 2544 2433
+1140 1036
+
+3095 1941 1366 1495 stirring?(3146)
+1452 3011 ha's(3147) awak'd(3148) him:(3149) 896 1005 1376
+
+1378 1619 2292 1463 2690
+
+1577 1619 morrow(3150) 1797
+
+3095 1941 20 915 stirring,(3151) 1292 1393
+1577 1654 1592
+
+3095 1528 948 command(3152) 1123 31 1770 timely(3153) 55 1281
+379 1509 2210 slipt(3154) 20 2736
+
+1577 1460 2966 52 31 993
+
+3095 379 1668 48 12 42 2071 2382 31 2069
+636 1592 1823 145
+
+1577 71 2026 132 delight(3155) 3073 Physicks(3156) paine:(3157)
+11 12 20 Doore(3158)
+
+3095 1460 1124 325 bold(3159) 31 call,(3160) 34 1823 1003 limitted(3161)
+seruice.(3162)
+
+2218 Macduffe.(3163)
+
+1378 Goes(3164) 20 915 2063 31 day?(3165)
+1577 1528 does:(3166) 1005 948 appoint(3167) 325
+
+1378 71 1523 3146 894 vnruly:(3168)
+1160 132 lay,(3169) 13 Chimneys(3170) 852 blowne(3171) 2078
+1226 816 607 say)(3172) lamentings(3173) 2684 1626 Ayre;(3174)
+1747 Schreemes(3175) 4 2639
+1226 Prophecying,(3176) 138 Accents(3177) terrible,(3178)
+1243 dyre(3179) Combustion,(3180) 83 confus'd(3181) Euents,(3182)
+1895 hatch'd(3183) 1284 wofull(3184) 2301
+71 obscure(3185) 2360 clamor'd(3186) 20 liue-long(3187) Night.(3188)
+714 1644 20 1689 963 Feuorous,(3189)
+1226 948 shake(3190)
+
+1577 'Twas(3191) 42 rough(3192) 1523
+
+1378 991 young(3193) remembrance(3194) 628 paralell(3195)
+173 fellow(3196) 31 759
+1140 Macduff.(3197)
+
+3095 1289 horror,(3198) 3197 3197
+2185 157 1869 628 conceiue,(3199) 157 1020 1505
+
+1577 83 1378 What's(3200) 20 matter?(3201)
+3095 Confusion(3202) 142 1462 338 1019 Master-peece:(3203)
+Most(3204) sacrilegious(3205) 1880 1462 broke(3206) ope(3207)
+71 Lords(3208) anoynted(3209) Temple,(3210) 83 stole(3211) thence(3212)
+71 1957 1496 Building(3213)
+
+1577 1039 1581 52 1644 20 Life?(3214)
+1378 Meane(3215) 52 1019 Maiestie?(3216)
+3095 Approch(3217) 20 2656 83 destroy(3218) 35 2901
+1323 42 209 Gorgon.(3219) 1237 66 2104 1123 speake:(3220)
+2370 83 252 1384 35 selues:(3221) awake,(3222) 3221
+
+1179 103 83 1378
+
+Ring(3223) 20 1182 Bell:(3224) 2811 83 Treason,(3225)
+1662 83 Donalbaine:(3226) Malcolme(3227) 3221
+2244 1102 48 Downey(3228) 2635 Deaths(3229) counterfeit,(3230)
+1226 1588 55 2867 197 selfe:(3231) vp,(3232) 3231 83 208
+71 1007 Doomes(3233) Image:(3234) 1939 1662
+916 120 35 Graues(3235) rise(3236) 3231 83 walke(3237) 559 Sprights,(3238)
+70 countenance(3239) 48 horror.(3240) 3222 20 2757
+
+2841 2842 1140 2112
+
+2112 3199 20 Businesse?(3241)
+1157 165 42 hideous(3242) Trumpet(3243) 1169 31 parley(3244)
+71 sleepers(3245) 4 20 House?(3246) speake,(3247) 1384
+
+3095 1289 2342 Lady,(3248)
+'Tis(3249) 66 34 52 31 2890 1081 379 512 3219
+71 repetition(3250) 47 42 2252 eare,(3251)
+1702 2935 255 197 fell.(3252)
+1140 1576
+
+1289 1662 1662 1452 1638 Master's(3253) 2955
+
+2112 Woe,(3254) alas:(3255)
+1775 47 13 3245
+Ban.(3256) Too(3257) cruell,(3258) 135 where.(3259)
+Deare(3260) Duff,(3261) 379 prythee(3262) contradict(3263) 1366 2523
+1226 1644 197 12 66 185
+1140 1614 1187 83 1387
+
+1577 2882 379 206 dy'd(3264) 59 2736 37 48 chance,(3265)
+379 922 liu'd(3266) 42 blessed(3267) time:(3268) 34 120 48 instant,(3269)
+1970 1887 serious(3270) 47 Mortalitie:(3271)
+337 12 206 Toyes:(3272) Renowne(3273) 83 Grace(3274) 12 2800
+71 Wine(3275) 4 1957 12 drawne,(3276) 83 20 meere(3277) Lees(3278)
+1941 1054 48 Vault,(3279) 31 brag(3280) 878
+1140 3226 83 Donalbaine.(3281)
+
+Donal.(3282) 1039 12 amisse?(3283)
+1577 405 are,(3284) 83 1223 66 know't:(3285)
+71 1301 20 Head,(3286) 20 Fountaine(3287) 4 35 Blood(3288)
+1941 stopt,(3289) 20 937 Source(3290) 4 197 12 stopt(3291)
+
+3095 1648 1638 Father's(3292) 2955
+
+1202 Oh,(3293) 104 whom?(3294)
+1378 Those(3295) 4 1019 2656 255 197 seem'd,(3296) 922 don't:(3297)
+2636 2991 83 2985 852 26 badg'd(3298) 138 2237
+1083 852 1228 2657 123 vnwip'd,(3299) 132 found(3300)
+1162 1228 Pillowes:(3301) 607 star'd,(3302) 83 852 distracted,(3303)
+1309 mans(3304) 1957 963 31 29 1816 138 987
+
+1577 O,(3305) 1592 379 1223 repent(3306) 1123 4 1003 furie,(3307)
+1157 379 948 kill(3308) 987
+
+3095 Wherefore(3309) 948 52 1716
+1577 1204 512 29 wise,(3310) amaz'd,(3311) temp'rate,(3312) 909 furious,(3313)
+Loyall,(3314) 83 Neutrall,(3315) 47 42 moment?(3316) 1309 2586
+2249 expedition(3317) 4 1003 violent(3318) 2021
+Out-run(3319) 20 pawser,(3320) Reason.(3321) 1545 lay(3322) 2845
+1732 Siluer(3323) skinne,(3324) lac'd(3325) 138 1732 2187 2793
+1226 1019 gash'd(3326) Stabs,(3327) look'd(3328) 559 42 Breach(3329) 47 2152
+350 Ruines(3330) wastfull(3331) entrance:(3332) 495 20 Murtherers,(3333)
+Steep'd(3334) 47 20 Colours(3335) 4 1228 Trade;(3336) 1228 2879
+Vnmannerly(3337) breech'd(3338) 138 gore:(3339) 183 406 refraine,(3340)
+1157 922 42 2147 31 loue;(3341) 83 47 198 heart,(3342)
+Courage,(3343) 31 make's(3344) 2429 knowne?(3345)
+2112 Helpe(3346) 1123 hence,(3347) hoa(3348)
+
+3095 1542 31 20 Lady(3349)
+
+1202 483 1223 132 729 13 tongues,(3350)
+1157 16 176 clayme(3351) 48 argument(3352) 34 ours?(3353)
+3281 1039 113 29 spoken(3354) 1705
+1160 13 2189 hid(3355) 47 59 augure(3356) hole,(3357)
+2299 rush,(3358) 83 seize(3359) vs?(3360) 2100 away,(3361)
+1452 Teares(3362) 24 66 1592 brew'd(3363)
+
+1202 1439 13 3140 Sorrow(3364)
+1162 20 foot(3365) 4 Motion(3366)
+
+1618 1542 31 20 Lady:(3367)
+1226 785 132 1509 13 2505 Frailties(3368) hid,(3369)
+1157 suffer(3370) 47 exposure;(3371) 1931 1432 meet,(3372)
+1226 2121 48 16 1193 piece(3373) 4 worke,(3374)
+70 1668 197 further.(3375) 1875 83 scruples(3376) 3189 2409
+887 20 1007 2998 4 1388 379 stand,(3377) 83 thence,(3378)
+1872 20 vndivulg'd(3379) pretence,(3380) 379 fight(3381)
+1243 Treasonous(3382) Mallice(3383)
+
+3095 1226 325 1223 379
+
+1167 1083 26
+
+1577 2100 briefely(3384) 1062 55 manly(3385) readinesse,(3386)
+1226 1145 1626 Hall(3387) 1063
+
+1167 Well(3388) contented.(3389)
+
+1179
+
+Malc.(3390) 1039 204 52 doe?(3391)
+2100 66 consort(3392) 138 1693
+70 1544 59 vnfelt(3393) Sorrow,(3394) 12 59 Office(3395)
+1265 20 2675 1194 do's(3396) easie.(3397)
+1460 31 995
+
+Don.(3398) 70 Ireland,(3399) I:(3400)
+1452 seperated(3401) fortune(3402) 1144 2246 1432 1797 20 safer:(3403)
+1160 132 3283 there's(3404) 2879 47 mens(3405) smiles;(3406)
+71 neere(3407) 47 2237 20 neerer(3408) 1193
+
+3389 11 murtherous(3409) Shaft(3410) 2310 shot,(3411)
+2361 66 1592 lighted:(3412) 83 13 safest(3413) 949
+1941 31 auoid(3414) 20 ayme.(3415) 3115 31 Horse,(3416)
+1226 1931 1432 66 29 daintie(3417) 4 leaue-taking,(3418)
+636 shift(3419) away:(3420) 3403 warrant(3421) 47 198 Theft,(3422)
+1265 steales(3423) 197 2523 785 3403 573 mercie(3424) left.(3425)
+
+1179
+
+
+
+1180 1937
+
+1140 1982 138 59 Old(3426) 2589
+
+3425 2589 Threescore(3427) 83 288 379 512 3094 2404
+Within(3428) 20 Volume(3429) 4 123 170 379 1509 1578
+Houres(3430) dreadfull,(3431) 83 1385 1824 206 48 2942 1523
+2361 trifled(3432) 1457 knowings(3433)
+
+1387 Ha,(3434) 322 Father,(3435)
+1658 seest(3436) 20 Heauens,(3437) 255 troubled(3438) 138 3303 2561
+Threatens(3439) 1019 1193 Stage:(3440) byth'(3441) 2685 1823 Day,(3442)
+1226 1592 darke(3443) 1523 strangles(3444) 20 trauailing(3445) Lampe:(3446)
+Is't(3447) 2315 predominance,(3448) 116 20 2319 shame,(3449)
+1157 1829 789 20 face(3450) 4 1689 intombe,(3451)
+362 liuing(3452) 2084 113 kisse(3453) it?(3454)
+3425 2589 3248 vnnaturall,(3455)
+Euen(3456) 559 20 2512 2310 2843 2061 Tuesday(3457) last,(3458)
+173 Faulcon(3459) towring(3460) 47 1478 pride(3461) 4 2613
+1987 104 42 Mowsing(3462) 2855 hawkt(3463) at,(3464) 83 kill'd(3465)
+
+1387 1226 Duncans(3466) Horses,(3467)
+(A(3468) 1087 16 strange,(3469) 83 certaine)(3470)
+Beauteous,(3471) 83 swift,(3472) 20 Minions(3473) 4 1228 Race,(3474)
+Turn'd(3475) 1586 47 nature,(3476) 3205 1228 stalls,(3477) flong(3478) 2607
+Contending(3479) 1424 Obedience,(3480) 255 607 385
+Make(3481) Warre(3482) 138 Mankinde(3483)
+
+3425 2589 3248 said,(3484) 607 eate(3485) 222 351
+
+1387 490 948 2030
+70 1589 amazement(3486) 4 2427 eyes(3487) 198 3327 vpon't.(3488)
+1140 3162
+
+Heere(3489) 1376 20 322 3162
+1579 2290 20 world(3490) 1620 2526
+3095 483 208 52 not?(3491)
+Ross.(3492) 3446 known(3493) 183 948 48 213 252 1193 deed?(3494)
+3095 3294 198 103 1462 slaine(3495)
+
+3491 Alas(3496) 20 966
+1039 322 406 607 pretend?(3497)
+3095 490 852 subborned,(3498)
+1939 83 2899 20 1713 219 Sonnes(3499)
+1628 stolne(3500) 271 83 fled,(3501) 123 puts(3502) 1239 987
+Suspition(3503) 4 20 2512
+
+1387 1208 1236 still,(3504)
+Thriftlesse(3505) 2162 198 204 rauen(3506) 1570
+Thine(3507) 2033 1672 meanes:(3508) 2175 1823 16 like,(3509)
+71 Soueraignty(3510) 204 2077 1239 103
+
+3095 1528 12 839 nam'd,(3511) 83 2103 31 Scone(3512)
+70 29 inuested(3513)
+
+1387 1160 12 3465 body?(3514)
+3095 Carried(3515) 31 Colmekill,(3516)
+71 Sacred(3517) Store-house(3518) 4 1019 Predecessors,(3519)
+1226 Guardian(3520) 4 1228 Bones(3521)
+
+1387 2497 52 31 Scone?(3522)
+3095 1309 Cosin,(3523) 1460 31 Fife(3524)
+
+1387 Well,(3525) 379 204 1499
+
+3095 3387 176 52 208 1385 wel(3526) 1461 2968 Adieu(3527)
+Least(3528) 13 3040 Robes(3529) sit(3530) easier(3531) 252 13 209
+
+1387 Farewell,(3532) 2884
+
+3425 M.(3533) 3068 benyson(3534) 419 138 725 83 138 182
+1157 385 1124 322 4 bad,(3535) 83 Friends(3536) 4 Foes.(3537)
+
+1179 omnes(3538)
+
+1134 Tertius.(3539) 1180 1137
+
+1140 1576
+
+1618 1658 1467 197 now,(3540) 1184 1409 1669 2453
+916 20 weyard(3541) Women(3542) promis'd,(3543) 83 379 1622
+1658 playd'st(3544) 16 fowly(3545) for't:(3546) 1592 197 963 saide(3547)
+510 113 66 3126 47 1366 Posterity,(3548)
+636 198 1003 911 113 29 20 Roote,(3549) 83 2884
+1243 982 Kings.(3550) 245 495 1044 1627 120 2116
+916 1239 1505 1614 1228 Speeches(3551) shine,(3552)
+483 104 20 verities(3553) 55 1505 338 good,(3554)
+2299 607 66 29 1003 Oracles(3555) 255 2404
+1226 585 1123 1570 47 hope.(3556) 636 hush,(3557) 573 more.(3558)
+
+Senit(3559) sounded.(3560) 1140 103 255 1184 3348 1187 1982 Lords,(3561)
+83
+1940
+
+1577 Heere's(3562) 13 chiefe(3563) 2344
+
+2414 245 1005 922 1962 forgotten,(3564)
+510 922 bene(3565) 255 42 gap(3566) 47 13 1007 Feast,(3567)
+1226 all-thing(3568) vnbecomming(3569)
+
+1577 70 2413 132 729 42 solemne(3570) Supper(3571) sir,(3572)
+1226 1460 541 35 presence(3573)
+
+1618 1923 35 1953
+Command(3574) 1239 1483 31 20 123 1003 duties(3575)
+1628 138 42 16 indissoluble(3576) tye(3577)
+350 2326 knit(3578)
+
+1577 Ride(3579) 52 48 afternoone?(3580)
+3255 I,(3581) 1003 322 Lord(3582)
+
+1577 50 113 1509 2079 desir'd(3583) 35 322 aduice(3584)
+(Which(3585) 380 1462 894 1797 graue,(3586) 83 prosperous)(3587)
+887 48 2618 Councell:(3588) 206 2614 41 31 morrow.(3589)
+3446 1580 52 ride?(3590)
+3255 916 farre,(3591) 1003 1320 255 204 2232 1570 20 151
+'Twixt(3592) this,(3593) 83 Supper.(3594) 1372 66 1003 Horse(3595) 20 better,(3596)
+379 553 1367 42 borrower(3597) 4 20 2263
+350 42 3442 houre,(3598) 116 twaine(3599)
+
+1577 Faile(3600) 66 13 2952
+
+3255 991 1320 379 204 66
+
+1577 50 2890 13 1193 Cozens(3601) 24 bestow'd(3602)
+887 England,(3603) 83 47 3398 66 confessing(3604)
+2636 cruell(3605) Parricide,(3606) filling(3607) 1228 hearers(3608)
+1323 1386 inuention.(3609) 636 4 198 31 2292
+362 therewithall,(3610) 132 1144 1509 cause(3611) 4 2016
+Crauing(3612) 1432 ioyntly.(3613) Hye(3614) 52 31 Horse:(3615)
+Adieu,(3616) 161 52 2424 44 3187
+3163 Fleance(3617) 138 1612
+3255 3580 1003 322 Lord:(3618) 13 151 789 1770 vpon's(3619)
+
+1577 379 184 35 Horses(3620) 3471 83 30 4 foot:(3621)
+1226 325 379 1223 commend(3622) 52 31 1228 backs.(3623)
+Farwell.(3624)
+
+2218 1576
+
+1923 1754 1194 29 master(3625) 4 1019 869
+1273 seuen(3626) 44 2263 31 1124 societie(3627)
+71 sweeter(3628) 2105
+50 204 2246 13 911 161 3570 151 alone:(3629)
+While(3630) then,(3631) 1388 29 138 509
+
+1179 Lords.(3632)
+
+Sirrha,(3633) 42 777 138 2069 Attend(3634) 182 2298
+1452 pleasure?(3635)
+Seruant.(3636) 490 3283 1003 1320 579 20 Pallace(3637)
+Gate(3638)
+
+1577 2647 987 37 vs.(3639)
+
+2218 3635
+
+70 29 930 12 nothing,(3640) 206 31 29 safely(3641) 935
+1452 2980 47 1661 sticke(3642) 2388
+1226 47 1019 Royaltie(3643) 4 1236 reignes(3644) 198
+1265 385 29 fear'd.(3645) 3248 1656 1005 dares,(3646)
+1226 31 198 dauntlesse(3647) temper(3648) 4 1019 2771
+1528 1462 42 Wisdome,(3649) 198 1554 guide(3650) 1019 2562
+70 act(3651) 47 safetie.(3652) 1164 12 2580 206 he,(3653)
+1863 931 379 1223 2327 83 1783 1281
+991 Genius(3654) 12 rebuk'd,(3655) 255 197 12 3116
+Mark(3656) Anthonies(3657) 963 104 Caesar.(3658) 1528 chid(3659) 20 1556
+362 188 607 1062 20 Name(3660) 4 915 1239 1483
+1226 1279 987 1384 31 2433 2175 Prophet-like,(3661)
+490 hayl'd(3662) 993 2884 31 42 Line(3663) 4 3549
+1162 1003 1287 607 plac'd(3664) 42 fruitlesse(3665) 1821
+1226 1062 42 barren(3666) Scepter(3667) 47 1003 Gripe,(3668)
+Thence(3669) 31 29 wrencht(3670) 138 59 vnlineall(3671) 2304
+1309 Sonne(3672) 4 2427 succeeding:(3673) if't(3674) 29 2202
+350 Banquo's(3675) Issue(3676) 1509 379 fil'd(3677) 1003 2771
+350 2116 20 gracious(3678) 2225 1509 379 murther'd,(3679)
+Put(3680) Rancours(3681) 47 20 Vessell(3682) 4 1003 Peace(3683)
+1765 34 2116 83 2427 eternall(3684) Iewell(3685)
+Giuen(3686) 31 20 964 Enemie(3687) 4 1883
+70 1124 987 1659 20 1643 4 1661 3549
+Rather(3688) 252 2202 1044 2189 810 20 Lyst,(3689)
+1226 champion(3690) 1123 31 1589 vtterance.(3691)
+902 903
+1140 Seruant,(3692) 83 219 Murtherers.(3693)
+
+2798 2969 31 20 Doore,(3694) 83 1909 495 161 132 call.(3695)
+
+2218 3635
+
+1987 197 66 yesterday(3696) 132 1946 together?(3697)
+Murth.(3698) 510 was,(3699) 325 190 35 1953
+
+1577 3387 3630
+2798 1509 52 consider'd(3700) 4 1003 speeches:(3701)
+Know,(3702) 198 197 963 3652 47 20 980 past,(3703)
+1265 held(3704) 52 325 1783 fortune,(3705)
+1265 52 2135 922 894 13 2306 2010
+11 379 338 322 31 725 47 13 163 conference,(3706)
+Past(3707) 47 probation(3708) 138 2069
+1579 52 852 2491 47 1558 402 crost:(3709)
+71 Instruments:(3710) 183 1914 138 1693
+1226 26 1385 else,(3711) 198 493
+70 2799 42 Soule,(3712) 83 31 42 Notion(3713) craz'd,(3714)
+Say,(3715) 1562 948 1661
+
+1.Murth.(3716) 405 338 197 2029 31 1432
+
+1577 379 948 2030
+1226 1715 2122 123 12 142
+1452 435 4 689 meeting.(3717)
+1237 52 1972 35 patience(3718) 325 predominant,(3719)
+887 35 3475 198 52 512 1931 48 goe?(3720)
+1628 52 325 Gospell'd,(3721) 31 1839 34 48 322 2577
+1226 34 1019 Issue,(3722) 1879 1784 1557
+2361 bow'd(3723) 52 31 20 Graue,(3724) 83 begger'd(3725)
+Yours(3726) 34 euer?(3727)
+3715 50 24 1327 1003 Liege(3728)
+
+1577 3580 47 20 Catalogue(3729) 1629 2969 34 1327
+916 Hounds,(3730) 83 Greyhounds,(3731) Mungrels,(3732) Spaniels,(3733) Curres,(3734)
+Showghes,(3735) Water-Rugs,(3736) 83 Demy-Wolues(3737) 24 clipt(3738)
+337 104 20 3659 4 Dogges:(3739) 20 valued(3740) 54
+Distinguishes(3741) 20 3471 20 1994 20 subtle,(3742)
+71 House-keeper,(3743) 20 Hunter,(3744) 1754 145
+According(3745) 31 20 gift,(3746) 123 bounteous(3747) 1236
+2361 47 993 clos'd:(3748) whereby(3749) 1005 789 2012
+Particular(3750) 1772 120 20 Bill,(3751)
+1157 writes(3752) 987 26 alike:(3753) 83 325 4 men.(3754)
+Now,(3755) 376 52 1509 42 station(3756) 47 20 file,(3757)
+1654 1626 worst(3758) ranke(3759) 4 Manhood,(3760) say't,(3761)
+1226 379 204 1062 198 2316 47 35 Bosomes,(3762)
+1863 1267 225 35 3686 off,(3763)
+Grapples(3764) 52 31 20 heart;(3765) 83 2429 4 2374
+1204 3008 13 Health(3766) 206 sickly(3767) 47 1019 1787
+1265 47 1019 2867 852 perfect(3768)
+
+2.Murth.(3769) 379 1360 3004 1003 1944
+Whom(3770) 20 vile(3771) Blowes(3772) 83 Buffets(3773) 4 20 72
+2361 325 incens'd,(3774) 198 379 1360 recklesse(3775) 1081 379 1503
+70 spight(3776) 20 72
+
+3715 1226 379 another,(3777)
+1083 wearie(3778) 138 Disasters,(3779) tugg'd(3780) 138 1262
+1157 379 385 585 1003 1957 55 135 Chance,(3781)
+70 mend(3782) 329 116 29 rid(3783) 2973
+
+1577 81 4 52 1668 1661 963 35 3686
+
+3697 True,(3784) 1003 3581
+
+1577 1083 12 1005 2001 83 47 165 1193 distance,(3785)
+1157 1754 minute(3786) 4 1019 being,(3787) thrusts(3788)
+1872 1003 neer'st(3789) 4 Life:(3790) 83 1016 379 406
+1323 bare-fac'd(3791) power(3792) sweepe(3793) 993 120 1003 1731
+1226 2104 1003 204 auouch(3794) 2173 1592 379 553 533
+350 certaine(3795) friends(3796) 198 24 1797 his,(3797) 83 1568
+1863 loues(3798) 379 176 66 drop,(3799) 206 wayle(3800) 1019 fall,(3801)
+1204 379 1003 911 struck(3802) 2683 83 3211 197 1888
+1157 379 31 35 assistance(3803) 1223 1124 loue,(3804)
+Masking(3805) 20 2316 120 20 964 2303
+350 sundry(3806) weightie(3807) Reasons(3808)
+
+3768 50 shall,(3809) 1003 1320
+Performe(3810) 1081 52 3151 1432
+
+3715 1538 13 Liues-(3811)
+1577 1648 2181 2060 450 509
+3427 48 3597 44 most,(3812)
+379 204 aduise(3813) 52 1473 31 2025 35 selues,(3814)
+Acquaint(3815) 52 138 20 3767 Spy(3816) 1496 869
+71 moment(3817) on't,(3818) for't(3819) 553 29 1461 31 2263
+1226 327 120 20 Pallace:(3820) alwayes(3821) 2903
+1157 379 require(3822) 42 clearenesse;(3823) 83 138 1281
+70 1217 573 Rubs(3824) 157 Botches(3825) 47 20 Worke:(3826)
+Fleans(3827) ,(3828) 1019 Sonne,(3829) 198 keepes(3830) 993 companie,(3831)
+1863 absence(3832) 12 573 1815 materiall(3833) 31 1483
+2175 12 1019 Fathers,(3834) 553 embrace(3835) 20 fate(3836)
+1243 198 3442 houre:(3837) resolue(3838) 35 selues(3839) apart,(3840)
+1460 1044 31 52 anon(3841)
+
+3697 50 24 resolu'd,(3842) 1003 3581
+
+1577 1460 1770 1239 52 straight:(3843) abide(3844) within,(3845)
+510 12 concluded:(3846) 1662 1366 Soules(3847) flight,(3848)
+245 197 1972 2694 553 1972 197 919 31 3187
+
+1179
+
+
+1180 1181
+
+1140 2109 3247 83 42 3635
+
+2112 1941 1661 2103 120 Court?(3849)
+3635 3580 Madame,(3850) 206 returnes(3851) 2911 31 1523
+
+2112 1213 31 20 1184 379 385 2164 1019 leysure,(3852)
+350 42 323 921
+
+3635 3849 379 will.(3853)
+2093
+
+2112 Nought's(3854) 1312 1254 spent.(3855)
+1160 13 2120 12 499 579 content:(3856)
+3248 safer,(3857) 31 29 198 123 132 destroy,(3858)
+2175 104 destruction(3859) dwell(3860) 47 doubtfull(3861) ioy.(3862)
+1140 1036
+
+1579 3539 1003 1320 947 1223 52 2246 alone?(3863)
+1243 sorryest(3864) Fancies(3865) 35 Companions(3866) making,(3867)
+Vsing(3868) 182 Thoughts,(3869) 123 113 1631 1509 3263
+1323 987 607 1926 on:(3870) 1385 579 26 remedie(3871)
+Should(3872) 29 579 regard:(3873) 502 1152 12 1461
+
+1577 50 1509 scorch'd(3874) 20 Snake,(3875) 66 3464 it:(3876)
+Shee'le(3877) close,(3878) 83 29 1478 2523 whilest(3879) 13 2572 3382
+Remaines(3880) 47 danger(3881) 4 1478 1457 Tooth.(3882)
+636 1931 20 frame(3883) 4 1385 dis-ioynt,(3884)
+81 20 Worlds(3885) suffer,(3886)
+Ere(3887) 132 204 3484 13 Meale(3888) 47 2919 83 2912
+887 20 affliction(3889) 4 17 1404 Dreames,(3890)
+1157 3189 1432 Nightly:(3891) Better(3892) 29 138 20 2800
+3769 we,(3893) 31 gayne(3894) 13 peace,(3895) 1509 2716 31 3894
+2175 55 20 torture(3896) 4 20 Minde(3897) 31 2967
+887 restlesse(3898) extasie.(3899)
+2490 12 47 1019 Graue:(3900)
+2930 Lifes(3901) fitfull(3902) Feuer,(3903) 1005 sleepes(3904) 2404
+3066 3146 1461 1019 worst:(3905) 157 1264 157 Poyson,(3906)
+3382 domestique,(3907) forraine(3908) Leuie,(3909) 3639
+1751 touch(3910) 993 98
+
+2112 1902 3869
+Gentle(3911) 1003 1320 sleeke(3912) 1740 35 rugged(3913) Lookes,(3914)
+2588 bright(3915) 83 Iouiall(3916) 505 35 Guests(3917) 31 1523
+
+1577 1083 1144 379 2289 83 325 379 1839 29 2069
+1923 35 3193 588 31 1662
+1874 993 Eminence,(3918) 1797 138 2087 83 2305
+Vnsafe(3919) 20 while,(3920) 198 1908 553 laue(3921)
+1452 1896 47 17 flattering(3922) streames,(3923)
+1226 1124 13 2985 Vizards(3924) 31 13 Hearts,(3925)
+Disguising(3926) 1081 607 24
+
+2112 405 553 1217 48
+
+1577 3304 2027 4 Scorpions(3927) 12 1003 2771 deare(3928) Wife:(3929)
+1658 know'st,(3930) 198 1661 83 1019 3826 1672
+
+2112 636 47 2116 2261 Coppie's(3931) 66 eterne(3932)
+
+1577 1970 1302 1782 607 24 assaileable,(3933)
+2175 29 1215 iocund:(3934) 1158 20 Bat(3935) 1462 flowne(3936)
+1732 Cloyster'd(3937) 3847 1158 31 2085 2808 2847
+71 shard-borne(3938) Beetle,(3939) 138 1019 drowsie(3940) hums,(3941)
+2361 rung(3942) 2315 yawning(3943) Peale,(3944)
+1164 1144 29 1461 42 2512 4 dreadfull(3945) 681
+
+2112 3199 31 29 done?(3946)
+1577 2588 2306 4 20 knowledge,(3947) 1965 Chuck,(3948)
+1273 1215 applaud(3949) 20 2888 2762 seeling(3950) 2263
+Skarfe(3951) 1570 20 2596 2087 4 pittifull(3952) 3441
+1226 138 1366 bloodie(3953) 83 inuisible(3954) 2998
+Cancell(3955) 83 teare(3956) 31 pieces(3957) 198 1007 Bond,(3958)
+1265 3829 1123 pale.(3959) 2084 thickens,(3960)
+1226 20 Crow(3961) 3119 1992 1284 Rookie(3962) Wood:(3963)
+1619 1385 4 1524 begin(3964) 31 droope,(3965) 83 drowse,(3966)
+2125 2315 2085 Agents(3967) 31 1228 Prey's(3968) 1223 rowse.(3969)
+1658 maruell'st(3970) 44 1003 1720 206 729 1505 3503
+1623 1279 begun,(3971) 1124 3140 2040 104 ill:(3972)
+1083 3261 2969 138 1988
+
+1179
+
+
+1180 1465
+
+1140 1141 3692
+
+1143 636 183 948 2104 1505 ioyne(3973) 138 3359
+1156 103
+
+1150 1528 needes(3974) 66 13 mistrust,(3975) since(3976) 1005 deliuers(3977)
+1452 Offices,(3978) 83 1081 132 1509 31 1503
+70 20 direction(3979) iust(3980)
+
+1143 2175 3126 138 2409
+71 West(3981) 1592 glimmers(3982) 138 308 streakes(3983) 4 Day.(3984)
+2798 spurres(3985) 20 lated(3986) Traueller(3987) apace,(3988)
+70 3893 20 3152 Inne,(3989) 83 3406 approches(3990)
+71 subiect(3991) 4 13 Watch(3992)
+
+1156 2854 379 2890 3619
+
+1661 1183 1482 1432 42 2084 there,(3993) 3347
+
+1150 2175 1823 hee:(3994)
+71 rest,(3995) 198 24 542 20 681 4 expectation,(3996)
+Alreadie(3997) 24 1626 Court(3998)
+
+1143 1732 3619 2969 215
+
+1156 Almost(3999) 42 mile:(4000) 206 1005 789 vsually,(4001)
+1083 26 2298 1503 120 2063 1284 3636 3637
+3480 197 1228 Walke.(4002)
+1140 1661 83 Fleans,(4003) 138 42 2709
+
+1150 173 Light,(4004) 42 2084
+
+1156 3248 1258
+
+1143 908 too't(4005)
+
+3255 510 204 29 Rayne(4006) 31 1523
+
+1143 1923 197 1044 1760
+
+3255 3304 Trecherie!(4007)
+Flye(4008) 322 4002 flye,(4009) 4008 4008
+1658 may'st(4010) reuenge.(4011) 1289 Slaue!(4012)
+1156 1204 948 2756 919 20 Light?(4013)
+1143 Was't(4014) 66 20 way?(4015)
+1156 1970 206 145 2683 20 3671 12 fled(4016)
+
+1150 50 1509 3027
+Best(4017) 2799 4 13 Affaire(4018)
+
+1143 3524 let's(4019) 3360 83 1340 402 1656 12 done.(4020)
+
+1179
+
+
+Scaena(4021) 1937
+
+2099 prepar'd.(4022) 1140 1614 3247 1982 1187 3560 83
+1940
+
+1577 405 1668 35 2033 degrees,(4023) 3529 2683
+298 188 83 3457 20 hearty(4024) 2302
+
+3631 1811 31 35 Maiesty(4025)
+
+1577 1452 911 204 mingle(4026) 138 Society,(4027)
+1226 953 20 humble(4028) Host:(4029)
+1452 2411 3829 1478 2016 206 47 1002 151
+50 204 3821 1478 2302
+
+2414 Pronounce(4030) 197 34 1123 1620 31 26 13 Friends,(4031)
+350 1003 2147 speakes,(4032) 607 24 welcome.(4033)
+1140 188 Murtherer.(4034)
+
+1577 19 607 encounter(4035) 1505 138 1228 harts(4036) thanks(4037)
+81 2519 24 euen:(4038) 2476 1460 3529 1626 mid'st,(4039)
+2588 large(4040) 47 mirth,(4041) 3840 wee'l(4042) 2753 42 Measure(4043)
+71 Table(4044) round.(4045) 1970 2654 1239 1366 3449
+
+Mur.(4046) 3248 3674 252
+
+1577 3248 152 1505 without,(4047) 252 1005 1183
+1941 1005 dispatch'd?(4048)
+4045 991 3581 1019 2927 12 cut,(4049) 198 379 948 34 993
+
+1609 1658 1989 20 1002 1496 Cut-throats,(4050)
+1540 hee's(4051) 322 198 948 20 559 34 Fleans:(4052)
+245 1215 did'st(4053) 329 1215 1989 20 Non-pareill(4054)
+
+4045 3203 1638 2690
+3826 12 scap'd(4055)
+
+1577 2175 1376 1003 Fit(4056) againe:(4057)
+379 922 2079 1962 perfect;(4058)
+Whole(4059) 255 20 Marble,(4060) founded(4061) 255 20 Rocke,(4062)
+916 2389 83 generall,(4063) 255 20 casing(4064) 1697
+636 142 379 1360 cabin'd,(4065) crib'd,(4066) confin'd,(4067) bound(4068) 47
+70 sawcy(4069) doubts,(4070) 83 feares.(4071) 636 3674 safe?(4072)
+4045 3580 1003 322 3617 2020 47 42 ditch(4073) 1005 bides,(4074)
+1323 twenty(4075) trenched(4076) gashes(4077) 55 1019 head;(4078)
+71 211 42 2867 31 1236
+
+1577 1811 34 that:(4079)
+1164 20 growne(4080) 2308 lyes,(4081) 20 worme(4082) 2310 4015
+2361 1236 198 47 151 204 Venom(4083) 2366
+1309 teeth(4084) 34 1589 present.(4085) 2758 1505 1494 31 3149
+Wee'l(4086) 2890 13 3838 againe.(4087)
+
+2218 Murderer.(4088)
+
+2112 991 1638 1320
+405 133 66 1504 20 Cheere,(4089) 20 2952 12 sold(4090)
+1157 12 66 177 vouch'd,(4091) 2599 1823 42 making:(4092)
+3248 giuen,(4093) 138 2105 31 feede(4094) 852 1002 44 home:(4095)
+1394 3377 20 sawce(4096) 31 meate(4097) 12 Ceremony,(4098)
+Meeting(4099) 852 bare(4100) 579 759
+1140 20 Ghost(4101) 4 1662 83 sits(4102) 47 2109 place.(4103)
+
+1577 Sweet(4104) Remembrancer:(4105)
+2798 322 digestion(4106) waite(4107) 55 Appetite,(4108)
+1226 health(4109) 55 1797
+
+1378 May't(4110) 190 35 1953 3529
+
+1577 1545 922 132 142 13 Countries(4111) 1769 roof'd,(4112)
+1704 20 grac'd(4113) 546 4 13 1661 present:(4114)
+Who,(4115) 176 379 227 challenge(4116) 34 vnkindnesse,(4117)
+2175 pitty(4118) 34 Mischance(4119)
+
+1387 1732 3831 (Sir)(4120)
+Layes(4121) blame(4122) 1239 1019 promise.(4123) Pleas't(4124) 35 1953
+70 grace(4125) 1432 138 35 1638 Company?(4126)
+1577 71 Table's(4127) 2027
+
+1378 3488 12 42 961 reseru'd(4128) 2690
+
+1577 Where?(4129)
+1378 3488 1003 322 Lord.(4130)
+1039 1581 198 moues(4131) 35 Highnesse?(4132)
+1577 1265 4 52 1509 1461 this?(4133)
+3631 1775 1003 322 Lord?(4134)
+1577 1658 canst(4135) 66 1340 379 948 3875 neuer(4136) 3189
+1727 goary(4137) lockes(4138) 44 1123
+
+1387 Gentlemen(4139) rise,(4140) 1019 1953 12 66 1365
+
+2112 Sit(4141) 1292 Friends:(4142) 1003 3581 12 177 930
+1226 1462 1962 120 1019 youth.(4143) Pray(4144) 52 2246 Seat,(4145)
+71 fit(4146) 12 momentary,(4147) 1239 42 2135
+1528 204 2911 29 2731 245 1656 52 681 993
+405 1144 offend(4148) 1281 83 extend(4149) 1019 Passion,(4150)
+Feed,(4151) 83 regard(4152) 993 1642 1628 52 42 man?(4153)
+1577 3580 83 42 3158 3004 198 2570 1588 55 198
+1265 493 appall(4154) 20 Diuell(4155)
+
+2414 1289 proper(4156) stuffe:(4157)
+11 12 20 937 painting(4158) 4 35 2327
+11 12 20 Ayre-drawne-Dagger(4159) 123 52 3116
+Led(4160) 52 31 Duncan.(4161) 3304 17 flawes(4162) 83 starts(4163)
+(Impostors(4164) 31 true(4165) feare)(4166) 385 1365 1367
+173 womans(4167) story,(4168) 44 42 Winters(4169) fire(4170)
+Authoriz'd(4171) 104 1478 Grandam:(4172) 3007 197 2523
+483 133 52 1124 165 faces?(4173) 362 1254 1461
+405 1588 206 55 42 stoole(4174)
+
+1577 2575 208 2968
+Behold,(4175) 1382 loe,(4176) 402 1340 2069
+483 1081 2102 3580 376 1215 4134 nod,(4177) 1384 2697
+245 Charnell(4178) houses,(4179) 83 13 3234 553 387
+3294 198 132 bury,(4180) backe;(4181) 13 Monuments(4182)
+1534 29 20 Mawes(4183) 4 Kytes(4184)
+
+2414 What?(4185) 968 vnmann'd(4186) 47 folly(4187)
+
+1577 245 379 3126 2456 379 1947 993
+
+2414 Fie(4188) 34 3007
+
+1577 3287 1462 3564 shed(4189) 1158 3539 1626 olden(4190) 151
+3886 2154 Statute(4191) purg'd(4192) 20 2342 Weale:(4193)
+3580 83 3975 3127 Murthers(4194) 1509 3564 perform'd(4195)
+3256 1404 34 20 eare.(4196) 71 980 195 bene,(4197)
+1157 785 20 2606 852 2607 20 1194 385 dye,(4198)
+1226 495 59 end:(4199) 636 142 607 3235 2911
+1323 4074 2117 murthers(4200) 55 1228 crownes,(4201)
+1226 push(4202) 1432 120 13 stooles.(4203) 11 12 213 1386
+2175 165 42 2935 12
+
+2414 991 1292 3581
+1648 1463 3535 133 lacke(4204) 52
+
+1577 379 133 forget:(4205)
+65 66 muse(4206) 44 1123 1003 16 1292 4030
+379 1509 42 1386 infirmity,(4207) 123 12 1887
+70 182 198 1668 1988 2762 2429 83 4108 31 2453
+2175 1460 3529 2683 1482 1123 308 2624 2232 full:(4208)
+1140 2824
+
+379 2753 31 1589 1448 ioy(4209) 1496 whole(4210) Table,(4211)
+1226 31 13 deere(4212) 2710 1662 1977 132 misse:(4213)
+1702 1005 852 heere:(4214) 31 2453 83 993 132 thirst,(4215)
+1226 26 31 26
+
+3631 1452 duties,(4216) 83 20 pledge(4217)
+
+1609 Auant,(4218) 909 quit(4219) 1003 1731 1931 20 earth(4220) 2039 2764
+1727 bones(4221) 24 marrowlesse,(4222) 1366 2654 12 cold:(4223)
+1658 1467 573 speculation(4224) 47 182 3486
+1265 1215 dost(4225) glare(4226) 138
+
+2414 Thinke(4227) 4 48 322 Peeres(4228)
+636 255 42 1087 4 Custome:(4229) 3248 573 1510
+1765 197 spoyles(4230) 20 pleasure(4231) 4 20 151
+
+1577 1039 1194 dare,(4232) 379 dare:(4233)
+Approach(4234) 1215 559 20 3912 Russian(4235) Beare,(4236)
+71 arm'd(4237) Rhinoceros,(4238) 116 1589 Hircan(4239) Tiger,(4240)
+Take(4241) 135 shape(4242) 206 1738 83 1003 firme(4243) Nerues(4244)
+1534 4135 tremble.(4245) 1337 29 aliue(4246) 1569
+1226 2570 1123 31 20 Desart(4247) 138 1366 2692
+245 trembling(4248) 379 inhabit(4249) 3630 protest(4250) mee(4251)
+71 Baby(4252) 4 42 Girle.(4253) Hence(4254) 1876 shadow,(4255)
+Vnreall(4256) mock'ry(4257) hence.(4258) 483 2202 931 2103
+379 1360 42 1194 4056 1839 52 3529 380
+
+2414 405 1509 displac'd(4259) 20 4040
+Broke(4260) 20 322 meeting,(4261) 138 16 admir'd(4262) disorder(4263)
+
+1577 1751 165 1385 be,(4264)
+1226 ouercome(4265) 1432 559 42 Summers(4266) Clowd,(4267)
+1893 13 speciall(4268) wonder?(4269) 405 1124 1123 1386
+3455 31 20 disposition(4270) 198 379 2007
+362 142 379 1926 52 512 behold(4271) 165 sights,(4272)
+1226 2246 20 naturall(4273) Rubie(4274) 4 35 Cheekes,(4275)
+362 2427 12 blanch'd(4276) 138 1622
+
+1387 1039 4271 1003 4133
+2414 379 1839 52 1384 1801 1005 growes(4277) worse(4278) 909 4277
+Question(4279) enrages(4280) 3148 44 once,(4281) goodnight.(4282)
+908 66 1239 20 order(4283) 4 35 2780
+636 419 44 1599
+
+Len.(4284) 1619 night,(4285) 83 152 4108
+3633 1019 4024
+
+2414 173 1508 goodnight(4286) 31 2454
+
+2218 3631
+
+1577 510 204 1509 2654 607 say:(4287)
+3287 204 1509 Blood:(4288)
+Stones(4289) 1509 1962 2029 31 moue,(4290) 909 Trees(4291) 31 3219
+Augures,(4292) 83 vnderstood(4293) Relations,(4294) 1509
+80 Maggot(4295) Pyes,(4296) 909 Choughes,(4297) 909 Rookes(4298) brought(4299) 586
+71 secret'st(4300) 1194 4 Blood.(4301) 1039 12 20 night?(4302)
+2414 3998 44 oddes(4303) 138 morning,(4304) 123 12 123
+
+1577 1579 say'st(4305) 1215 198 Macduff(4306) denies(4307) 1019 546
+298 13 1007 bidding(4308)
+
+2414 2590 52 387 31 993 Sir?(4309)
+1577 379 2890 197 104 20 way:(4310) 636 379 204 send:(4311)
+1970 66 42 145 4 987 206 47 1019 house(4312)
+379 2246 42 2708 Feed.(4313) 379 204 31 3149
+(And(4314) betimes(4315) 379 will)(4316) 31 20 3540 Sisters.(4317)
+2003 1144 607 3219 34 142 379 1360 bent(4318) 31 1668
+80 20 3757 meanes,(4319) 20 worst,(4320) 34 2427 2033 3553
+337 causes(4321) 1144 1504 2158 379 1360 47 2654
+Stept(4322) 47 325 3590 198 113 379 wade(4323) 573 2579
+Returning(4324) 852 255 tedious(4325) 255 419 ore:(4326)
+1747 1385 379 1509 47 head,(4327) 198 204 31 1558
+1265 553 29 acted,(4328) 1158 607 176 29 scand(4329)
+
+2414 405 4203 20 season(4330) 4 26 Natures,(4331) 2912
+
+1577 2762 4041 31 2700 991 1386 909 self-abuse(4332)
+1941 20 initiate(4333) 2919 198 wants(4334) 2619 vse:(4335)
+50 24 1592 206 yong(4336) indeed.(4337)
+
+1179
+
+
+1180 2108
+
+1466 1140 20 1141 Witches,(4338) 1189 Hecat.(4339)
+
+1143 483 402 142 Hecat,(4340) 52 1588 angerly?(4341)
+Hec.(4342) 1806 379 66 reason(4343) (Beldams)(4344) 255 52 are?(4345)
+Sawcy,(4346) 83 ouer-bold,(4347) 402 948 52 2570
+70 Trade,(4348) 83 Trafficke(4349) 138 1614
+887 Riddles,(4350) 83 Affaires(4351) 4 death;(4352)
+1226 379 20 Mistris(4353) 4 35 Charmes,(4354)
+71 1043 contriuer(4355) 4 26 harmes,(4356)
+1987 4135 1582 31 1755 1003 2011
+1337 1544 20 glory(4357) 4 13 Art?(4358)
+1226 123 12 worse,(4359) 26 52 1509 1461
+2361 3564 206 34 42 wayward(4360) 3828
+Spightfull,(4361) 83 wrathfull,(4362) 183 816 others(4363) do)(4364)
+Loues(4365) 34 1019 2033 ends,(4366) 66 34 509
+636 1124 amends(4367) now:(4368) 2758 52 gon,(4369)
+1226 44 20 pit(4370) 4 Acheron(4371)
+Meete(4372) 1123 1626 Morning:(4373) 1499 1005
+2497 1165 31 1668 1019 Destinie.(4374)
+1648 Vessels,(4375) 83 35 Spels(4376) prouide,(4377)
+1648 4353 83 1754 1087 beside;(4378)
+379 1360 34 1589 1697 11 2413 1460 971
+2341 42 dismall,(4379) 83 42 Fatall(4380) end.(4381)
+1433 businesse(4382) 553 29 1914 1158 Noone.(4383)
+1162 20 Corner(4384) 4 20 2682
+1164 hangs(4385) 42 vap'rous(4386) 3798 profound,(4387)
+1460 2156 197 1158 197 1044 31 ground;(4388)
+1226 198 distill'd(4389) 104 Magicke(4390) slights,(4391)
+1534 raise(4392) 165 Artificiall(4393) 3237
+916 104 20 strength(4394) 4 1228 illusion,(4395)
+1534 draw(4396) 993 55 31 1019 Confusion.(4397)
+1528 1144 spurne(4398) Fate,(4399) scorne(4400) 2639 83 1755
+1732 hopes(4401) 'boue(4402) Wisedome,(4403) 1635 83 Feare:(4404)
+1226 52 26 1514 Security(4405)
+1941 Mortals(4406) cheefest(4407) Enemie.(4408)
+
+Musicke,(4409) 83 42 Song.(4410)
+
+2854 379 1360 call'd:(4411) 1003 3016 Spirit(4412) 208
+Sits(4413) 47 Foggy(4414) cloud,(4415) 83 stayes(4416) 34 1988
+
+Sing(4417) 1183 1902 3360 1044 3360 &c.(4418)
+
+286 2762 4018 1124 hast,(4419) shee'l(4420) 2546 29
+Backe(4421) 4086
+
+1179
+
+
+4020 2329
+
+1140 1187 83 1357 4129
+
+1378 991 1457 Speeches,(4422)
+1806 206 hit(4423) 35 Thoughts(4424)
+1265 512 interpret(4425) farther:(4426) 1765 379 1340
+1623 1509 458 strangely(4427) borne.(4428) 71 3677 2225
+1987 pittied(4429) 4 Macbeth:(4430) marry(4431) 1005 963 dead:(4432)
+1226 20 1127 1290 1661 walk'd(4433) 1255 2537
+3769 52 176 1340 (if't(4434) 190 you)(4435) 3826 kill'd,(4436)
+350 3826 fled:(4437) Men(4438) 553 66 3236 1255 late.(4439)
+1204 628 331 20 2903 402 monstrous(4440)
+510 963 34 1939 83 34 Donalbane(4441)
+70 3307 1228 3677 Father?(4442) Damned(4443) Fact,(4444)
+1579 197 948 greeue(4445) Macbeth?(4446) 2590 1005 66 straight(4447)
+887 pious(4448) rage,(4449) 20 219 delinquents(4450) teare,(4451)
+1157 852 20 Slaues(4452) 4 drinke,(4453) 83 thralles(4454) 4 sleepe?(4455)
+1987 66 198 Nobly(4456) 3945 3580 83 wisely(4457) 1714
+350 'twould(4458) 1509 anger'd(4459) 135 2147 4245
+70 2890 20 2298 deny't.(4460) 1083 198 379 1644
+1528 3146 2491 26 1385 2404 83 379 133 thinke,(4461)
+1157 922 1005 3465 3498 1783 1019 Key,(4462)
+(As,(4463) and't(4464) 190 2272 1005 1144 not)(4465) 607 113 1972
+1039 1967 31 3307 42 Father:(4466) 1083 113 Fleans.(4467)
+636 peace;(4468) 34 120 broad(4469) words,(4470) 83 3610 1005 fayl'd(4471)
+1732 3572 44 20 Tyrants(4472) 3566 379 2890
+Macduffe(4473) 1672 47 disgrace.(4474) 1620 512 52 491
+1160 1005 bestowes(4475) himselfe?(4476)
+4129 71 3498 4 2490
+(From(4477) 1977 48 Tyrant(4478) holds(4479) 20 1096 4 Birth)(4480)
+Liues(4481) 47 20 3076 Court,(4482) 83 12 receyu'd(4483)
+1243 20 16 Pious(4484) Edward,(4485) 138 165 grace,(4486)
+1157 20 maleuolence(4487) 4 1262 1887
+Takes(4488) 120 1019 988 respect.(4489) Thither(4490) 4472
+1941 1494 31 1839 20 Holy(4491) 1184 1239 1019 ayd(4492)
+70 2907 Northumberland,(4493) 83 warlike(4494) Seyward,(4495)
+1157 104 20 1364 4 17 (with(4496) 993 aboue)(4497)
+70 ratifie(4498) 20 Worke)(4499) 132 176 2911
+1482 31 13 Tables(4500) meate,(4501) 2912 31 13 Nights:(4502)
+73 120 13 Feasts,(4503) 83 Banquets(4504) 1193 kniues;(4505)
+65 faithfull(4506) Homage,(4507) 83 2012 500 Honors,(4508)
+337 123 132 pine(4509) 34 now.(4510) 1226 48 1342
+2361 325 exasperate(4511) 1228 1184 198 1258
+Prepares(4512) 34 308 attempt(4513) 4 3481
+
+4283 Sent(4514) 1005 31 Macduffe?(4515)
+4129 1528 did:(4516) 83 138 59 1980 1620 66 379
+71 clowdy(4517) Messenger(4518) turnes(4519) 1123 1019 backe,(4520)
+1226 hums;(4521) 255 183 113 1644 you'l(4522) rue(4523) 20 151
+1157 clogges(4524) 1123 138 48 Answer(4525)
+
+1378 1226 198 1365 493
+Aduise(4526) 993 31 42 Caution,(4527) t'(4528) 729 1081 distance(4529)
+1732 wisedome(4530) 512 prouide.(4531) 714 holy(4532) Angell(4533)
+4007 31 20 3997 4 3602 83 910
+1732 2214 1158 1005 1165 198 42 swift(4534) blessing(4535)
+2299 2546 2424 31 48 13 suffering(4536) Country,(4537)
+2226 42 1557 accurs'd(4538)
+
+4129 1460 387 1003 Prayers(4539) 138 2433
+
+1179
+
+1134 Quartus.(4540) 1180 1137
+
+1466 1140 20 1141 1142
+
+286 1565 20 brinded(4541) 2573 1462 mew'd(4542)
+
+2(4543) Thrice,(4544) 83 1599 20 Hedge-Pigge(4545) whin'd(4546)
+
+3(4547) Harpier(4548) cries,(4549) 1823 869 1823 151
+
+286 Round(4550) 215 20 Caldron(4551) go:(4552)
+887 20 poysond(4553) Entrailes(4554) 1964
+Toad,(4555) 198 1783 2839 stone,(4556)
+2319 83 2318 3146 thirty(4557) one:(4558)
+Sweltred(4559) 4082 sleeping(4560) got,(4561)
+Boyle(4562) 1215 188 1626 charmed(4563) pot(4564)
+
+1167 Double,(4565) 2384 toile(4566) 83 trouble;(4567)
+Fire(4568) burne,(4569) 83 Cauldron(4570) bubble(4571)
+
+4542 Fillet(4572) 4 42 Fenny(4573) 3874
+887 20 4569 boyle(4574) 83 bake:(4575)
+2087 4 Newt,(4576) 83 Toe(4577) 4 Frogge,(4578)
+Wooll(4579) 4 Bat,(4580) 83 2185 4 Dogge:(4581)
+Adders(4582) Forke,(4583) 83 Blinde-wormes(4584) Sting,(4585)
+Lizards(4586) legge,(4587) 83 Howlets(4588) wing:(4589)
+350 42 Charme(4590) 4 powrefull(4591) 2376
+1897 42 Hell-broth,(4592) 4573 83 4570
+
+1167 4564 2384 toyle(4593) 83 2376
+4567 4568 83 4569 4570
+
+4546 Scale(4594) 4 Dragon,(4595) Tooth(4596) 4 2814
+1687 Mummey,(4597) Maw,(4598) 83 Gulfe(4599)
+1243 20 rauin'd(4600) salt(4601) 1560 sharke:(4602)
+Roote(4603) 4 Hemlocke,(4604) digg'd(4605) 1626 darke:(4606)
+Liuer(4607) 4 Blaspheming(4608) Iew,(4609)
+Gall(4610) 4 Goate,(4611) 83 Slippes(4612) 4 Yew,(4613)
+Sliuer'd(4614) 47 20 Moones(4615) Ecclipse:(4616)
+Nose(4617) 4 Turke,(4618) 83 Tartars(4619) lips:(4620)
+Finger(4621) 4 Birth-strangled(4622) Babe,(4623)
+Ditch-deliuer'd(4624) 104 42 Drab,(4625)
+3480 20 Grewell(4626) thicke,(4627) 83 slab.(4628)
+Adde(4629) thereto(4630) 42 Tigers(4631) Chawdron,(4632)
+350 1589 2471 4 13 Cawdron(4633)
+
+1167 4564 2384 4592 83 2376
+4567 4568 83 4569 4570
+
+4542 Coole(4634) 197 138 42 Baboones(4635) 2237
+2175 20 4589 12 4242 83 1855
+1140 4339 83 20 351 1141 1142
+
+4341 1289 1365 2843 379 3621 35 2381
+1226 1754 145 1144 share(4636) 1626 gaines:(4637)
+1226 142 215 20 4569 sing(4638)
+1897 Elues(4639) 83 Fairies(4640) 47 42 Ring,(4641)
+Inchanting(4642) 26 198 52 1062 in.(4643)
+
+Musicke(4644) 83 42 4409 Blacke(4645) 2228 4417
+
+4542 80 20 pricking(4646) 4 1003 Thumbes,(4647)
+Something(4648) 2801 48 1114 comes:(4649)
+Open(4650) Lockes,(4651) 183 2326 knockes.(4652)
+1140 1036
+
+1577 1579 142 52 secret,(4653) black,(4654) 909 162 Hags?(4655)
+1039 1581 52 do?(4656)
+1167 173 2512 579 42 1020
+
+1577 379 coniure(4657) 725 104 198 123 52 Professe,(4658)
+(How(4659) 1158 52 1044 31 1668 it)(4660) 906 907
+1538 52 vntye(4661) 20 Windes,(4662) 83 1931 987 3380
+1872 20 Churches:(4663) 1538 20 yesty(4664) Waues(4665)
+Confound(4666) 83 swallow(4667) Nauigation(4668) vp:(4669)
+1538 bladed(4670) Corne(4671) 29 lodg'd,(4672) 909 4290 blown(4673) 2078
+1538 Castles(4674) topple(4675) 55 1228 Warders(4676) heads:(4677)
+1538 Pallaces,(4678) 83 Pyramids(4679) 133 slope(4680)
+2636 heads(4681) 31 1228 Foundations:(4682) 1538 20 treasure(4683)
+1243 2261 Germaine,(4684) tumble(4685) altogether,(4686)
+3455 161 3858 sicken:(4687) 4524 1123
+70 1081 379 aske(4688) 52
+
+286 1610
+
+4542 Demand(4689)
+
+4546 4085 906
+
+286 3714 376 th'hadst(4690) 227 2890 197 120 13 mouthes,(4691)
+1337 120 13 Masters(4692)
+
+1577 Call(4693) 'em:(4694) 1931 1123 208 'em(4695)
+
+286 Powre(4696) 47 Sowes(4697) 2237 198 1462 1707
+1491 1532 Farrow:(4698) Greaze(4699) 2310 sweaten(4700)
+1394 20 Murderers(4701) Gibbet,(4702) 1964
+1696 20 Flame(4703)
+
+1167 1902 988 116 low:(4704)
+1727 Selfe(4705) 83 3394 deaftly(4706) show.(4707)
+1466 1143 Apparation,(4708) 59 Armed(4709) Head.(4710)
+
+1577 Tell(4711) 1483 1215 vnknowne(4712) 3791
+
+286 1528 knowes(4713) 1366 thought:(4714)
+2827 1019 speech,(4715) 206 1340 1215 nought(4716)
+
+286 Appar.(4717) 1614 1614 4429
+Beware(4718) Macduffe,(4719)
+4717 20 1377 4 Fife:(4720) dismisse(4721) 1988 Enough.(4722)
+
+1528 Descends.(4723)
+
+1577 1039 1158 1215 2150 34 1366 322 caution,(4724) 4036
+1658 1467 harp'd(4725) 1003 1622 aright.(4726) 636 145 777 213
+
+286 1528 204 66 29 commanded:(4727) heere's(4728) 1357
+2003 potent(4729) 252 20 first.(4730)
+
+1466 4542 Apparition,(4731) 42 2464 Childe.(4732)
+
+4542 4716 1614 1614 103
+
+1577 2882 379 1141 eares,(4733) Il'd(4734) 2890 1505
+
+4716 2588 bloody,(4735) bold,(4736) 909 resolute:(4737)
+Laugh(4738) 31 4399
+71 2180 4 2586 350 2580 4 woman(4739) 2491
+1534 harme(4740) 1036
+
+4722
+
+1609 2175 914 Macduffe:(4741) 1081 101 379 1622 4 thee?(4742)
+636 1592 1460 1124 assurance:(4743) 1345 sure,(4744)
+1226 41 42 Bond(4745) 4 Fate:(4746) 1215 1616 66 2868
+1157 379 176 491 pale-hearted(4747) Feare,(4748) 197 lies;(4749)
+1226 2912 47 3775 4 1466
+
+1138 4546 4707 42 Childe(4750) Crowned,(4751) 138 42 Tree(4752) 47 1019 hand.(4753)
+
+1039 12 3592 198 rises(4754) 559 20 issue(4755) 4 42 1184
+1226 weares(4756) 1239 1019 Baby-brow,(4757) 20 round(4758)
+1226 top(4759) 4 Soueraignty?(4760)
+1167 Listen,(4761) 206 1384 66 4004
+
+4546 4716 2588 Lyon(4762) metled,(4763) proud,(4764) 83 41 573 care:(4765)
+1204 chafes,(4766) 183 frets,(4767) 116 1473 Conspirers(4768) are:(4769)
+103 1144 4135 vanquish'd(4770) 4263 vntill(4771)
+1433 Byrnam(4772) Wood,(4773) 31 988 Dunsmane(4774) Hill(4775)
+1534 1044 1420 2433
+
+Descend.(4776)
+
+1577 1157 204 4135 bee:(4777)
+1204 512 impresse(4778) 20 Forrest,(4779) 2104 20 4751
+Vnfixe(4780) 1019 earth-bound(4781) Root?(4782) 4103 boadments,(4783) good:(4784)
+Rebellious(4785) 2800 3235 4135 161 20 Wood(4786)
+1243 Byrnan(4787) 4139 83 13 988 3663 103
+1534 914 20 Lease(4788) 4 2152 1767 1019 1700
+70 869 83 2117 Custome.(4789) 1540 1003 370
+Throbs(4790) 31 1668 145 2795 4710 1483 376 35 2161
+1751 491 325 much:(4791) 1534 3674 4754 2326
+Reigne(4792) 47 48 Kingdome?(4793)
+1167 Seeke(4794) 31 1668 573 213
+
+1577 379 204 29 satisfied.(4795) Deny(4796) 1123 3592
+1226 59 3683 Curse(4797) 2077 55 2069 1923 1123 2676
+483 sinkes(4798) 198 Caldron?(4799) 909 1081 noise(4800) 12 4132
+
+Hoboyes(4801)
+
+286 1543
+
+4542 1543
+
+4546 1543
+
+1167 1543 1019 Eyes,(4802) 83 4444 1019 Hart,(4803)
+1902 559 shadowes,(4804) 325 depart.(4805)
+
+173 1544 4 eight(4806) 1659 83 1661 3457 138 42 glasse(4807) 47 1019 4752
+
+1577 1658 1989 1255 559 20 4411 4 2095 Down:(4808)
+1727 1892 3395 seare(4809) 2427 Eye-bals.(4810) 1226 1366 haire(4811)
+1658 351 Gold-bound-brow,(4812) 12 559 20 first:(4813)
+173 third,(4814) 12 559 20 former.(4815) Filthy(4816) Hagges,(4817)
+483 133 52 1544 1123 4132 -(4818) 173 fourth?(4819) Start(4820) eyes!(4821)
+1039 204 20 3662 stretch(4822) 919 to'th'(4823) cracke(4824) 4 Doome?(4825)
+1086 yet?(4826) 173 seauenth?(4827) 1460 208 573 1666
+1226 1592 20 eighth(4828) appeares,(4829) 183 1786 42 glasse,(4830)
+1265 shewes(4831) 1123 982 1666 83 308 379 see,(4832)
+1157 two-fold(4833) Balles,(4834) 83 trebble(4835) Scepters(4836) carry.(4837)
+Horrible(4838) sight:(4839) 2798 379 208 1823 true,(4840)
+350 20 Blood-bolter'd(4841) 1661 smiles(4842) 1239 1483
+1226 points(4843) 44 987 34 his.(4844) 4184 12 48 1716
+286 379 1620 26 48 12 185 636 947
+1675 103 935 amazedly?(4845)
+1902 1556 cheere(4846) 132 1570 1019 sprights,(4847)
+1226 1544 20 1002 4 13 delights.(4848)
+1460 4589 20 Ayre(4849) 31 1504 42 sound,(4850)
+3629 52 2640 35 Antique(4851) round:(4852)
+1157 48 1007 915 176 kindly(4853) 1644
+1452 4215 948 1019 2302 pay.(4854)
+
+Musicke.(4855) 71 1687 Dance,(4856) 83 1688
+
+1577 1160 24 they?(4857) Gone?(4858)
+1923 48 pernitious(4859) 3597
+908 aye(4860) accursed(4861) 47 20 Kalender.(4862)
+1902 3073 579 there.(4863)
+1140 1378
+
+1378 3199 35 2431 204
+
+1577 Saw(4864) 52 20 Weyard(4865) Sisters?(4866)
+1378 1309 1003 3581
+
+1577 Came(4867) 607 66 104 1612
+1378 1309 1631 1003 3581
+
+1577 Infected(4868) 29 20 4848 whereon(4869) 607 ride,(4870)
+1226 damn'd(4871) 26 182 198 1317 1077 379 948 2890
+71 gallopping(4872) 4 Horse.(4873) 1204 2582 2127 by?(4874)
+4283 3248 219 116 1141 1003 1320 198 2966 52 word:(4875)
+4305 12 4015 31 995
+
+1577 Fled(4876) 31 England?(4877)
+4283 3580 1003 322 3581
+
+1577 170 1215 anticipat'st(4878) 1003 dread(4879) exploits:(4880)
+71 flighty(4881) 2401 4135 12 o're-tooke(4882)
+Vnlesse(4883) 20 2512 419 138 759 1394 48 moment,(4884)
+71 937 firstlings(4885) 4 1003 2147 1144 29
+71 4884 4 1003 4752 1226 1986 142
+70 Crown(4886) 1003 2705 138 Acts:(4887) 29 197 thoght(4888) 909 2843
+71 2334 4 2332 379 204 surprize.(4889)
+Seize(4890) 1239 Fife;(4891) 1504 31 1589 edge(4892) 1496 Sword(4893)
+1732 2073 1019 Babes,(4894) 83 26 vnfortunate(4895) 3846
+1157 trace(4896) 993 47 1019 Line.(4897) 1309 boasting(4898) 559 42 Foole,(4899)
+11 2512 1460 205 37 48 2401 coole,(4900)
+636 573 213 sights.(4901) 1160 24 17 Gentlemen?(4902)
+1902 2966 1123 1473 607 are.(4903)
+
+1179
+
+1180 1181
+
+1140 Macduffes(4904) 2073 1478 Son,(4905) 83 1387
+
+Wife.(4906) 1039 922 1005 1152 31 1124 993 fly(4907) 20 Land?(4908)
+1387 405 553 1509 3717 Madam(4909)
+
+4905 1528 922 1660
+1732 flight(4910) 963 madnesse:(4911) 785 13 Actions(4912) 133 533
+1452 2980 133 1124 1432 Traitors(4913)
+
+1387 405 1668 66
+1789 197 963 1019 wisedome,(4914) 116 1019 1622
+
+4905 Wisedom?(4915) 31 1217 1019 wife,(4916) 31 1217 1019 4893
+1732 Mansion,(4917) 83 1019 Titles,(4918) 47 42 961
+1394 1294 2220 3395 flye?(4919) 1528 3797 1432 533
+1528 4333 20 4272 touch.(4920) 350 20 2572 Wren(4921)
+(The(4922) 16 diminitiue(4923) 4 Birds)(4924) 204 fight,(4925)
+1491 4335 ones(4926) 47 1478 Nest,(4927) 1420 20 Owle:(4928)
+337 12 20 4747 83 1887 12 20 Loue;(4929)
+916 3016 12 20 4402 1473 20 4909
+1083 runnes(4930) 1420 26 4342
+
+1387 991 deerest(4931) Cooz,(4932)
+379 1839 52 schoole(4933) 35 2010 636 34 35 Husband,(4934)
+1528 12 Noble,(4935) Wise,(4936) Iudicious,(4937) 83 1002 4712
+71 fits(4938) 1496 Season.(4939) 379 2570 66 1384 1656 2122
+636 3604 24 20 times,(4940) 785 132 24 4912
+1226 133 66 1668 13 3220 785 132 729 Rumor(4941)
+1394 1081 132 2919 1592 1668 66 1081 132 2919
+636 floate(4942) 1239 42 1586 83 3317 1560
+2665 949 83 moue.(4943) 379 41 1003 1217 4 2069
+1534 66 29 782 206 1460 29 2476 4056
+1623 44 20 3757 204 cease,(4944) 116 2079 climbe(4945) vpward,(4946)
+70 1081 607 852 2794 991 pretty(4947) Cosine,(4948)
+Blessing(4949) 1239 52
+
+4905 Father'd(4950) 1005 1888
+1226 1592 4050 Father-lesse(4951)
+
+1387 379 1360 325 1656 42 4898 113 379 1909 longer(4952)
+510 385 29 1003 disgrace,(4953) 83 35 discomfort.(4954)
+379 41 1003 1217 44 once.(4955)
+
+2218 1387
+
+4905 Sirra,(4956) 35 Fathers(4957) 2800
+1226 1081 204 52 133 2526 1579 204 52 liue?(4958)
+Son.(4959) 916 Birds(4960) 133 Mother(4961)
+
+4905 1039 138 Wormes,(4962) 83 Flyes?(4963)
+4958 1323 1081 379 96 379 meane,(4964) 83 325 133 607
+
+4905 Poore(4965) Bird,(4966)
+Thou'dst(4967) 4135 Feare(4968) 20 Net,(4969) 157 Lime,(4970)
+71 Pitfall,(4971) 157 20 Gin(4972)
+
+4958 483 113 379 Mother?(4973)
+4964 4959 607 24 66 585 2314
+991 2884 12 66 2211 34 26 35 saying(4974)
+
+4905 1334 1005 12 4431
+1579 wilt(4975) 1215 133 34 42 4441
+4958 905 402 204 52 133 34 42 2887
+4905 483 379 512 buy(4976) 1123 4074 44 135 Market(4977)
+
+4958 2175 4521 104 4694 31 sell(4978) 2911
+
+4905 1658 speak'st(4979) withall(4980) 1366 wit,(4981)
+1226 1592 I'faith(4982) 138 wit(4983) 3067 34 1505
+
+4958 1987 1003 2884 42 Traitor,(4984) 4972
+4905 3580 198 1005 963
+
+4958 1039 12 42 Traitor?(4985)
+4905 483 145 198 sweares,(4986) 83 2638
+
+4958 1226 29 26 Traitors,(4987) 198 133 325
+
+4905 Euery(4988) 145 198 3395 2202 12 42 4983
+1226 553 29 3047
+
+4958 1226 553 607 26 29 hang'd,(4989) 198 swear(4990) 83 lye?(4991)
+4905 4987 145
+
+4958 1204 553 hang(4992) them?(4993)
+4905 Why,(4994) 20 1832 2298
+
+4958 2175 20 Liars(4995) 83 Swearers(4996) 24 Fools:(4997) 34 495
+24 Lyars(4998) 83 4995 enow,(4999) 31 beate(5000) 20 1832 1327
+83 4991 1570 987
+
+4905 2798 1388 1364 1368 2572 Monkie:(5001)
+636 402 4974 1215 133 34 42 4441
+4958 245 1005 852 2800 youl'd(5002) weepe(5003) 34 3148 376 52
+385 533 197 852 42 322 signe,(5004) 198 379 113 quickely(5005)
+1509 42 209 2884
+
+4905 4964 pratler,(5006) 402 1215 talk'st?(5007)
+1140 42 2194
+
+Mes.(5008) Blesse(5009) 52 1171 Dame:(5010) 379 1360 66 31 52 known,(5011)
+1538 47 35 1201 4 828 379 1360 4057
+379 doubt(5012) 308 3880 3395 approach(5013) 52 neerely.(5014)
+245 52 204 41 42 homely(5015) 3303 aduice,(5016)
+2588 66 3299 4213 4253 138 35 3016 4925
+70 fright(5017) 52 thus.(5018) 2932 thinkes(5019) 379 1360 1255 sauage:(5020)
+70 133 4277 31 725 852 1431 Cruelty,(5021)
+1265 12 1255 nie(5022) 35 333 2272 preserue(5023) 725
+379 2570 3843 573 longer.(5024)
+
+2218 4517
+
+4905 1789 113 379 4918
+379 1509 1461 573 harme.(5025) 636 379 3094 142
+379 1360 47 48 earthly(5026) world:(5027) 1473 31 133 4739
+1941 177 laudable,(5028) 31 133 322 2375
+Accounted(5029) dangerous(5030) folly.(5031) 483 252 (alas)(5032)
+65 379 1062 1570 198 womanly(5033) 1758
+70 1340 379 1509 1461 573 harme?(5034)
+1039 24 17 4172
+1140 3692
+
+4045 1160 12 35 2887
+4905 379 1130 47 573 961 325 vnsanctified,(5035)
+1160 165 255 1215 4009 1972 993
+
+4045 He's(5036) 42 Traitor(5037)
+
+4958 1658 ly'st(5038) 1215 shagge-ear'd(5039) Villaine(5040)
+
+4045 1039 52 Egge?(5041)
+Yong(5042) fry(5043) 4 Treachery?(5044)
+4958 1528 3146 3464 1123 Mother,(5045)
+Run(5046) 271 379 1839 509
+
+2218 crying(5047) Murther.(5048)
+
+
+4020 1465
+
+1140 3226 83 3162
+
+1202 1923 1432 2038 919 308 desolate(5049) shade,(5050) 909 495
+Weepe(5051) 13 sad(5052) bosomes(5053) empty(5054)
+
+3095 1923 1432 227
+Hold(5055) fast(5056) 20 2117 2692 83 559 322 1327
+Bestride(5057) 13 downfall(5058) Birthdome:(5059) 222 209 Morne,(5060)
+1895 Widdowes(5061) howle,(5062) 209 Orphans(5063) 2276 209 sorowes(5064)
+Strike(5065) heauen(5066) 55 20 face,(5067) 198 197 resounds(5068)
+916 376 197 felt(5069) 138 1307 83 yell'd(5070) 919
+1897 Syllable(5071) 4 Dolour(5072)
+
+1202 1039 379 3133 1460 waile;(5073)
+1039 1514 beleeue;(5074) 83 1081 379 512 redresse,(5075)
+916 379 1144 1972 20 151 31 friend:(5076) 379 wil.(5077)
+1039 52 1509 spoke,(5078) 197 176 29 325 perchance.(5079)
+11 Tyrant,(5080) 1879 sole(5081) 1020 blisters(5082) 13 3349
+1987 1599 2135 honest:(5083) 52 1509 lou'd(5084) 993 2404
+1528 1462 66 touch'd(5085) 52 yet.(5086) 379 1360 yong,(5087) 206 327
+405 176 discerne(5088) 4 993 450 1483 83 4529
+70 offer(5089) 1570 42 weake,(5090) 2572 2306 Lambe(5091)
+T'(5092) appease(5093) 59 angry(5094) 1388
+
+3095 379 1360 66 treacherous(5095)
+
+3389 636 103 1115
+173 322 83 vertuous(5096) 1236 176 recoyle(5097)
+887 59 1847 charge.(5098) 636 379 1144 craue(5099) 35 pardon:(5100)
+1157 123 52 3283 1003 2705 628 transpose;(5101)
+Angels(5102) 24 3914 3503 1016 20 brightest(5103) 3251
+1538 26 1385 1172 385 wear(5104) 20 brows(5105) 4 4124
+1540 3273 553 380 1588 325
+
+3095 379 1509 3027 1003 Hopes(5106)
+
+3389 Perchance(5107) 1986 495
+1160 379 948 1972 1003 doubts.(5108)
+483 47 198 rawnesse(5109) 1054 52 2073 83 Childe?(5110)
+3294 precious(5111) Motiues,(5112) 182 3140 knots(5113) 4 2289
+1893 leaue-taking.(5114) 379 1839 725
+1923 66 1003 Iealousies,(5115) 29 35 Dishonors,(5116)
+636 2427 2033 Safeties:(5117) 52 176 29 rightly(5118) iust,(5119)
+1039 2326 379 1144 1926
+
+3095 Bleed,(5120) bleed(5121) 2572 4536
+1433 Tyrrany,(5122) 3321 1215 1366 basis(5123) 4743
+350 goodnesse(5124) 2570 66 32 2764 5103 y(5125) 1366 wrongs,(5126)
+71 Title,(5127) 12 affear'd.(5128) Far(5129) 1505 1365 1320
+379 385 66 29 20 5039 198 1215 think'st,(5130)
+350 20 4209 Space(5131) 2310 47 20 4471 Graspe,(5132)
+1226 20 rich(5133) East(5134) 31 boot(5135)
+
+1202 2588 66 offended:(5136)
+379 1384 66 255 47 1980 1622 4 2069
+379 1926 13 Country(5137) 4797 beneath(5138) 20 yoake,(5139)
+510 weepes,(5140) 197 bleeds,(5141) 83 222 209 164 42 gash(5142)
+1941 added(5143) 31 1478 wounds.(5144) 379 1926 2721
+1164 385 29 hands(5145) vplifted(5146) 47 1003 right:(5147)
+1226 2476 120 3677 995 1509 379 5088
+1243 goodly(5148) thousands.(5149) 636 34 26 3592
+362 379 1144 treade(5150) 1239 20 4471 4326
+1337 3008 197 55 1003 Sword;(5151) 1592 1003 2572 5136
+1534 1509 213 vices(5152) 252 197 922 1990
+2003 3885 83 213 3805 wayes(5153) 252 2416
+80 993 198 1144 succeede(5154)
+
+3095 1039 113 1005 be?(5155)
+1202 510 12 1003 911 379 meane:(5156) 47 1977 379 1668
+337 20 particulars(5157) 4 Vice(5158) 325 grafted,(5159)
+1157 785 607 1144 29 open'd,(5160) blacke(5161) 103
+2497 1597 255 pure(5162) 255 Snow,(5163) 83 20 2572 State(5164)
+Esteeme(5165) 993 255 42 Lambe,(5166) 931 compar'd(5167)
+1323 1003 confinelesse(5168) harmes(5169)
+
+3095 1654 47 20 Legions(5170)
+1243 1864 2267 512 1044 42 4154 213 4870
+887 euils,(5171) 31 4758 103
+
+1202 379 grant(5172) 993 Bloody,(5173)
+Luxurious,(5174) Auaricious,(5175) False,(5176) Deceitfull,(5177)
+Sodaine,(5178) Malicious,(5179) smacking(5180) 4 1754 1984
+1157 3146 42 name.(5181) 636 3403 573 bottome,(5182) 2580
+887 1003 Voluptuousnesse:(5183) 1648 Wiues,(5184) 35 Daughters,(5185)
+1648 Matrons,(5186) 83 35 Maides,(5187) 406 66 2232 1570
+71 Cesterne(5188) 4 1003 Lust,(5189) 83 1003 Desire(5190)
+337 continent(5191) Impediments(5192) 385 ore-beare(5193)
+1157 948 oppose(5194) 1003 3852 3891 1614
+2175 165 59 145 31 reigne(5195)
+
+3095 Boundlesse(5196) intemperance(5197)
+887 1236 12 42 Tyranny:(5198) 510 1462 1962
+2249 vntimely(5199) emptying(5200) 4 20 1843 2015
+1226 2077 4 982 3549 636 1622 66 1592
+70 41 1239 52 1081 12 yours:(5201) 52 176
+Conuey(5202) 35 pleasures(5203) 47 42 spacious(5204) plenty,(5205)
+1226 1592 1597 1401 71 151 52 176 325 hoodwinke:(5206)
+50 1509 willing(5207) Dames(5208) 1935 495 628 29
+1157 Vulture(5209) 47 725 31 deuoure(5210) 325 982
+916 204 31 2144 dedicate(5211) 2418
+Finding(5212) 197 325 inclinde(5213)
+
+1202 1323 3592 495 4276
+887 1003 16 ill-composd(5214) Affection,(5215) 165
+173 stanchlesse(5216) Auarice,(5217) 198 852 379 1184
+379 113 cut(5218) 1102 20 Nobles(5219) 34 1228 Lands,(5220)
+5189 1019 Iewels,(5221) 83 48 4362 House,(5222)
+1226 1003 more-hauing,(5223) 385 29 255 42 Sawce(5224)
+70 1124 1123 hunger(5225) 2579 198 379 113 forge(5226)
+Quarrels(5227) vniust(5228) 1420 20 1619 83 3313
+Destroying(5229) 987 34 wealth(5230)
+
+3095 11 Auarice(5231)
+stickes(5232) deeper:(5233) 4276 138 213 pernicious(5234) roote(5235)
+2175 Summer-seeming(5236) Lust:(5237) 83 197 1462 458
+71 4892 4 13 3494 Kings:(5238) 1592 133 66 2919
+Scotland(5239) 1462 Foysons,(5240) 31 2232 1570 35 204
+1243 35 3276 Owne.(5241) 337 17 24 portable,(5242)
+1323 351 2431 1930
+
+1202 636 379 1509 none.(5243) 71 King-becoming(5244) Graces,(5245)
+916 Iustice,(5246) Verity,(5247) Temp'rance,(5248) Stablenesse,(5249)
+Bounty,(5250) Perseuerance,(5251) Mercy,(5252) Lowlinesse,(5253)
+Deuotion,(5254) Patience,(5255) 3342 Fortitude,(5256)
+379 1509 573 rellish(5257) 4 2116 206 abound(5258)
+887 20 diuision(5259) 4 222 seuerall(5260) Crime,(5261)
+Acting(5262) 197 982 wayes.(5263) Nay,(5264) 922 379 powre,(5265) 379 113
+Poure(5266) 20 sweet(5267) 2153 4 Concord,(5268) 810 2267
+Vprore(5269) 20 vniuersall(5270) 3894 confound(5271)
+337 vnity(5272) 55 4219
+
+3095 1289 1307 5238
+
+1202 245 165 42 145 29 4145 31 gouerne,(5273) 3219
+379 1360 255 379 1509 3353
+
+1609 4055 31 gouern?(5274) 1309 66 31 liue.(5275) 1289 Natio[n](5276) miserable!(5277)
+1323 59 vntitled(5278) 5079 1193 Sceptred,(5279)
+362 1616 1215 208 1366 wholsome(5280) 2618 1146
+85 198 20 truest(5281) 3675 4 1366 Throne(5282)
+80 1019 2033 Interdiction(5283) stands(5284) accust,(5285)
+1226 3395 blaspheme(5286) 1019 breed?(5287) 1727 1638 2884
+1987 42 16 Sainted-King:(5288) 20 Queene(5289) 198 bore(5290) 1368
+Oftner(5291) 1239 1478 knees,(5292) 252 55 1478 feet,(5293)
+Dy'de(5294) 1754 164 2686 liu'd.(5295) Fare(5296) 1505 2404
+2928 Euils(5297) 1215 repeat'st(5298) 1239 1366 2523
+2361 banish'd(5299) 1123 120 Scotland.(5300) 1289 1003 Brest,(5301)
+1727 1130 ends(5302) 2476
+
+1202 2332 48 1463 passion(5303)
+4749 4 integrity,(5304) 1462 120 1003 soule(5305)
+Wip'd(5306) 20 5160 Scruples,(5307) reconcil'd(5308) 1003 2705
+70 1366 322 Truth,(5309) 83 Honor.(5310) Diuellish(5311) 1614
+80 982 4 17 traines,(5312) 1462 sought(5313) 31 win(5314) 1123
+1696 1019 power:(5315) 83 modest(5316) Wisedome(5317) pluckes(5318) 1123
+1394 ouer-credulous(5319) hast:(5320) 206 1388 aboue(5321)
+Deale(5322) 2248 1505 83 me;(5323) 350 1986 142
+379 1062 1003 911 31 1366 Direction,(5324) 83
+Vnspeake(5325) 2427 2033 detraction.(5326) 3488 abiure(5327)
+71 taints,(5328) 83 blames(5329) 379 laide(5330) 1239 1003 2523
+350 strangers(5331) 31 1003 Nature.(5332) 379 1360 1592
+Vnknowne(5333) 31 Woman,(5334) 4135 963 forsworne,(5335)
+Scarsely(5336) 1509 coueted(5337) 1081 963 2427 owne.(5338)
+298 573 151 3205 1003 Faith,(5339) 385 66 betray(5340)
+71 1776 31 1019 Fellow,(5341) 83 3154
+1309 1815 47 1627 252 life.(5342) 991 188 2675 speaking(5343)
+1987 48 1239 1003 2010 1039 379 1360 truly(5344)
+1941 1566 83 1003 2572 4110 31 command:(5345)
+Whither(5346) indeed,(5347) 37 607 2476 5012
+3425 Seyward(5348) 138 288 289 4493 2298
+Already(5349) 44 42 point,(5350) 963 1099 foorth:(5351)
+2798 4041 1225 83 20 chance(5352) 4 5123
+2588 559 13 warranted(5353) Quarrell.(5354) 483 24 52 silent?(5355)
+3095 2557 welcome,(5356) 83 vnwelcom(5357) 1385 44 1599
+3248 2619 31 reconcile.(5358)
+1140 42 Doctor.(5359)
+
+1202 3524 213 anon.(5360) Comes(5361) 20 915 586
+379 1839 1612
+Doct.(5362) 379 2751 495 24 42 crew(5363) 4 wretched(5364) 3846
+1157 1909 1019 Cure:(5365) 1228 malady(5366) conuinces(5367)
+71 1007 assay(5368) 4 Art.(5369) 636 44 1019 touch,(5370)
+2557 sanctity(5371) 1462 2272 1857 1019 1558
+490 presently(5372) amend.(5373)
+2093
+
+1202 379 1849 52 Doctor(5374)
+
+3095 3199 20 Disease(5375) 1005 meanes?(5376)
+1202 Tis(5377) 1582 20 Euill.(5378)
+173 16 myraculous(5379) worke(5380) 47 48 322 1184
+1265 177 3975 1003 2476 remaine(5381) 47 3602
+379 1509 1578 993 do:(5382) 1579 1005 solicites(5383) 5065
+Himselfe(5384) 1002 knowes:(5385) 206 4426 visited(5386) 1400
+337 swolne(5387) 83 Vlcerous,(5388) 3951 31 20 2513
+71 3276 dispaire(5389) 4 Surgery,(5390) 1005 cures,(5391)
+Hanging(5392) 42 golden(5393) stampe(5394) 215 1228 neckes,(5395)
+3679 55 138 4531 2909 83 1823 3353
+70 20 succeeding(5396) Royalty(5397) 1005 3132
+71 healing(5398) Benediction.(5399) 1323 48 1386 vertue,(5400)
+1528 1462 42 heauenly(5401) guift(5402) 4 Prophesie,(5403)
+1226 3805 Blessings(5404) 4991 215 1019 2015
+1157 1384 993 2027 4 Grace.(5405)
+1140 1387
+
+3095 19 183 1376 2476
+
+3389 991 Countryman:(5406) 206 1592 379 1668 993 66
+
+3095 991 2326 2342 Cozen,(5407) 2302 hither(5408)
+
+3389 379 1668 993 4509 1619 1388 4314 remoue(5409)
+71 meanes(5410) 198 3119 1432 Strangers(5411)
+
+1387 1620 2915
+
+3095 1675 5238 1473 197 did?(5412)
+1387 3495 2572 Countrey,(5413)
+3998 affraid(5414) 31 1668 197 2010 510 628
+2588 1582 13 5044 206 13 Graue;(5415) 1473 1887
+636 183 4712 3639 12 1599 1578 31 smile:(5416)
+1160 sighes,(5417) 83 groanes,(5418) 83 shrieks(5419) 198 rent(5420) 20 2337
+1628 made,(5421) 66 mark'd:(5422) 1160 3317 sorrow(5423) 1383
+173 Moderne(5424) extasie:(5425) 71 Deadmans(5426) knell,(5427)
+1941 495 scarse(5428) 2530 34 2200 83 322 3404 1672
+Expire(5429) 37 20 Flowers(5430) 47 1228 Caps,(5431)
+Dying,(5432) 116 1158 607 sicken(5433)
+
+3095 Oh(5434) Relation;(5435) 1255 nice,(5436) 83 1592 1255 4164
+
+3389 3199 20 1200 griefe?(5437)
+1387 1157 4 59 houres(5438) age,(5439) 1554 hisse(5440) 20 speaker,(5441)
+2665 3785 teemes(5442) 42 209 145
+
+3095 1579 3395 1003 Wife?(5443)
+1387 483 1365
+
+3095 1226 26 1003 Children?(5444)
+1387 3387 1255
+
+3095 71 4477 3146 66 batter'd(5445) 44 1228 peace?(5446)
+1387 No,(5447) 607 852 3525 44 3894 785 379 948 1217 4694
+3095 2588 66 42 niggard(5448) 4 35 speech:(5449) 1579 gos't?(5450)
+1387 362 379 2127 5407 31 transport(5451) 20 Tydings(5452)
+1265 379 1509 heauily(5453) borne,(5454) 495 918 42 Rumour(5455)
+1243 982 1292 Fellowes,(5456) 198 852 2607
+1265 963 31 1003 beleefe(5457) witnest(5458) 20 rather,(5459)
+350 198 379 1947 20 4471 Power(5460) a-foot.(5461)
+2798 12 20 151 4 helpe:(5462) 35 eye(5463) 47 5238
+1702 594 Soldiours,(5464) 1124 13 women(5465) 4924
+70 doffe(5466) 1228 dire(5467) distresses(5468)
+
+3389 Bee't(5469) 1228 1302
+50 24 2133 thither:(5470) Gracious(5471) 995 1462
+Lent(5472) 1432 322 4494 83 288 289 1327
+1979 older,(5473) 83 42 152 Souldier,(5474) 2580
+1157 Christendome(5475) 2706 919
+
+1387 1702 379 406 906
+11 1302 138 20 like.(5476) 636 379 1509 921
+1157 385 29 howl'd(5477) 919 47 20 desert(5478) ayre,(5479)
+1160 2072 113 66 latch(5480) 987
+
+3095 1039 concerne(5481) they,(5482)
+71 1448 cause,(5483) 116 12 197 42 Fee-griefe(5484)
+Due(5485) 31 308 1882 brest?(5486)
+1387 1309 minde(5487) 2310 1832
+636 47 197 shares(5488) 308 woe,(5489) 1016 20 maine(5490) 525
+Pertaines(5491) 31 52 2110
+
+3095 245 197 29 2427
+Keepe(5492) 197 66 120 1483 quickly(5493) 1931 1123 1509 197
+
+1387 1923 66 35 eares(5494) dispise(5495) 1003 tongue(5496) 34 2416
+1265 1144 possesse(5497) 987 138 20 heauiest(5498) 1624
+198 2326 1592 607 2684
+
+3095 Humh:(5499) 379 guesse(5500) 44 197
+
+1387 1648 2334 12 surpriz'd:(5501) 35 2073 83 Babes(5502)
+Sauagely(5503) slaughter'd:(5504) 70 relate(5505) 20 manner(5506)
+1704 55 20 1249 4 17 2955 Deere(5507)
+70 adde(5508) 20 2941 4 52
+
+3389 2701 3071
+1039 2577 ne're(5509) pull(5510) 35 hat(5511) 1239 35 browes:(5512)
+1482 5422 words;(5513) 20 griefe(5514) 198 3395 66 3246
+Whispers(5515) 20 o're-fraught(5516) 3341 83 bids(5517) 197 2583
+
+3095 991 1712 too?(5518)
+Ro.(5519) 2073 2017 Seruants,(5520) 26 198 406 29 3299
+
+3095 1226 379 553 29 120 thence?(5521) 991 wife(5522) kil'd(5523) 5517
+1387 379 1509 3116
+
+3389 2588 comforted.(5524)
+2100 1124 1432 Med'cines(5525) 4 13 1007 Reuenge,(5526)
+70 cure(5527) 48 deadly(5528) greefe(5529)
+
+3095 1528 3146 573 Children.(5530) 337 1003 4946 ones?(5531)
+2590 52 1340 All?(5532) 5433 Hell-Kite!(5533) 5531
+1775 337 1003 4946 Chickens,(5534) 83 1228 Damme(5535)
+298 145 1431 swoope?(5536)
+3389 Dispute(5537) 197 559 42 1194
+
+3095 379 1144 133 2030
+636 379 553 407 2286 197 255 42 man;(5538)
+379 628 206 3094 165 1385 852
+1157 852 16 5110 31 907 2590 5065 1588 3122
+1226 385 66 41 1228 part?(5539) Sinfull(5540) 2332
+490 852 26 strooke(5541) 34 2764 Naught(5542) 198 379 am,(5543)
+1654 34 1228 2033 demerits,(5544) 206 34 2427
+Fell(5545) slaughter(5546) 55 1228 soules:(5547) 2272 1741 987 142
+
+1202 2588 48 20 Whetstone(5548) 4 35 sword,(5549) 1931 5513
+Conuert(5550) 31 anger:(5551) blunt(5552) 66 20 3341 enrage(5553) 197
+
+3095 1289 379 406 953 20 4738 138 2427 eyes,(5554)
+1226 Braggart(5555) 138 1003 tongue.(5556) 636 2342 3436
+Cut(5557) short(5558) 26 intermission:(5559) Front(5560) 31 Front,(5561)
+2647 1215 48 Fiend(5562) 4 1307 83 1003 911
+3427 1003 Swords(5563) length(5564) 585 1281 376 1005 scape(5565)
+2272 forgiue(5566) 993 1255
+
+1202 11 151 2290 manly:(5567)
+1902 419 132 31 20 1184 13 5459 12 2754
+1452 4203 12 1887 206 13 leaue.(5568) 103
+1941 ripe(5569) 34 shaking,(5570) 83 20 Powres(5571) 5320
+3679 55 1228 3709 Receiue(5572) 1081 4845 52 1903
+71 1523 12 long,(5573) 198 4135 1742 20 3983
+
+1179
+
+1134 Quintus.(5574) 1180 1137
+
+1140 42 5373 4 Physicke,(5575) 83 42 Wayting(5576) Gentlewoman.(5577)
+
+5361 379 1509 1255 2315 watch'd(5578) 138 725 206 512
+perceiue(5579) 573 1627 47 35 report.(5580) 362 963 197 shee(5581) 163
+walk'd?(5582)
+Gent.(5583) 85 1019 4024 1715 810 20 Field,(5584) 379 1509
+1578 1478 3235 120 1478 bed,(5585) 1964 1478 Night-Gown(5586) vppon(5587)
+her,(5588) vnlocke(5589) 1478 Closset,(5590) 41 foorth(5591) paper,(5592) folde(5593) 329
+952 vpon't,(5594) 629 329 afterwards(5595) Seale(5596) 329 83 2911 2424
+31 bed;(5597) 1592 26 48 2599 47 42 16 5055 2912
+
+5361 173 1007 perturbation(5598) 47 2152 31 receyue(5599) 44
+1599 20 benefit(5600) 4 sleep,(5601) 83 133 20 effects(5602) 4 watching.(5603)
+887 48 slumbry(5604) agitation,(5605) besides(5606) 1478 walking,(5607) 83 351
+actuall(5608) performances,(5609) 1081 (at(5610) 135 time)(5611) 1509 52 2684
+1478 say?(5612)
+5582 1157 1620 123 379 204 66 1342 2101 1478
+
+5361 405 176 31 1483 83 1823 16 1145 52 113
+
+5582 Neither(5613) 31 725 157 135 3004 1929 573 witnesse(5614)
+31 confirme(5615) 1003 speech.(5616)
+1140 3247 138 42 Taper.(5617)
+
+Lo(5618) 725 2476 2686 4648 11 12 1478 937 guise,(5619) 83 1239
+1003 2461 5055 asleepe:(5620) obserue(5621) 5587 3126 1043
+
+5361 1579 2127 2686 104 198 light?(5622)
+5582 483 197 2126 104 her:(5623) 2686 3146 light(5624) 104 1478 continually,(5625)
+1823 1478 3151
+
+5361 405 208 1478 3486 24 62
+
+5582 3580 206 1228 sense(5626) 24 2486
+
+5361 1039 12 197 2686 3395 2526
+1542 402 2686 rubbes(5627) 1478 5144
+
+5582 510 12 59 accustom'd(5628) action(5629) 138 5587 31 1597
+935 washing(5630) 1478 2917 379 1509 2029 1478 continue(5631) 47
+48 42 quarter(5632) 4 59 2736
+
+Lad.(5633) 1540 4727 42 spot(5634)
+
+5361 Heark,(5635) 2686 speaks,(5636) 379 204 585 1760 1081 1376
+120 5587 31 satisfie(5637) 1003 3193 20 213 strongly(5638)
+
+2414 Out(5639) 1248 spot:(5640) 919 379 say.(5641) One:(5642) Two:(5643) 483
+252 1823 151 31 doo't:(5644) 3038 12 murky.(5645) Fye,(5646) 1003 1320 fie,(5647)
+42 5473 83 affear'd?(5648) 1081 101 132 feare?(5649) 183 4712
+329 785 2580 512 1770 13 2180 31 accompt:(5650) 1592 183
+385 1509 2135 20 olde(5651) 1194 31 1509 922 325 1656
+2654 47 993
+
+5361 65 52 marke(5652) 1195
+5632 71 1377 4 Fife,(5653) 922 42 wife:(5654) 1473 12 2686 2526
+1039 204 17 5144 5508 29 cleane?(5655) 1309 213 o'that(5656)
+1003 1320 573 213 o'that:(5657) 52 marre(5658) 26 138 48 starting(5659)
+
+5361 Go(5660) 3127 419 1714
+405 1509 2029 1081 52 113 66
+
+5582 2755 3146 1946 1081 5580 113 533 379 1360 30
+4 4078 2272 4712 1081 2686 3146 2029
+
+2414 3561 20 smell(5661) 4 20 2654 still:(5662) 26 20 perfumes(5663)
+4 Arabia(5664) 204 66 sweeten(5665) 48 3016 4752
+3292 oh,(5666) 3072
+
+5361 1039 42 sigh(5667) 12 903 71 hart(5668) 12 sorely(5669) charg'd(5670)
+
+5582 379 385 66 1509 165 42 2147 47 1003 bosome,(5671)
+34 20 dignity(5672) 4 20 4209 body(5673)
+
+5361 3524 2404 1365
+
+5582 4143 1388 197 29 sir(5674)
+
+5361 11 disease(5675) 12 2284 1003 practise:(5676) 1592 379 1509
+2029 182 123 1509 walkt(5677) 47 1228 5600 183 1509
+dyed(5678) holily(5679) 47 1228 beds(5680)
+
+5632 Wash(5681) 35 1278 1062 55 35 3024
+1588 66 325 pale:(5682) 379 491 52 1592 2911 3674 buried;(5683)
+1005 628 1044 919 on's(5684) graue(5685)
+
+5361 3455 1716
+2112 70 5584 31 bed:(5686) 3403 3011 44 20 gate:(5687)
+2762 1165 1165 1165 1504 1123 35 2425 3199
+1152 628 29 2177 70 5584 31 5584 31 2713
+
+2218 2112
+
+5361 2497 2686 419 142 31 bed?(5688)
+5582 Directly(5689)
+
+5361 Foule(5690) whisp'rings(5691) 24 abroad:(5692) vnnaturall(5693) 2929
+65 breed(5694) 5692 troubles:(5695) infected(5696) mindes(5697)
+70 1228 deafe(5698) pillowes(5699) 204 discharge(5700) 1228 Secrets:(5701)
+2003 needs(5702) 2686 20 Diuine,(5703) 252 20 Physitian:(5704)
+God,(5705) 1388 5565 1432 2454 1542 2101 5587
+Remoue(5706) 120 1478 20 5409 4 26 annoyance,(5707)
+1226 380 2246 3486 1239 5622 1083 goodnight,(5708)
+991 5486 2686 3146 mated,(5709) 83 amaz'd(5710) 1003 sight.(5711)
+379 4460 206 2570 66 1384
+
+5582 1619 2413 322 5358
+
+1179
+
+
+1180 1181
+
+1551 83 Colours.(5712) 1140 Menteth,(5713) Cathnes,(5714) 2333 1187
+Soldiers.(5715)
+
+Ment.(5716) 71 3076 2180 12 neere,(5717) led(5718) 55 104 Malcolm,(5719)
+1732 Vnkle(5720) 4494 83 20 322 3196
+Reuenges(5721) burne(5722) 47 1693 34 1228 4211 4320
+1702 31 20 bleeding,(5723) 83 20 grim(5724) Alarme(5725)
+Excite(5726) 20 mortified(5727) 1194
+
+1761 Neere(5728) 4786 wood(5729)
+1534 132 1365 1145 2116 198 1114 24 607 2133
+
+Cath.(5730) 1204 4712 376 4440 29 138 1019 brother?(5731)
+4283 350 3794 1620 1005 12 1801 379 1509 42 File(5732)
+1243 26 20 Gentry;(5733) 495 12 Seywards(5734) 3828
+1226 982 vnruffe(5735) youths,(5736) 198 1986 142
+Protest(5737) 1228 188 4 Manhood(5738)
+
+5715 1039 3395 20 4477
+
+5729 1433 Dunsinane(5739) 1005 5637 Fortifies:(5740)
+714 1340 4050 mad:(5741) Others,(5742) 198 lesser(5743) 1650 1281
+65 1770 197 1290 Fury,(5744) 206 34 3794
+1528 628 buckle(5745) 1019 distemper'd(5746) 3610
+3427 20 belt(5747) 4 Rule(5748)
+
+1761 2798 3395 1005 2286
+1732 secret(5749) 4193 2612 55 1019 1278
+2798 minutely(5750) Reuolts(5751) vpbraid(5752) 1019 Faith-breach:(5753)
+3294 1005 commands,(5754) moue(5755) 2002 47 command,(5756)
+1745 47 loue:(5757) 2798 3395 1005 2286 1019 1458
+1525 2140 215 1281 559 42 Giants(5758) Robe(5759)
+1162 42 dwarfish(5760) Theefe(5761)
+
+5715 1204 252 1144 4121
+1732 pester'd(5762) Senses(5763) 31 recoyle,(5764) 83 1621
+362 26 198 12 542 1281 3395 condemne(5765)
+510 2523 34 931 495
+
+5729 3524 march(5766) 132 3122
+70 1504 3479 1473 1823 5343 ow'd:(5767)
+Meet(5768) 132 20 Med'cine(5769) 4 20 3766 Weale,(5770)
+1226 138 993 poure(5771) 132 47 13 4110 purge,(5772)
+2665 drop(5773) 4 1432
+
+1378 1337 325 1656 255 197 needes,(5774)
+70 dew(5775) 20 Soueraigne(5776) Flower,(5777) 83 2515 20 Weeds:(5778)
+3480 132 13 March(5779) 2432 Birnan.(5780)
+
+1179 marching.(5781)
+
+
+4020 1465
+
+1140 1614 Doctor,(5782) 83 1940
+
+1577 2647 1123 573 213 Reports,(5783) 1931 987 flye(5784) all:(5785)
+1273 Byrnane(5786) 5728 5408 31 Dunsinane,(5787)
+379 628 taint(5788) 138 Feare.(5789) 3199 20 Boy(5790) Malcolme?(5791)
+1987 1005 66 2491 4 woman?(5792) 71 2181 198 1668
+337 2117 Consequences,(5793) 1509 pronounc'd(5794) 1123 thus:(5795)
+4967 66 1614 573 1194 2310 2491 4 4738
+1534 1158 1509 3791 1239 1996 2175 4906 2675 2045
+1226 4025 138 20 3076 Epicures,(5796)
+71 5486 379 sway(5797) by,(5798) 83 20 2147 379 beare,(5799)
+1534 4135 sagge(5800) 138 doubt,(5801) 157 3189 138 feare.(5802)
+1140 3635
+
+71 diuell(5803) damne(5804) 1505 blacke,(5805) 1215 cream-fac'd(5806) Loone:(5807)
+1160 got'st(5808) 1215 198 Goose-looke(5809)
+
+Ser.(5810) 1164 12 288 289
+
+1577 Geese(5811) Villaine?(5812)
+5809 Souldiers(5813) 2690
+
+1577 5659 2518 1366 5066 83 ouer-red(5814) 1366 1622
+1658 Lilly-liuer'd(5815) Boy.(5816) 1039 Soldiers,(5817) Patch?(5818)
+2867 4 1366 3711 182 Linnen(5819) cheekes(5820) 4 1774
+1628 Counsailers(5821) 31 5801 1039 Soldiers(5822) Whay-face?(5823)
+5809 71 3076 Force,(5824) 325 190 52
+
+1577 4240 1366 3449 4257 Seyton,(5825) 379 1360 sick(5826) 44 hart,(5827)
+362 379 behold:(5828) 5824 379 1644 48 4201
+2497 4845 1123 2416 116 dis-eate(5829) 1123 4509
+379 1509 3265 782 1935 1003 1114 4 2461
+1941 falne(5830) 810 20 Seare,(5831) 20 yellow(5832) 1921
+1226 198 123 113 accompany(5833) Old-Age,(5834)
+916 1769 2289 3479 Troopes(5835) 4 4030
+379 553 66 1588 31 haue:(5836) 206 47 1228 steed,(5837)
+Curses,(5838) 66 lowd(5839) 206 2388 Mouth-honor,(5840) 1700
+1265 20 2572 2147 385 faine(5841) deny,(5842) 83 2570 1642
+Seyton?(5843)
+1140 Seyton.(5844)
+
+Sey.(5845) 3199 35 3677 3634
+1577 1039 Newes(5846) more?(5847)
+5844 337 12 confirm'd(5848) 1003 1320 123 963 reported(5849)
+
+1577 1460 4924 161 120 1003 bones,(5850) 1003 flesh(5851) 29 hackt.(5852)
+1482 1123 1003 Armor(5853)
+
+Seyt.(5854) 3248 66 needed(5855) 1592
+
+1577 1460 1062 197 3869
+Send(5856) 919 moe(5857) 3466 skirre(5858) 20 5136 round,(5859)
+1525 182 198 talke(5860) 4 5788 1482 1123 2427 Armor:(5861)
+1579 3395 35 Patient,(5862) Doctor?(5863)
+5361 1654 325 sicke(5864) 1003 1320
+916 2686 12 3437 138 thicke-comming(5865) 3864
+1157 2246 1478 120 1478 1741
+
+1577 Cure(5866) 4 4078
+Can'st(5867) 1215 66 Minister(5868) 31 42 5486 diseas'd,(5869)
+Plucke(5870) 120 20 Memory(5871) 42 rooted(5872) 3393
+Raze(5873) 919 20 written(5874) troubles(5875) 4 20 2629
+1226 138 308 5266 Obliuious(5876) Antidote(5877)
+Cleanse(5878) 20 stufft(5879) 5670 4 198 perillous(5880) stuffe(5881)
+1265 weighes(5882) 1239 20 heart?(5883)
+5361 Therein(5884) 20 Patient(5885)
+2312 minister(5886) 31 2220
+
+1577 Throw(5887) Physicke(5888) 31 20 Dogs,(5889) 1460 2580 4 759
+2762 1062 2427 Armour(5890) 3869 1504 1123 1003 Staffe:(5891)
+5824 387 2696 5781 20 Thanes(5892) 5783 120 907
+1902 3571 dispatch.(5893) 245 1215 could'st(5894) 5781 2544
+71 1691 4 1003 1561 1972 1478 Disease,(5895)
+1226 purge(5896) 197 31 42 1624 83 pristine(5897) Health,(5898)
+379 385 3948 1505 31 20 937 Eccho,(5899)
+1157 113 3948 4086 Pull't(5900) 1102 379 1644
+1039 Rubarb,(5901) Cyme,(5902) 116 1081 Purgatiue(5903) drugge(5904)
+1702 scowre(5905) 17 3076 hence:(5906) hear'st(5907) 5124 4 4992
+5361 379 1003 322 3617 35 1638 Preparation(5908)
+Makes(5909) 1432 2890 327
+
+1577 2647 197 2101 907
+379 204 66 29 5413 4 2867 83 Bane,(5910)
+1273 Birnane(5911) Forrest(5912) 1044 31 5738
+
+5361 1704 379 120 5738 3360 83 cleere,(5913)
+Profit(5914) 2911 113 hardly(5915) 4395 1123 heere.(5916)
+
+1179
+
+1180 1937
+
+1551 83 5711 1140 1939 4494 4718
+5733 3828
+5712 5713 2333 83 5821 Marching.(5917)
+
+3389 Cosins,(5918) 379 1130 20 2618 24 3406 44 1557
+1157 Chambers(5919) 204 29 2020
+
+5715 50 5011 197 1887
+
+Seyw.(5920) 1039 5728 12 48 37 3359
+5715 71 5728 4 5910
+
+3389 1923 1754 1206 hew(5921) 993 1760 42 Bough,(5922)
+1226 bear't(5923) 37 1281 thereby(5924) 1144 132 shadow(5925)
+71 numbers(5926) 4 13 Hoast,(5927) 83 1124 discouery(5928)
+Erre(5929) 47 1342 4 1432
+
+Sold.(5930) 510 1144 29 1461
+
+Syw.(5931) 50 learne(5932) 573 1510 206 20 confident(5933) 4477
+Keepes(5934) 380 47 5786 83 204 indure(5935)
+1452 1099 1760 befor't(5936)
+
+3389 3248 1019 5489 hope:(5937)
+350 1473 495 12 aduantage(5938) 31 29 4092
+81 213 83 1815 1509 1857 993 20 Reuolt,(5939)
+1226 2580 serue(5940) 138 1281 206 constrained(5941) 506
+1863 hearts(5942) 24 absent(5943) 1255
+
+3095 1923 13 3979 Censures(5944)
+3633 20 4164 euent,(5945) 83 1062 132 55
+Industrious(5946) Souldiership(5947)
+
+5844 71 151 approaches,(5948)
+1157 204 138 1096 decision(5949) 1124 1432 1668
+1039 132 1144 1340 132 2171 83 1081 132 owe:(5950)
+4423 speculatiue,(5951) 1228 vnsure(5952) 4400 relate,(5953)
+636 3794 issue,(5954) 1349 553 arbitrate,(5955)
+Towards(5956) which,(5957) aduance(5958) 20 warre.(5959)
+
+1179 marching(5960)
+
+1180 2108
+
+1140 1614 5824 909 Souldiers,(5961) 138 1551 83 5711
+
+1577 1525 919 13 1396 55 20 outward(5962) walls,(5963)
+71 Cry(5964) 12 3503 607 come:(5965) 13 4673 4393
+2497 2904 42 Siedge(5966) 31 scorne:(5967) 3488 1931 987 lye,(5968)
+1273 Famine(5969) 83 20 Ague(5970) 3484 987 4668
+1704 607 66 forc'd(5971) 138 182 198 113 29 ours,(5972)
+50 493 1509 2113 987 darefull,(5973) beard(5974) 31 beard,(5975)
+1226 4999 987 backward(5976) home.(5977) 1039 12 198 2891
+
+173 5963 542 4 Women.(5978)
+
+5844 510 12 20 1363 4 women,(5979) 1003 322 3581
+
+1577 379 1509 2210 forgot(5980) 20 taste(5981) 4 Feares:(5982)
+71 151 3146 1468 1003 2343 385 1509 cool'd(5983)
+70 2890 42 Night-shrieke,(5984) 83 1003 5544 4 4810
+1702 44 42 1411 Treatise(5985) rowze,(5986) 83 1894
+916 2461 852 in't.(5987) 379 1509 supt(5988) 2027 138 horrors,(5989)
+Direnesse(5990) familiar(5991) 31 1003 slaughterous(5992) 2705
+1853 1599 start(5993) 1988 3308 963 198 cry?(5994)
+5844 71 5288 2137 Lord)(5995) 12 2211
+
+1577 2755 113 1509 dy'de(5996) heereafter;(5997)
+1164 385 1509 1962 42 151 34 165 42 4874
+70 2292 83 31 2292 83 31 2292
+Creepes(5998) 47 48 petty(5999) pace(6000) 120 164 31 966
+70 20 163 5070 4 Recorded(6001) 3267
+1226 26 13 yesterdayes,(6002) 1509 lighted(6003) Fooles(6004)
+71 1114 31 dusty(6005) death.(6006) Out,(6007) 2607 breefe(6008) Candle,(6009)
+2951 206 42 walking(6010) Shadow,(6011) 42 2572 Player,(6012)
+1157 struts(6013) 83 frets(6014) 1019 2736 1239 20 Stage,(6015)
+1226 252 12 2684 573 3557 510 12 42 1750
+Told(6016) 104 59 Ideot,(6017) 2027 4 1624 83 fury(6018)
+Signifying(6019) nothing.(6020)
+1140 42 2194
+
+1658 com'st(6021) 31 1449 1366 2305 1366 Story(6022) 5492
+
+5007 5470 1003 1320
+379 113 1342 198 123 379 1340 379 saw,(6023)
+636 1668 66 402 31 doo't(6024)
+
+1577 3524 1340 5673
+
+5007 916 379 948 3126 1003 watch(6025) 1239 20 4774
+379 3327 1924 Byrnane,(6026) 83 3840 1123 2135
+71 4785 1410 31 5754
+
+1577 Lyar,(6027) 83 Slaue(6028)
+
+5007 1923 1123 endure(6029) 35 wrath,(6030) 3673 29 66 2030
+3427 48 1141 Mile(6031) 176 52 208 197 comming.(6032)
+379 1644 42 mouing(6033) Groue(6034)
+
+1577 245 1215 4978 2167
+1162 20 63 4751 1144 1215 4991 4245
+1273 5968 1224 2764 245 1366 speech(6035) 29 1341
+379 2102 66 376 1215 4224 34 1123 255 much.(6036)
+379 5509 47 Resolution,(6037) 83 3963
+70 5011 1589 Equiuocation(6038) 4 20 Fiend,(6039)
+1157 lies(6040) 559 truth.(6041) 4967 533 161 5785 4785
+65 1044 31 5786 83 142 42 4785
+5360 1924 Dunsinane.(6042) 1425 1425 83 2607
+245 48 123 1005 auouches,(6043) 3395 appeare,(6044)
+1164 12 157 flying(6045) 3346 157 tarrying(6046) 412
+379 'ginne(6047) 31 29 a-weary(6048) 4 20 Sun,(6049)
+1226 184 1589 estate(6050) 1496 3489 852 142 vndon.(6051)
+3222 20 1182 Bell,(6052) 2452 Winde,(6053) 1044 1800
+298 211 4041 dye(6054) 138 Harnesse(6055) 55 13 backe.(6056)
+
+1179
+
+1180 2329
+
+Drumme(6057) 83 5711 1140 1939 4494 4718 83
+1228 Army,(6058)
+138 Boughes.(6059)
+
+1202 2798 3406 1935
+1648 leauy(6060) Skreenes(6061) 1964 2078
+1226 1544 559 182 52 4768 405 (worthy(6062) Vnkle)(6063)
+1534 138 1003 Cosin(6064) 35 1127 1463 3671
+Leade(6065) 13 188 Battell.(6066) 1907 4718 83 1908
+1534 41 3618 1081 2079 remaines(6067) 31 205
+3744 31 13 4282
+
+5844 5295 52 well:(6068)
+65 132 206 1972 20 4471 3791 31 4284
+1923 1432 29 beaten,(6069) 376 132 628 3380
+
+3095 3480 26 13 Trumpets(6070) speak,(6071) 1504 2849 26 1700
+3294 clamorous(6072) Harbingers(6073) 4 2793 909 Death.(6074)
+
+1179
+
+Alarums(6075) continued.(6076)
+
+
+1180 2435
+
+1140 1036
+
+1577 490 1509 tied(6077) 1123 31 42 stake,(6078) 379 628 4008
+636 Beare-like(6079) 379 553 3380 20 course.(6080) 3199 1005
+1157 963 66 2491 4 Woman?(6081) 2557 42 145
+Am(6082) 379 31 2919 116 5242
+1140 3192 Seyward.(6083)
+
+Y.Sey.(6084) 1039 12 1366 name?(6085)
+1577 Thou'lt(6086) 29 5413 31 2890 197
+
+6083 No:(6087) 1016 1215 call'st(6088) 1366 911 42 hoter(6089) 1020
+2175 135 12 47 hell(6090)
+
+1577 991 name's(6091) 103
+
+6083 71 5802 2220 406 66 1455 42 1458
+2003 hatefull(6092) 31 2427 eare(6093)
+
+1577 6086 157 213 fearefull(6094)
+
+6083 1658 lyest(6095) abhorred(6096) 5079 138 1003 4892
+1460 proue(6097) 20 2967 1215 speak'st.(6098)
+
+Fight,(6099) 83 3192 5347 slaine.(6100)
+
+1577 1658 2582 2491 4 woman;(6101)
+636 5562 379 smile(6102) 3463 Weapons(6103) 2904 31 scorne,(6104)
+Brandish'd(6105) 104 1194 2310 4 42 Woman(6106) 4427
+2093
+
+Alarums.(6107) 1140 3162
+
+3095 1157 1114 20 4799 is:(6108) 4477 1544 1366 5066
+245 1215 beest(6109) slaine,(6110) 83 138 573 stroake(6111) 4 1568
+991 1476 83 Childrens(6112) Ghosts(6113) 204 haunt(6114) 1123 5661
+379 628 2756 44 5363 Kernes,(6115) 1879 armes(6116)
+1628 hyr'd(6117) 31 1755 1228 Staues;(6118) 752 1215 1614
+1337 2079 1003 4892 138 59 vnbattered(6119) 4891
+379 sheath(6120) 2911 vndeeded.(6121) 1164 1215 should'st(6122) 4263
+80 48 1007 clatter,(6123) 145 4 1809 681
+Seemes(6124) bruited.(6125) 1923 1123 1972 993 1262
+1226 213 379 begge(6126) 1642
+
+Exit.(6127) 6106
+
+1140 3226 83 6082
+
+5844 11 1114 1003 1320 20 4673 gently(6128) rendred:(6129)
+71 4471 2541 55 1797 2519 133 4924
+71 1463 5891 133 brauely(6130) 47 20 Warre,(6131)
+71 164 2210 197 911 professes(6132) yours,(6133)
+1226 3016 12 31 133
+
+3389 50 1509 2113 138 Foes(6134)
+1157 2756 beside(6135) 1432
+
+5844 1140 1620 20 Castle.(6136)
+
+1179 1182
+
+1140 1036
+
+1577 483 113 379 953 20 Roman(6137) 4898 83 6053
+2061 2427 2033 sword?(6138) whiles(6139) 379 208 liues,(6140) 20 4076
+65 152 1239 1077
+1140 3162
+
+3095 Turne(6141) Hell-hound,(6142) 1920
+
+1577 1243 26 2298 2079 379 1509 auoyded(6143) 2764
+636 96 1505 4519 1003 5304 12 1255 1656 5669
+1323 2654 4 1774 839
+
+3095 379 1509 573 4469
+991 voice(6144) 12 47 1003 Sword,(6145) 1215 bloodier(6146) 5039
+2175 tearmes(6147) 512 1504 1505 out.(6148)
+
+Fight:(6149) 1182
+
+1577 1658 loosest(6150) 2026
+916 3019 4009 1215 20 intrenchant(6151) 4848
+1323 1366 2268 4892 impresse,(6152) 255 1124 1123 bleed:(6153)
+1923 2077 1366 blade(6154) 55 vulnerable(6155) Crests,(6156)
+379 1755 42 4562 1787 123 553 66 1862
+70 145 4 4738 2491
+
+3095 Dispaire(6157) 1366 Charme,(6158)
+1226 1931 20 4532 1977 1215 380 1467 seru'd(6159)
+4710 1368 4472 963 120 1019 Mothers(6160) womb(6161)
+Vntimely(6162) ript(6163)
+
+1577 Accursed(6164) 29 198 5495 198 tels(6165) 4250 so;(6166)
+350 197 1462 Cow'd(6167) 1003 152 525 4 2586
+1226 29 17 Iugling(6168) Fiends(6169) 573 213 beleeu'd,(6170)
+1157 palter(6171) 138 1432 47 42 1345 sence,(6172)
+1157 2246 20 777 4 promise(6173) 31 13 3250
+1226 2583 197 31 13 3555 1460 66 3380 138 1505
+
+3095 2175 1862 1505 Coward,(6174)
+1226 914 31 29 20 shew,(6175) 83 gaze(6176) 1496 2301
+4085 1509 1368 255 13 rarer(6177) Monsters(6178) 24
+Painted(6179) 1239 42 pole,(6180) 83 vnder-writ,(6181)
+3488 176 52 208 20 4477
+
+1577 379 204 66 1862
+70 3452 20 ground(6182) 37 3192 Malcolmes(6183) 5292
+1226 31 29 baited(6184) 138 20 Rabbles(6185) curse.(6186)
+1538 5785 5728 29 1044 31 5786
+1226 1215 oppos'd,(6187) 931 4 573 4738 5453
+1540 379 204 207 20 last.(6188) Before(6189) 1003 body,(6190)
+379 1964 1003 4493 Shield:(6191) 2146 55 4718
+1226 4870 29 1281 198 188 cries(6192) 2277 enough.(6193)
+
+1179 fighting.(6194) 6106
+
+1140 Fighting,(6195) 83 103 6099
+
+Retreat,(6196) 83 1938 1140 138 6056 83 Colours,(6197) 5718
+4494
+1982 2045 909 5714
+
+1202 379 385 20 3535 132 misse,(6198) 852 2020 arriu'd(6199)
+
+5844 714 553 419 2503 83 1592 104 17 379 4831
+1083 1007 42 164 255 48 12 cheapely(6200) 2538
+
+1202 4472 12 missing,(6201) 83 35 1463 3671
+
+1387 1648 son(6202) 1003 1320 3146 539 42 souldiers(6203) debt,(6204)
+1528 2002 3265 206 161 1005 963 42 2577
+71 123 573 1310 922 1019 Prowesse(6205) 5847
+887 20 vnshrinking(6206) 3755 1473 1005 fought,(6207)
+636 559 42 1194 1005 5995
+
+5844 2175 1005 12 dead?(6208)
+1387 3580 83 4298 1102 20 field:(6209) 35 3610 4 5422
+2312 66 29 measur'd(6210) 104 1019 worth,(6211) 34 252
+510 1462 573 304
+
+5844 2882 1005 1019 hurts(6212) before?(6213)
+1387 3580 55 20 5559
+
+5844 483 3630 3068 Soldier(6214) 29 he:(6215)
+2882 379 255 982 2043 255 379 1509 haires,(6216)
+379 385 66 184 987 31 42 fairer(6217) death:(6218)
+1226 325 1019 Knell(6219) 12 knoll'd(6220)
+
+1202 2475 2787 213 sorrow,(6221)
+83 198 1460 971 34 993
+
+5844 5035 2787 573 2579
+490 1340 1005 parted(6222) 2404 83 539 1019 score,(6223)
+1226 325 1388 29 138 2433 1545 1376 newer(6224) comfort.(6225)
+1140 4718 138 2109 head.(6226)
+
+3095 1210 1184 34 325 1215 art.(6227)
+Behold(6228) 1473 5283
+2249 Vsurpers(6229) 2704 head:(6230) 20 151 12 free:(6231)
+379 208 1505 compast(6232) 138 1366 1757 Pearle,(6233)
+1157 1384 1003 salutation(6234) 47 1228 minds:(6235)
+1863 voyces(6236) 379 2120 alowd(6237) 138 mine.(6238)
+1210 915 4 5238
+
+1167 1210 915 4 5299
+
+1938
+
+1202 50 1144 66 971 42 4039 expence(6239) 4 869
+6188 132 reckon(6240) 138 35 5259 loues,(6241)
+1226 1124 1432 1986 138 509 991 5891 83 Kinsmen(6242)
+Henceforth(6243) 29 Earles,(6244) 20 188 198 2326 5238
+887 165 59 828 nam'd:(6245) 3199 213 31 205
+1265 385 29 planted(6246) newly(6247) 138 20 869
+916 calling(6248) 2408 13 exil'd(6249) 3535 abroad,(6250)
+1157 4015 20 Snares(6251) 4 watchfull(6252) Tyranny,(6253)
+Producing(6254) 586 20 3604 Ministers(6255)
+1243 48 2211 Butcher,(6256) 83 1019 Fiend-like(6257) Queene;(6258)
+1204 816 1823 thought)(6259) 104 911 83 3317 1278
+Tooke(6260) 1102 1478 5341 This,(6261) 83 1081 101 2027 2079
+1157 call's(6262) 1239 2374 104 20 3273 4 1635
+50 204 2640 47 measure,(6263) 869 83 place:(6264)
+1083 thankes(6265) 31 26 44 4280 83 31 222 3004
+3769 132 inuite,(6266) 31 208 1432 Crown'd(6267) 44 Scone.(6268)
+
+1938 Exeunt(6269) Omnes.(6270)
+
+
+FINIS.(6271) 673 TRAGEDIE(6272) 634 MACBETH.(6273)

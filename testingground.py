@@ -154,24 +154,24 @@
 #######fib
 # import sys
 
-fibseq = [0,1]
-lenfibseq = []
-lenlenfibseq = []
-lenlenlenfibseq = []
-lenlenlenlenfibseq = []
-lenlenlenlenlenfibseq = []
-lenlenlenlenlenlenfibseq = []
+# fibseq = [0,1]
+# lenfibseq = []
+# lenlenfibseq = []
+# lenlenlenfibseq = []
+# lenlenlenlenfibseq = []
+# lenlenlenlenlenfibseq = []
+# lenlenlenlenlenlenfibseq = []
 
-for x in range(2,5000):
-	fibseq.append(fibseq[x-1]+fibseq[x-2])
-for x in range(0,len(fibseq)):
-	lenfibseq.append(len(str(fibseq[x])))
-for x in range(1,len(str(fibseq[-1]))):
-	lenlenfibseq.append(lenfibseq.count(x))
+# for x in range(2,5000):
+# 	fibseq.append(fibseq[x-1]+fibseq[x-2])
+# for x in range(0,len(fibseq)):
+# 	lenfibseq.append(len(str(fibseq[x])))
+# for x in range(1,len(str(fibseq[-1]))):
+# 	lenlenfibseq.append(lenfibseq.count(x))
 
-print(fibseq)
-print(lenfibseq)
-print(lenlenfibseq)
+# print(fibseq)
+# print(lenfibseq)
+# print(lenlenfibseq)
 # print(lenlenlenfibseq)
 # print(lenlenlenlenfibseq)
 # print(lenlenlenlenlenfibseq)
@@ -180,3 +180,113 @@ print(lenlenfibseq)
 # print(lenlenlenlenlenlenlenlenfibseq)
 # print(lenlenlenlenlenlenlenlenlenfibseq)
 # print(lenlenlenlenlenlenlenlenlenlenfibseq)
+
+
+
+######### PRoblem math 8 2017 November
+
+final_list = [6,2,1,0,0,0,1,9,9,9]
+list_to_check = [6,2,1,0,0,0,1,0,0,0]
+
+success_list = []
+
+
+def how_many_in_list(needle, haystack):
+	out = 0
+	for x in haystack:
+		if needle == x:
+			out += 1
+	return out
+
+def move_list_up(idk):
+	list_len = len(idk)-1
+	cont = True
+	while cont:
+		if idk[list_len] == 9:
+			idk[list_len] = 0
+			list_len -= 1
+		else:
+			idk[list_len] += 1
+			cont = False
+	return idk
+
+totalinfothing = []
+
+while final_list != list_to_check:
+	outputinfo = ['',]
+	outputinfo.append("Check for number " + ''.join([str(n) for n in list_to_check]) + ":")
+	#print("\n"+"Check for number " + ''.join([str(n) for n in list_to_check]) + ":")
+	success = True
+	for i, thing in enumerate(list_to_check):
+		is_something = thing != how_many_in_list(i, list_to_check)
+		if is_something:
+			outputinfo.append("The digit in position " + str(i+1) + " of this number does not follow the specified rules as there are not exactly " + str(thing) + ", " + str(i) +"'s.")
+			#print("The digit in position " + str(i+1) + " of this number does not follow the specified rules as there are not exactly " + str(thing) + ", " + str(i) +"'s.")
+			success = False
+			break
+		else:
+			outputinfo.append("The digit in position " + str(i+1) + " of this number follows the specified rule as exactly " + str(thing) + ", " + str(i) +"s are present.")
+			#print("The digit in position " + str(i+1) + " of this number follows the specified rule as exactly " + str(thing) + ", " + str(i) +"s are present.")
+
+	if success:
+		outputinfo.append("Every digit in this number follows the set rules, hence this number is valid under the prerequisits of the test")
+		#print("Every digit in this number follows the set rules, hence this number is valid under the prerequisits of the test")
+		x = list_to_check
+		success_list.append([])
+		success_list[len(success_list)-1].extend(x)
+		#print(list_to_check)
+	else:
+		outputinfo.append("As not every digit in this number follows the set rules, this number is invalid under the prerequisits of the test")
+		#print("As not every digit in this number follows the set rules, this number is invalid under the prerequisits of the test")
+	
+	totalinfothing.extend(outputinfo)
+	# for line in outputinfo:
+	# 	print(line)
+
+
+	list_to_check = move_list_up(list_to_check)
+
+totalinfothing.append('')
+totalinfothing.append("Hence from the results above one can see that the possible combinations for numbers which are valid according to our test are:")
+for success_num in success_list:
+	totalinfothing.append(''.join([str(x) for x in success_num]))
+
+for line in totalinfothing:
+	print(line)
+
+with open("problemmath-8-2017/problemmath-8-2017-writeup.txt", "w") as output_file:
+    for line in totalinfothing:
+    	output_file.write('\n' + line)
+#print(success_list)
+
+
+############# Abbreviation thing
+
+# word_list = []
+
+# with open ("abvt/hamlet.txt", "r") as inputfile:
+#     lines = inputfile.readlines()
+
+# out_lines = []
+# for line in lines:
+# 	words = line.split()
+# 	outwords = []
+# 	for word in words:
+# 		if word not in word_list:
+# 			word_list.append(word)
+# 			outwords.append(word + "(" + str(len(word_list)) + ")")
+# 		else:
+# 			word_index = str([i for i, j in enumerate(word_list) if j == word][0])
+# 			outwords.append(word_index)
+# 	out_lines.append(' '.join(outwords))
+
+# with open("abvt/hamletabvr.txt", "w") as outputfile:
+# 	for line in out_lines:
+# 		print(line)
+# 		outputfile.write(line + '\n')
+
+
+
+
+
+
